@@ -1,0 +1,100 @@
+* Makoto							    :@makoto:
+** Alex								       :alex:
+
+** Akuma							:akuma:gouki:
+
+** Dudley							     :dudley:
+*** Zoning with crHK						   :footsies:
+
+** ChunLi							     :chunli:
+
+** Elena							      :elena:
+
+** Gill								       :gill:
+
+** Hugo								       :hugo:
+
+** Ibuki							      :ibuki:
+*** 2-hit 100% combo							:fun:
+    3 taunts, SA3, HP Fukiage inside Ibuki's special dash, jump cancel HK Tsurugi
+    [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
+
+** Ken									:ken:
+
+** Necro							      :necro:
+
+** Oro									:oro:
+
+** Q									  :q:
+
+** Remy								       :remy:
+
+** Ryu									:ryu:
+
+** Sean								       :sean:
+
+** Twelve							     :twelve:
+
+** Urien							      :urien:
+
+** Yang								       :yang:
+
+** Yun									:yun:
+
+** Alex and Hugo						  :alex:hugo:
+*** TODO EX Hayate corner juggle
+    HP or LP Hayate
+
+** Shotos					   :akuma:gouki:ken:ryu:sean:
+
+** Twins							   :yang:yun:
+
+** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
+   
+* Alex								      :@alex:
+
+* Akuma 						      :@akuma:@gouki:
+** Twelve							     :twelve:
+*** 1 hit 100%								:fun:
+    Kongou Kokuretsu Zan during Twelve's XCOPY
+    [[https://www.youtube.com/watch?v=TH_nIcOAfdQ][Video]]
+
+* ChunLi							    :@chunli:
+
+* Dudley							    :@dudley:
+
+* Elena								     :@elena:
+
+* Gill								      :@gill:
+
+* Hugo								      :@hugo:
+
+* Ibuki								     :@ibuki:
+
+* Ken								       :@ken:
+
+* Necro								     :@necro:
+
+* Oro								       :@oro:
+
+* Q									 :@q:
+
+* Remy								      :@remy:
+
+* Ryu								       :@ryu:
+
+* Sean								      :@sean:
+
+* Twelve							    :@twelve:
+
+* Urien								     :@urien:
+
+* Yang								      :@yang:
+
+* Yun								       :@yun:
+
+* Shotos				      :@akuma:@gouki:@ken:@ryu:@sean:
+
+* Twins								 :@yang:@yun:
+
+* all :@all:@alex:@akuma:@chunli:@dudley:@elena:@gill:@gouki:@hugo:@ibuki:@ken:@makoto:@necro:@oro:@q:@remy:@ryu:@sean:@twelve:@urien:@yang:@yun:
