@@ -1,16 +1,32 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
+*** TODO Fukiage (not EX) to beat the stomp
+*** Mixup: alex rolls after EX Oroshi				:setup:mixup:
+    Do HP xx EX Oroshi. If Alex quickrolls, you can:
+    Super jump HP (crossup) xx LK xx LP Hayate
+    Super jump HK Tsurugi (wiff), Karakusa
+    [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
 
 ** Akuma							:akuma:gouki:
 
 ** Dudley							     :dudley:
 *** Punish EX Machine Gun Blow (-15) 				     :punish:
     cr MP or HP Hayate
+
 *** TODO Punish Cross Counter (not EX)				     :punish:
     MP xx HP Fukiage xx super jump cancel HK
+
 *** Zoning with crHK						   :footsies:
+*** Mixup: dudley rolls after EX Hayate
+    Dash, then super jump HP (crossup) or Dash, then super jump karakusa
+    [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
 
 ** ChunLi							     :chunli:
+*** Low parry then Fukiage to beat low xx Hazan Shu
+[[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
+
+*** Double Fukiage						  :sa2:combo:
+[[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 
 ** Elena							      :elena:
 
@@ -20,6 +36,7 @@
 *** TODO EX Oroshi xx SA2					      :combo:
     Will connect in the corner
 
+*** Zoning with crMK						   :footsies:
 ** Ibuki							      :ibuki:
 *** 2-hit 100% combo							:fun:
     3 taunts, SA3, HP Fukiage inside Ibuki's special dash, jump cancel HK Tsurugi
@@ -45,6 +62,8 @@
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
 
 ** Remy								       :remy:
+*** TODO Punish SA2 Supreme Rising Rage Flash
+[[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 
 ** Ryu									:ryu:
 *** Punish SA2 Shin Shoryuken (-25)				     :punish:
@@ -57,17 +76,27 @@
 ** Urien							      :urien:
 *** Punish crHP	(-10) 						     :punish:
     Punish with MP or LK
-*** Dash under EX Metallic Sphere
+
+*** Crouch or Dash under EX Metallic Sphere
+    Then you can do Fukiage 
+    [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
+
 *** TODO Parry Chariot Rush, then HP Fukiage			      :parry:
+*** EX Fukiage beats a lot of options
+    Headbutt, most normals...
+
 ** Yang								       :yang:
 
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11)			     :punish:
     MP or LK
 
+*** TODO EX Fukiage to punish shoulder and launch punch on reaction
+*** TODO EX Fukiage to punish jump backward at karakusa range
+    If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
+    
 ** Alex and Hugo						  :alex:hugo:
-*** TODO EX Hayate corner juggle
-    HP or LP Hayate
+*** TODO EX Hayate corner juggle with HP
 
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** Punish crHK with Hayate					     :punish:
@@ -82,10 +111,33 @@
 *** MP xx SA1					       :combo:hitconfirm:sa1:
 *** Hayate link SA1				       :combo:hitconfirm:sa1:
     Piano the three punches to have more time
+
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
     As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
+
+*** LP antiair, then dash under
+    From there, either karakusa or HP or MP
+
+*** HP antiair, ex Fukiage if parried
+*** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
+*** TODO Kara-Karakusa after back grab				      :setup:
+*** TODO Kara-Karakusa after meaty MP, MP			      :setup:
+*** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
+    [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
+
+*** OS low parry, Karakusa or jump, ex Tsurugi 				 :os:
+    Input: low parry, super jump, 270° to back, then 2 kicks
+    2 2 8 9 6 3 2 1 4 + 2K
+    [[https://www.youtube.com/watch?v=dcWhlfwILoE&feature=youtu.be][Video]]
+
+*** TODO Parry MP Dash Fukiage Super Jump Fierce		      :reset:
+    When landing, the hitbox is different and Fukiage can hit
+    [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
+    Also works after meaty MP
+    [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
+    
 *** Taunt xx SA1					      :fun:sa1:combo:
 * Alex								      :@alex:
 
@@ -137,9 +189,16 @@
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2				       :punish:parry:
     Last hit can be blue parried after blocking the beginning
+
 ** Hugo								       :hugo:
 *** Block Hammer Frenzy SA3
     The third hit is overhead
+
 ** Q									  :q:
 *** Block Critical Combo Attack
     The fourth hit is low
+
+** Remy								       :remy:
+*** Blue parry the second hit of crouching roundhouse
+** Urien							      :urien:
+*** Watch out for grab after whiffed Headbutt
