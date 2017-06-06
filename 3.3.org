@@ -1,6 +1,10 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
 *** TODO Fukiage (not EX) to beat the stomp
+*** SA1 to punish Air Stampede (stomp) (-3)			 :punish:sa1:
+    Enough range.
+    [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
+
 *** Mixup: alex rolls after EX Oroshi				:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup) xx LK xx LP Hayate
@@ -8,7 +12,7 @@
     [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
 
 ** Akuma							:akuma:gouki:
-
+*** TODO Charged HP Hayate avoid Shun Goku Satsu (super grab)
 ** Dudley							     :dudley:
 *** Punish EX Machine Gun Blow (-15) 				     :punish:
     cr MP or HP Hayate
@@ -66,7 +70,7 @@
 [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 
 ** Ryu									:ryu:
-*** Punish SA2 Shin Shoryuken (-25)				     :punish:
+*** TODO Punish SA2 Shin Shoryuken (-25)			     :punish:
     EX Hayate, EX Hayate
 
 ** Sean								       :sean:
@@ -97,11 +101,13 @@
     
 ** Alex and Hugo						  :alex:hugo:
 *** TODO EX Hayate corner juggle with HP
+    You can reset Alex with Kara-Karakusa after
+    [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
 
+** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
+*** TODO Punish crHK with HP Hayate 				     :punish:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
-*** Punish crHK with Hayate					     :punish:
-    Use HP Hayate
-
+*** TODO When expecting DP, jump parry rather than down block	   :footsies:
 ** Twins							   :yang:yun:
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
@@ -117,7 +123,7 @@
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
     As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
 
-*** LP antiair, then dash under
+*** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP
 
 *** HP antiair, ex Fukiage if parried
@@ -127,12 +133,16 @@
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 
+*** LK before EX Oroshi for range				   :footsies:
+*** Dash after MK Tsurugi					   :footsies:
+*** Low EX Tsurugi against cornered opponent			   :footsies:
+    Use super jump to hit low. 28214+2K
 *** OS low parry, Karakusa or jump, ex Tsurugi 				 :os:
     Input: low parry, super jump, 270° to back, then 2 kicks
     2 2 8 9 6 3 2 1 4 + 2K
     [[https://www.youtube.com/watch?v=dcWhlfwILoE&feature=youtu.be][Video]]
 
-*** TODO Parry MP Dash Fukiage Super Jump Fierce		      :reset:
+*** TODO Parry jump, MP, Dash Fukiage xx Super Jump Fierce 	      :reset:
     When landing, the hitbox is different and Fukiage can hit
     [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
     Also works after meaty MP
