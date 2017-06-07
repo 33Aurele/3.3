@@ -12,7 +12,22 @@
     [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
 
 ** Akuma							:akuma:gouki:
-*** TODO Charged HP Hayate avoid Shun Goku Satsu (super grab)
+*** Cr MK against MK and HK tatsumakis				   :footsies:
+*** TODO Against guarded HK tatsumaki				     :punish:
+    block the two first hits, crouch for the third then blue parry the last one
+    [[https://youtu.be/40sXfFua38M?t=3m34s][Video]]
+    
+*** Don't jump too much						   :footsies:
+    Jump more on reactions (antiair: jump HK, against fireballs...)
+
+*** Punished wiffed far HP with HP Hayate			   :footsies:
+    [[https://youtu.be/40sXfFua38M?t=7m37s][Video]]
+
+*** TODO Dash under karakusa against close, jump back, air hadouken :footsies:
+*** TODO LK tatsumaki that goes above you can be punished with cr LP xx cr LP :punish:
+    You can put sa1 after.
+
+*** TODO Charged HP Hayate avoid Shun Goku Satsu (super grab)		:fun:
 ** Dudley							     :dudley:
 *** Punish EX Machine Gun Blow (-15) 				     :punish:
     cr MP or HP Hayate
@@ -81,10 +96,13 @@
 *** Punish crHP	(-10) 						     :punish:
     Punish with MP or LK
 
+*** Charge Hayates outside of his range 			   :footsies:
+    You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
+
 *** Crouch or Dash under EX Metallic Sphere
     Then you can do Fukiage 
     [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
-
+    
 *** TODO Parry Chariot Rush, then HP Fukiage			      :parry:
 *** EX Fukiage beats a lot of options
     Headbutt, most normals...
@@ -106,8 +124,12 @@
 
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
+    Also works on wiffed crHK
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
+*** HP Fukiage to punish suoer jump tatsumakis crossup		   :footsies:
+    [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
+
 ** Twins							   :yang:yun:
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
@@ -118,20 +140,30 @@
 *** Hayate link SA1				       :combo:hitconfirm:sa1:
     Piano the three punches to have more time
 
+*** MK Tsurugi, SA1				       :combo:hitconfirm:sa1:
+    At a certain range only. After forward jump it will be ok.
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
     As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
 
+*** TODO HK Tsurugi antiair, HP Hayate				      :combo:
+    [[https://youtu.be/40sXfFua38M?t=6m41s][Video]]
+ 
+*** Jump HK, HP xx Hayate					      :combo:
+    Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
+    The ump HK can be replaced with jump HP.
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP
 
 *** HP antiair, ex Fukiage if parried
 *** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
-*** TODO Kara-Karakusa after back grab				      :setup:
+*** TODO Kara-Karakusa after back grab, backward dash 		      :setup:
 *** TODO Kara-Karakusa after meaty MP, MP			      :setup:
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
+
+*** Karakusa after forward LK					      :setup:
 
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
@@ -147,6 +179,10 @@
     [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
     Also works after meaty MP
     [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
+    
+*** Kara SA1 for range!							:sa1:
+    Can wiff punish most medium, hard normals.
+    [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
     
 *** Taunt xx SA1					      :fun:sa1:combo:
 * Alex								      :@alex:
@@ -196,6 +232,15 @@
 * Twins								 :@yang:@yun:
 
 * all :@all:@alex:@akuma:@chunli:@dudley:@elena:@gill:@gouki:@hugo:@ibuki:@ken:@makoto:@necro:@oro:@q:@remy:@ryu:@sean:@twelve:@urien:@yang:@yun:
+** Alex								       :alex:
+*** TODO Back HP cannot be parried
+
+** Akuma							:akuma:gouki:
+*** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
+    Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
+
+*** TODO First hit of Kongou Kokuretsu Zan cannot be parried
+
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2				       :punish:parry:
     Last hit can be blue parried after blocking the beginning
