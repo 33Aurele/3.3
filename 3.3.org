@@ -5,6 +5,7 @@
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
 
+*** TODO Punish roundhouse (boot) (-13) with Hayate 		     :punish:
 *** Mixup: alex rolls after EX Oroshi				:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup) xx LK xx LP Hayate
@@ -26,8 +27,30 @@
 *** TODO Dash under karakusa against close, jump back, air hadouken :footsies:
 *** TODO LK tatsumaki that goes above you can be punished with cr LP xx cr LP :punish:
     You can put sa1 after.
+    You can do down lp+lk to OS tech/crLP.
 
 *** TODO Charged HP Hayate avoid Shun Goku Satsu (super grab)		:fun:
+** ChunLi							     :chunli:
+*** Low parry then Fukiage to beat low xx Hazan Shu
+[[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
+
+*** TODO After Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa  :setup:
+    It works even if the last crLK is blocked
+
+*** TODO Fukiage beats ???
+    [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
+
+*** TODO EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa :setup:
+    [[https://youtu.be/E0J9J87JL7s?t=5m23s][Video]]
+
+*** Reversal SA1 to punish crMK (-2)				 :punish:sa1:
+    [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
+
+*** TODO Punish SA2
+    Blue parry last hit, then neutral jump HK, HP,...
+
+*** Double Fukiage						  :sa2:combo:
+[[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
 *** Punish EX Machine Gun Blow (-15) 				     :punish:
     cr MP or HP Hayate
@@ -39,13 +62,6 @@
 *** Mixup: dudley rolls after EX Hayate
     Dash, then super jump HP (crossup) or Dash, then super jump karakusa
     [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
-
-** ChunLi							     :chunli:
-*** Low parry then Fukiage to beat low xx Hazan Shu
-[[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
-
-*** Double Fukiage						  :sa2:combo:
-[[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 
 ** Elena							      :elena:
 
@@ -106,6 +122,9 @@
 *** TODO Parry Chariot Rush, then HP Fukiage			      :parry:
 *** EX Fukiage beats a lot of options
     Headbutt, most normals...
+    
+*** TODO Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :fun:
+    [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
 
 ** Yang								       :yang:
 
@@ -135,13 +154,14 @@
     Back jump HP to punish divekicks.
 
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
-
 *** MP xx SA1					       :combo:hitconfirm:sa1:
 *** Hayate link SA1				       :combo:hitconfirm:sa1:
     Piano the three punches to have more time
 
 *** MK Tsurugi, SA1				       :combo:hitconfirm:sa1:
     At a certain range only. After forward jump it will be ok.
+
+*** MP Oroshi xx SA1				       :combo:hitconfirm:sa1:
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
@@ -153,6 +173,7 @@
 *** Jump HK, HP xx Hayate					      :combo:
     Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
     The ump HK can be replaced with jump HP.
+
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP
 
@@ -164,11 +185,11 @@
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 
 *** Karakusa after forward LK					      :setup:
-
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
 *** Low EX Tsurugi against cornered opponent			   :footsies:
     Use super jump to hit low. 28214+2K
+
 *** OS low parry, Karakusa or jump, ex Tsurugi 				 :os:
     Input: low parry, super jump, 270° to back, then 2 kicks
     2 2 8 9 6 3 2 1 4 + 2K
@@ -184,6 +205,12 @@
     Can wiff punish most medium, hard normals.
     [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
     
+*** Invincibility after neutral throw
+    Don't push any button and you won't have a hitbox during a short time.
+
+*** Invincibility after SA3 activation					:sa3:
+    Don't push any button and you won't have a hitbox during a short time.
+
 *** Taunt xx SA1					      :fun:sa1:combo:
 * Alex								      :@alex:
 
@@ -194,7 +221,8 @@
     [[https://www.youtube.com/watch?v=TH_nIcOAfdQ][Video]]
 
 * ChunLi							    :@chunli:
-
+** Makoto							     :makoto:
+*** Kara-throw beats Karakusa after Hayate
 * Dudley							    :@dudley:
 
 * Elena								     :@elena:
@@ -244,7 +272,7 @@
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2				       :punish:parry:
     Last hit can be blue parried after blocking the beginning
-
+*** TODO Only spinning bird kick EX and SA as reversal
 ** Hugo								       :hugo:
 *** Block Hammer Frenzy SA3
     The third hit is overhead
