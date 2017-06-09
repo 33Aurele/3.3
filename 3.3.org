@@ -52,9 +52,10 @@
 *** Double Fukiage						  :sa2:combo:
 [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
-*** Punish EX Machine Gun Blow (-15) 				     :punish:
-    cr MP or HP Hayate
-
+*** Punish HP or EX Machine Gun Blow (-15) 			     :punish:
+    HP is close enough
+    [[https://youtu.be/N-fVnPzgTbU?t=57s][Video]]
+    
 *** TODO Punish Cross Counter (not EX)				     :punish:
     MP xx HP Fukiage xx super jump cancel HK
 
@@ -62,6 +63,8 @@
 *** Mixup: dudley rolls after EX Hayate
     Dash, then super jump HP (crossup) or Dash, then super jump karakusa
     [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
+
+*** Fukiage hits stunned Dudley						:fun:
 
 ** Elena							      :elena:
 
@@ -153,6 +156,10 @@
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
 
+** TODO Yang, Dudley, Ibuki				  :dudley:ibuki:yang:
+*** Dash behind them on their wakeup				      :setup:
+    [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
+
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** MP xx SA1					       :combo:hitconfirm:sa1:
 *** Hayate link SA1				       :combo:hitconfirm:sa1:
@@ -202,9 +209,13 @@
     [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
     
 *** Kara SA1 for range!							:sa1:
-    Can wiff punish most medium, hard normals.
+    Can wiff punish most medium, hard normals. Use LK for Kara. If LK hit, the super comboes anyway
     [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
     
+*** Charged DED							    :sa1:sa3:
+    With SA1 and SA3, do DED, but keep the punch button pressed, then press kick shortly after.
+    If the normal is blocked, Hayate will start to charge and then you cancel it.
+
 *** Invincibility after neutral throw
     Don't push any button and you won't have a hitbox during a short time.
 
@@ -285,3 +296,8 @@
 *** Blue parry the second hit of crouching roundhouse
 ** Urien							      :urien:
 *** Watch out for grab after whiffed Headbutt
+
+
+* TODO put the hayate ex corner juggles
+* TODO put the sa2 100% stun combos
+* TODO what shoryukens crosses you up on block?
