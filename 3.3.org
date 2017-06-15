@@ -83,7 +83,7 @@
 ** Ken									:ken:
 
 ** Makoto							     :makoto:
-*** TODO SA1 punish 100% stun (reset)			       :punish:reset:
+*** SA1 punish 100% stun (reset)                               :punish:reset:
     Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 
@@ -149,7 +149,7 @@
     Also works on wiffed crHK
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
-*** HP Fukiage to punish suoer jump tatsumakis crossup		   :footsies:
+*** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
     [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
 
 ** Twins							   :yang:yun:
@@ -228,7 +228,7 @@
 * Akuma 						      :@akuma:@gouki:
 ** Twelve							     :twelve:
 *** 1 hit 100%								:fun:
-    Kongou Kokuretsu Zan during Twelve's XCOPY
+    Kongou Kokuretsu Zan during Twelve's XCOPY, after taunt
     [[https://www.youtube.com/watch?v=TH_nIcOAfdQ][Video]]
 
 * ChunLi							    :@chunli:

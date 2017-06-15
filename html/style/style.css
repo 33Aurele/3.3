@@ -174,10 +174,10 @@ ul#menu li a:hover
 .block
 { width: 858px;
   overflow: hidden;
-  margin: 0 auto 0 auto;
+  margin: 10px auto 0 auto;
   padding: 10px 20px 20px 20px;
   background: #f6f3ef url(back.png) repeat-y;
-  border: 15px solid #FFF;} 
+  border: 10px solid #FFF;} 
 
 .sidebar
 { float: right;
