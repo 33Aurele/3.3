@@ -1,0 +1,507 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Test</title>
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <h1><a href="index.html"><span class="logo_colour">Test title</span></a></h1>
+        <h2>Test</h2>
+      </div>
+    </div>
+    
+<div id="site_content">
+
+<h1> Select and pick the best one </h1>
+<center>
+<select id="@charselect" name="Your character" onchange="yourcharchange(value)"> 
+  <option value="block">Any</option>
+  <option value="@all">All</option>
+  <option value="@alex">Alex</option>
+  <option value="@akuma">Akuma</option>
+  <option value="@chunli">Chun Li</option>
+  <option value="@dudley">Dudley</option>
+  <option value="@elena">Elena</option>
+  <option value="@gill">Gill</option>
+  <option value="@hugo">Hugo</option>
+  <option value="@ibuki">Ibuki</option>
+  <option value="@ken">Ken</option>
+  <option value="@makoto">Makoto</option>
+  <option value="@necro">Necro</option>
+  <option value="@oro">Oro</option>
+  <option value="@q">Q</option>
+  <option value="@remy">Remy</option>
+  <option value="@ryu">Ryu</option>
+  <option value="@sean">Sean</option>
+  <option value="@twelve">Twelve</option>
+  <option value="@urien">Urien</option>
+  <option value="@yang">Yang</option>
+  <option value="@yun">Yun</option>
+</select>
+&emsp; VS &emsp;   
+<select id="charselect" name="Opponent's character" onchange="charchange(value)"> 
+  <option value="block">Any</option>
+  <option value="all">All</option>
+  <option value="alex">Alex</option>
+  <option value="akuma">Akuma</option>
+  <option value="chunli">Chun Li</option>
+  <option value="dudley">Dudley</option>
+  <option value="elena">Elena</option>
+  <option value="gill">Gill</option>
+  <option value="hugo">Hugo</option>
+  <option value="ibuki">Ibuki</option>
+  <option value="ken">Ken</option>
+  <option value="makoto">Makoto</option>
+  <option value="necro">Necro</option>
+  <option value="oro">Oro</option>
+  <option value="q">Q</option>
+  <option value="remy">Remy</option>
+  <option value="ryu">Ryu</option>
+  <option value="sean">Sean</option>
+  <option value="twelve">Tweleve</option>
+  <option value="urien">Urien</option>
+  <option value="yang">Yang</option>
+  <option value="yun">Yun</option>
+</select>
+<p></p>
+<p><button id="filter">Filter</button></p>
+</center>
+</div>
+</div>
+<script>
+
+var yourchar="block";
+var char="block";
+
+function hasClass(elem, klass) {
+if (elem.classList.contains(klass)) { return true; } else {return false; }
+}
+
+function yourcharchange(value) {
+yourchar=value;
+}
+
+function charchange(value) {
+char=value;
+}
+
+function show2tags(tag1,tag2) {
+var collection = document.getElementsByClassName(`block`);
+for (var key = 0, max = collection.length; key < max; key++) {
+if (hasClass(collection[key],tag1) && hasClass(collection[key],tag2)) {
+        collection[key].style.display="block"; }
+}
+}
+
+function removeAll() {
+var collection = document.getElementsByClassName("block");
+for (var key = 0, max = collection.length; key < max; key++) {
+        collection[key].style.display="none";
+}
+}
+
+function filter() {
+removeAll();
+show2tags(yourchar,char);
+}
+
+document.getElementById("filter").onclick = filter;
+
+
+</script>
+</div>
+</div>
+
+
+<div class="block alex @makoto">
+<p><h1>Fukiage (not EX) to beat the stomp</h1>
+</p></div>
+<div class="block punish sa1 alex @makoto">
+<p><h1>SA1 to punish Air Stampede (stomp) (-3)</h1>
+    Enough range.
+    [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
+
+</p></div>
+<div class="block punish alex @makoto">
+<p><h1>Punish roundhouse (boot) (-13) with Hayate</h1>
+</p></div>
+<div class="block setup mixup alex @makoto">
+<p><h1>Mixup: alex rolls after EX Oroshi</h1>
+    Do HP xx EX Oroshi. If Alex quickrolls, you can:
+    Super jump HP (crossup) xx LK xx LP Hayate
+    Super jump HK Tsurugi (wiff), Karakusa
+    [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
+
+</p></div>
+<div class="block footsies akuma gouki @makoto">
+<p><h1>Cr MK against MK and HK tatsumakis</h1>
+</p></div>
+<div class="block punish akuma gouki @makoto">
+<p><h1>Against guarded HK tatsumaki</h1>
+    block the two first hits, crouch for the third then blue parry the last one
+    [[https://youtu.be/40sXfFua38M?t=3m34s][Video]]
+    
+</p></div>
+<div class="block footsies akuma gouki @makoto">
+<p><h1>Don't jump too much</h1>
+    Jump more on reactions (antiair: jump HK, against fireballs...)
+
+</p></div>
+<div class="block footsies akuma gouki @makoto">
+<p><h1>Punished wiffed far HP with HP Hayate</h1>
+    [[https://youtu.be/40sXfFua38M?t=7m37s][Video]]
+
+</p></div>
+<div class="block footsies akuma gouki @makoto">
+<p><h1>Dash under karakusa against close, jump back, air hadouken</h1>
+</p></div>
+<div class="block punish akuma gouki @makoto">
+<p><h1>LK tatsumaki that goes above you can be punished with cr LP xx cr LP</h1>
+    You can put sa1 after.
+    You can do down lp+lk to OS tech/crLP.
+
+</p></div>
+<div class="block fun akuma gouki @makoto">
+<p><h1>Charged HP Hayate avoid Shun Goku Satsu (super grab)</h1>
+</p></div>
+<div class="block chunli @makoto">
+<p><h1>Low parry then Fukiage to beat low xx Hazan Shu</h1>
+[[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
+
+</p></div>
+<div class="block setup chunli @makoto">
+<p><h1>After Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa</h1>
+    It works even if the last crLK is blocked
+
+</p></div>
+<div class="block chunli @makoto">
+<p><h1>Fukiage beats ???</h1>
+    [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
+
+</p></div>
+<div class="block setup chunli @makoto">
+<p><h1>EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa</h1>
+    [[https://youtu.be/E0J9J87JL7s?t=5m23s][Video]]
+
+</p></div>
+<div class="block punish sa1 chunli @makoto">
+<p><h1>Reversal SA1 to punish crMK (-2)</h1>
+    [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
+
+</p></div>
+<div class="block chunli @makoto">
+<p><h1>Punish SA2</h1>
+    Blue parry last hit, then neutral jump HK, HP,...
+
+</p></div>
+<div class="block sa2 combo chunli @makoto">
+<p><h1>Double Fukiage</h1>
+[[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
+</p></div>
+<div class="block punish dudley @makoto">
+<p><h1>Punish HP or EX Machine Gun Blow (-15)</h1>
+    HP is close enough
+    [[https://youtu.be/N-fVnPzgTbU?t=57s][Video]]
+    
+</p></div>
+<div class="block punish dudley @makoto">
+<p><h1>Punish Cross Counter (not EX)</h1>
+    MP xx HP Fukiage xx super jump cancel HK
+
+</p></div>
+<div class="block footsies dudley @makoto">
+<p><h1>Zoning with crHK</h1>
+</p></div>
+<div class="block dudley @makoto">
+<p><h1>Mixup: dudley rolls after EX Hayate</h1>
+    Dash, then super jump HP (crossup) or Dash, then super jump karakusa
+    [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
+
+</p></div>
+<div class="block fun dudley @makoto">
+<p><h1>Fukiage hits stunned Dudley</h1>
+
+</p></div>
+<div class="block <div class="block <div class="block combo hugo @makoto">
+<p><h1>EX Oroshi xx SA2</h1>
+    Will connect in the corner
+
+</p></div>
+<div class="block footsies hugo @makoto">
+<p><h1>Zoning with crMK</h1>
+</p></div>
+<div class="block fun ibuki @makoto">
+<p><h1>2-hit 100% combo</h1>
+    3 taunts, SA3, HP Fukiage inside Ibuki's special dash, jump cancel HK Tsurugi
+    [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
+
+</p></div>
+<div class="block <div class="block punish reset makoto @makoto">
+<p><h1>SA1 punish 100% stun (reset)</h1>
+    Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
+    [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
+
+</p></div>
+<div class="block <div class="block oro @makoto">
+<p><h1>Dash under Yagyou Dama (Ball, SA2)</h1>
+</p></div>
+<div class="block @wakeup oro @makoto">
+<p><h1>Avoid Yagyou Dama (Ball, SA2) after multi-hit grab</h1>
+    Don't quick-roll, parry forward on wakeup, reverse Fukiage.
+    [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
+
+</p></div>
+<div class="block punish parry q @makoto">
+<p><h1>Parry half of EX High speed barrage</h1>
+    Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
+
+</p></div>
+<div class="block remy @makoto">
+<p><h1>Punish SA2 Supreme Rising Rage Flash</h1>
+[[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
+
+</p></div>
+<div class="block punish ryu @makoto">
+<p><h1>Punish SA2 Shin Shoryuken (-25)</h1>
+    EX Hayate, EX Hayate
+
+</p></div>
+<div class="block <div class="block <div class="block punish urien @makoto">
+<p><h1>Punish crHP	(-10)</h1>
+    Punish with MP or LK
+
+</p></div>
+<div class="block footsies urien @makoto">
+<p><h1>Charge Hayates outside of his range</h1>
+    You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
+
+</p></div>
+<div class="block urien @makoto">
+<p><h1>Crouch or Dash under EX Metallic Sphere</h1>
+    Then you can do Fukiage 
+    [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
+    
+</p></div>
+<div class="block parry urien @makoto">
+<p><h1>Parry Chariot Rush, then HP Fukiage</h1>
+</p></div>
+<div class="block urien @makoto">
+<p><h1>EX Fukiage beats a lot of options</h1>
+    Headbutt, most normals...
+    
+</p></div>
+<div class="block fun urien @makoto">
+<p><h1>Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector</h1>
+    [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
+
+</p></div>
+<div class="block <div class="block punish yun @makoto">
+<p><h1>Punish launch punch Zesshou Hohou (-11)</h1>
+    MP or LK
+
+</p></div>
+<div class="block yun @makoto">
+<p><h1>EX Fukiage to punish shoulder and launch punch on reaction</h1>
+</p></div>
+<div class="block yun @makoto">
+<p><h1>EX Fukiage to punish jump backward at karakusa range</h1>
+    If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
+    
+</p></div>
+<div class="block alex hugo @makoto">
+<p><h1>EX Hayate corner juggle with HP</h1>
+    You can reset Alex with Kara-Karakusa after
+    [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
+
+</p></div>
+<div class="block punish akuma gouki ken ryu sean alex @makoto">
+<p><h1>Punish crHK with HP Hayate</h1>
+    Also works on wiffed crHK
+</p></div>
+<div class="block footsies akuma gouki ken ryu sean @makoto">
+<p><h1>When expecting DP, jump parry rather than down block</h1>
+</p></div>
+<div class="block footsies akuma gouki ken ryu sean @makoto">
+<p><h1>HP Fukiage to punish suoer jump tatsumakis crossup</h1>
+    [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
+
+</p></div>
+<div class="block footsies yang yun @makoto">
+<p><h1>Avoid divekicks</h1>
+    Back jump HP to punish divekicks.
+
+</p></div>
+<div class="block setup dudley ibuki yang @makoto">
+<p><h1>Dash behind them on their wakeup</h1>
+    [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
+
+</p></div>
+<div class="block combo hitconfirm sa1 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>MP xx SA1</h1>
+</p></div>
+<div class="block combo hitconfirm sa1 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Hayate link SA1</h1>
+    Piano the three punches to have more time
+
+</p></div>
+<div class="block combo hitconfirm sa1 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>MK Tsurugi, SA1</h1>
+    At a certain range only. After forward jump it will be ok.
+
+</p></div>
+<div class="block combo hitconfirm sa1 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>MP Oroshi xx SA1</h1>
+</p></div>
+<div class="block combo hitconfirm all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>MP link LK xx LP Hayate</h1>
+</p></div>
+<div class="block combo hitconfirm all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Jump HK link HP xx Hayate</h1>
+</p></div>
+<div class="block combo hitconfirm all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Meaty HP confirm HP Hayate</h1>
+    As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
+
+</p></div>
+<div class="block combo all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>HK Tsurugi antiair, HP Hayate</h1>
+    [[https://youtu.be/40sXfFua38M?t=6m41s][Video]]
+ 
+</p></div>
+<div class="block combo all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Jump HK, HP xx Hayate</h1>
+    Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
+    The ump HK can be replaced with jump HP.
+
+</p></div>
+<div class="block setup mixup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>LP antiair, then dash under</h1>
+    From there, either karakusa or HP or MP
+
+</p></div>
+<div class="block all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>HP antiair, ex Fukiage if parried</h1>
+</p></div>
+<div class="block setup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Kara-Karakusa after forward MP (blocked or not)</h1>
+</p></div>
+<div class="block setup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Kara-Karakusa after back grab, backward dash</h1>
+</p></div>
+<div class="block setup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Kara-Karakusa after meaty MP, MP</h1>
+</p></div>
+<div class="block setup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Backdash, Kara-Karakusa after HP xx MP Hayate</h1>
+    [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
+
+</p></div>
+<div class="block setup all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Karakusa after forward LK</h1>
+</p></div>
+<div class="block footsies all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>LK before EX Oroshi for range</h1>
+</p></div>
+<div class="block footsies all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Dash after MK Tsurugi</h1>
+</p></div>
+<div class="block footsies all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Low EX Tsurugi against cornered opponent</h1>
+    Use super jump to hit low. 28214+2K
+
+</p></div>
+<div class="block os all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>OS low parry, Karakusa or jump, ex Tsurugi</h1>
+    Input: low parry, super jump, 270° to back, then 2 kicks
+    2 2 8 9 6 3 2 1 4 + 2K
+    [[https://www.youtube.com/watch?v=dcWhlfwILoE&feature=youtu.be][Video]]
+
+</p></div>
+<div class="block reset all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Parry jump, MP, Dash Fukiage xx Super Jump Fierce</h1>
+    When landing, the hitbox is different and Fukiage can hit
+    [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
+    Also works after meaty MP
+    [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
+    
+</p></div>
+<div class="block sa1 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Kara SA1 for range!</h1>
+    Can wiff punish most medium, hard normals. Use LK for Kara. If LK hit, the super comboes anyway
+    [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
+    
+</p></div>
+<div class="block sa1 sa3 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Charged DED</h1>
+    With SA1 and SA3, do DED, but keep the punch button pressed, then press kick shortly after.
+    If the normal is blocked, Hayate will start to charge and then you cancel it.
+
+</p></div>
+<div class="block all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Invincibility after neutral throw</h1>
+    Don't push any button and you won't have a hitbox during a short time.
+
+</p></div>
+<div class="block sa3 all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Invincibility after SA3 activation</h1>
+    Don't push any button and you won't have a hitbox during a short time.
+
+</p></div>
+<div class="block fun sa1 combo all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @makoto">
+<p><h1>Taunt xx SA1</h1>
+</p></div>
+<div class="block fun twelve @akuma @gouki">
+<p><h1>1 hit 100%</h1>
+    Kongou Kokuretsu Zan during Twelve's XCOPY
+    [[https://www.youtube.com/watch?v=TH_nIcOAfdQ][Video]]
+
+</p></div>
+<div class="block makoto @chunli">
+<p><h1>Kara-throw beats Karakusa after Hayate</h1>
+</p></div>
+<div class="block alex @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Back HP cannot be parried</h1>
+
+</p></div>
+<div class="block @wakeup akuma gouki @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken</h1>
+    Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
+
+</p></div>
+<div class="block akuma gouki @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>First hit of Kongou Kokuretsu Zan cannot be parried</h1>
+
+</p></div>
+<div class="block punish parry chunli @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Parry last hit of SA2</h1>
+    Last hit can be blue parried after blocking the beginning
+</p></div>
+<div class="block chunli @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Only spinning bird kick EX and SA as reversal</h1>
+</p></div>
+<div class="block hugo @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Block Hammer Frenzy SA3</h1>
+    The third hit is overhead
+
+</p></div>
+<div class="block q @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Block Critical Combo Attack</h1>
+    The fourth hit is low
+
+</p></div>
+<div class="block remy @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Blue parry the second hit of crouching roundhouse</h1>
+</p></div>
+<div class="block urien @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h1>Watch out for grab after whiffed Headbutt</h1>
+
+
+</p></div>
+</div>
+</body>
+</html>

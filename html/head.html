@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Test</title>
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <h1><a href="index.html"><span class="logo_colour">Test title</span></a></h1>
+        <h2>Test</h2>
+      </div>
+    </div>
+    
+<div id="site_content">
+
+<h1> Select and pick the best one </h1>
+<center>
+<select id="@charselect" name="Your character" onchange="yourcharchange(value)"> 
+  <option value="block">Any</option>
+  <option value="@all">All</option>
+  <option value="@alex">Alex</option>
+  <option value="@akuma">Akuma</option>
+  <option value="@chunli">Chun Li</option>
+  <option value="@dudley">Dudley</option>
+  <option value="@elena">Elena</option>
+  <option value="@gill">Gill</option>
+  <option value="@hugo">Hugo</option>
+  <option value="@ibuki">Ibuki</option>
+  <option value="@ken">Ken</option>
+  <option value="@makoto">Makoto</option>
+  <option value="@necro">Necro</option>
+  <option value="@oro">Oro</option>
+  <option value="@q">Q</option>
+  <option value="@remy">Remy</option>
+  <option value="@ryu">Ryu</option>
+  <option value="@sean">Sean</option>
+  <option value="@twelve">Twelve</option>
+  <option value="@urien">Urien</option>
+  <option value="@yang">Yang</option>
+  <option value="@yun">Yun</option>
+</select>
+&emsp; VS &emsp;   
+<select id="charselect" name="Opponent's character" onchange="charchange(value)"> 
+  <option value="block">Any</option>
+  <option value="all">All</option>
+  <option value="alex">Alex</option>
+  <option value="akuma">Akuma</option>
+  <option value="chunli">Chun Li</option>
+  <option value="dudley">Dudley</option>
+  <option value="elena">Elena</option>
+  <option value="gill">Gill</option>
+  <option value="hugo">Hugo</option>
+  <option value="ibuki">Ibuki</option>
+  <option value="ken">Ken</option>
+  <option value="makoto">Makoto</option>
+  <option value="necro">Necro</option>
+  <option value="oro">Oro</option>
+  <option value="q">Q</option>
+  <option value="remy">Remy</option>
+  <option value="ryu">Ryu</option>
+  <option value="sean">Sean</option>
+  <option value="twelve">Tweleve</option>
+  <option value="urien">Urien</option>
+  <option value="yang">Yang</option>
+  <option value="yun">Yun</option>
+</select>
+<p></p>
+<p><button id="filter">Filter</button></p>
+</center>
+</div>
+</div>
+<script>
+
+var yourchar="block";
+var char="block";
+
+function hasClass(elem, klass) {
+if (elem.classList.contains(klass)) { return true; } else {return false; }
+}
+
+function yourcharchange(value) {
+yourchar=value;
+}
+
+function charchange(value) {
+char=value;
+}
+
+function show2tags(tag1,tag2) {
+var collection = document.getElementsByClassName(`block`);
+for (var key = 0, max = collection.length; key < max; key++) {
+if (hasClass(collection[key],tag1) && hasClass(collection[key],tag2)) {
+        collection[key].style.display="block"; }
+}
+}
+
+function removeAll() {
+var collection = document.getElementsByClassName("block");
+for (var key = 0, max = collection.length; key < max; key++) {
+        collection[key].style.display="none";
+}
+}
+
+function filter() {
+removeAll();
+show2tags(yourchar,char);
+}
+
+document.getElementById("filter").onclick = filter;
+
+
+</script>
+</div>
+</div>
+
+
