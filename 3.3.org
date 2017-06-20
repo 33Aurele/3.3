@@ -1,7 +1,7 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
 *** TODO Fukiage (not EX) to beat the stomp
-*** SA1 to punish Air Stampede (stomp) (-3)			 :punish:sa1:
+*** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
 
@@ -43,13 +43,13 @@
 *** TODO EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa :setup:
     [[https://youtu.be/E0J9J87JL7s?t=5m23s][Video]]
 
-*** Reversal SA1 to punish crMK (-2)				 :punish:sa1:
+*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
 
 *** TODO Punish SA2
     Blue parry last hit, then neutral jump HK, HP,...
 
-*** Double Fukiage						  :sa2:combo:
+*** Double Fukiage                                               :@sa2:combo:
 [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
 *** Punish HP or EX Machine Gun Blow (-15) 			     :punish:
@@ -66,8 +66,15 @@
 
 *** Fukiage hits stunned Dudley						:fun:
 
-** Elena							      :elena:
-
+** Elena                                                              :elena:
+*** TODO Punish HK Spinning Scythe (-8) with cr MP                   :punish:
+*** TODO Punish EX Spinning Scythe (-15)                             :punish:
+    I think cr MP or Hayate should be ok
+*** Punish Rhino Horn (-3/-4/-6/-2 EX) with SA1                 :punish:@sa1:
+*** TODO Punish Lynx Tail (-17/-15/-15) with Hayate                  :punish:
+*** TODO Punish Spinning Beat (SA1) with HP                      :punish:sa1:
+*** TODO Punish Brave Dance (-12)                                :punish:sa2:
+    I don't know yet
 ** Gill								       :gill:
 
 ** Hugo								       :hugo:
@@ -83,7 +90,7 @@
 ** Ken									:ken:
 
 ** Makoto							     :makoto:
-*** SA1 punish 100% stun (reset)                               :punish:reset:
+*** SA1 punish 100% stun (reset)                           :punish:reset:sa1:
     Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 
@@ -140,13 +147,15 @@
     If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
     
 ** Alex and Hugo						  :alex:hugo:
-*** TODO EX Hayate corner juggle with HP
+*** TODO EX Hayate corner juggle with HP                       :juggle:combo:
     You can reset Alex with Kara-Karakusa after
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
 
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
+** Chun Li, Elena,...                                          :elena:chunli:
+*** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
@@ -161,14 +170,14 @@
     [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
 
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
-*** MP xx SA1					       :combo:hitconfirm:sa1:
-*** Hayate link SA1				       :combo:hitconfirm:sa1:
+*** MP xx SA1                                         :combo:hitconfirm:@sa1:
+*** Hayate link SA1                                   :combo:hitconfirm:@sa1:
     Piano the three punches to have more time
 
-*** MK Tsurugi, SA1				       :combo:hitconfirm:sa1:
+*** MK Tsurugi, SA1                                   :combo:hitconfirm:@sa1:
     At a certain range only. After forward jump it will be ok.
 
-*** MP Oroshi xx SA1				       :combo:hitconfirm:sa1:
+*** MP Oroshi xx SA1                                  :combo:hitconfirm:@sa1:
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
@@ -187,7 +196,9 @@
 *** HP antiair, ex Fukiage if parried
 *** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
 *** TODO Kara-Karakusa after back grab, backward dash 		      :setup:
-*** TODO Kara-Karakusa after meaty MP, MP			      :setup:
+*** TODO Kara-Karakusa after meaty MP, MP                             :setup:
+*** TODO Kara-Karakusa after LP antiair                               :setup:
+    [[https://youtu.be/Y4w1dMA3lyQ?t=5m57s][Video]]
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 
@@ -208,21 +219,21 @@
     Also works after meaty MP
     [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
     
-*** Kara SA1 for range!							:sa1:
+*** Kara SA1 for range!                                                :@sa1:
     Can wiff punish most medium, hard normals. Use LK for Kara. If LK hit, the super comboes anyway
     [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
     
-*** Charged DED							    :sa1:sa3:
+*** Charged DED                                                   :@sa1:@sa3:
     With SA1 and SA3, do DED, but keep the punch button pressed, then press kick shortly after.
     If the normal is blocked, Hayate will start to charge and then you cancel it.
 
 *** Invincibility after neutral throw
     Don't push any button and you won't have a hitbox during a short time.
 
-*** Invincibility after SA3 activation					:sa3:
+*** Invincibility after SA3 activation                                 :@sa3:
     Don't push any button and you won't have a hitbox during a short time.
 
-*** Taunt xx SA1					      :fun:sa1:combo:
+*** Taunt xx SA1                                             :fun:@sa1:combo:
 * Alex								      :@alex:
 
 * Akuma 						      :@akuma:@gouki:
@@ -281,23 +292,33 @@
 *** TODO First hit of Kongou Kokuretsu Zan cannot be parried
 
 ** ChunLi							     :chunli:
-*** Parry last hit of SA2				       :punish:parry:
+*** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after blocking the beginning
 *** TODO Only spinning bird kick EX and SA as reversal
 ** Hugo								       :hugo:
-*** Block Hammer Frenzy SA3
+*** Block Hammer Frenzy SA3                                             :sa3:
     The third hit is overhead
 
 ** Q									  :q:
-*** Block Critical Combo Attack
+*** Block Critical Combo Attack                                         :sa1:
     The fourth hit is low
 
 ** Remy								       :remy:
 *** Blue parry the second hit of crouching roundhouse
 ** Urien							      :urien:
 *** Watch out for grab after whiffed Headbutt
+** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
+*** Quick roll                                                      :@wakeup:
+    Press down as you get knocked down.
 
+*** Play Third Strike!                                                  :fun:
+    It's a good game.
 
 * TODO put the hayate ex corner juggles
 * TODO put the sa2 100% stun combos
 * TODO what shoryukens crosses you up on block?
+* TODO every super punish
+* TODO list of supers
+* TODO list of taunts
+* TODO list of links
+* TODO DED explanation
