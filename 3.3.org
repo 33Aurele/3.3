@@ -43,9 +43,10 @@
 *** TODO EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa :setup:
     [[https://youtu.be/E0J9J87JL7s?t=5m23s][Video]]
 
-*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
+*** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
-
+    TODO: what happens if she cancels it into SA2 anyway?
+    
 *** TODO Punish SA2
     Blue parry last hit, then neutral jump HK, HP,...
 
@@ -78,8 +79,21 @@
 ** Gill								       :gill:
 
 ** Hugo								       :hugo:
-*** TODO EX Oroshi xx SA2					      :combo:
+*** TODO EX Oroshi xx SA2                                        :combo:@sa2:
     Will connect in the corner
+*** Dash behind Hugo's back on wakeup                                :wakeup:
+    [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
+*** TODO Punish dropkick (-18) with Hayate                           :punish:
+*** TODO Punish butt crHK (-43) with cr MP                           :punish:
+*** TODO Punish Monster Lariat (-8/-10/-11/-22)                      :punish:
+    Karakusa? I don't know if the range is good enough
+*** TODO Punish Hammer Frenzy (-29)                              :punish:sa3:
+    HP should be enough?
+*** EX Oroshi beats cr MK                                          :footsies:
+*** Zone him                                                       :footsies:
+    Don't stay too near. Use jump back HK to get out.
+    Use forward+HP to keep him far.
+    Use Hayate to punish wiffed grabs.
 
 *** Zoning with crMK						   :footsies:
 ** Ibuki							      :ibuki:
@@ -178,6 +192,8 @@
     At a certain range only. After forward jump it will be ok.
 
 *** MP Oroshi xx SA1                                  :combo:hitconfirm:@sa1:
+*** TODO UOH, SA1                                     :combo:hitconfirm:@sa1:
+    [[https://youtu.be/vawX9PccGTc?t=20m54s][Video]]
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
