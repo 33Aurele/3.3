@@ -81,8 +81,6 @@
 ** Hugo								       :hugo:
 *** TODO EX Oroshi xx SA2                                        :combo:@sa2:
     Will connect in the corner
-*** Dash behind Hugo's back on wakeup                                :wakeup:
-    [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
 *** TODO Punish dropkick (-18) with Hayate                           :punish:
 *** TODO Punish butt crHK (-43) with cr MP                           :punish:
 *** TODO Punish Monster Lariat (-8/-10/-11/-22)                      :punish:
@@ -179,10 +177,10 @@
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
 
-** TODO Yang, Dudley, Ibuki				  :dudley:ibuki:yang:
-*** Dash behind them on their wakeup				      :setup:
+** TODO Yang, Dudley, Hugo, Ibuki                    :dudley:ibuki:yang:hugo:
+*** Dash behind them on their wakeup                           :setup:wakeup:
     [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
-
+    [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** MP xx SA1                                         :combo:hitconfirm:@sa1:
 *** Hayate link SA1                                   :combo:hitconfirm:@sa1:

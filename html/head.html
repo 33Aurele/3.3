@@ -69,6 +69,30 @@
   <option value="yun">Yun</option>
 </select>
 <p></p>
+<p><select id="categoryselect" name="Category" onchange="categorychange(value)">
+<option value="block">Any</option>
+<option value="gameplan">Game Plan</option>
+<option value="footsies">Footsies</option>
+<option value="punish">Punish</option>
+<option value="combo">Combo</option>
+<option value="hitconfirm">Hit Confirm</option>
+<option value="juggle">Juggle</option>
+<option value="mixup">Mixup</option>
+<option value="setup">Setup</option>
+<option value="reset">Reset</option>
+<option value="os">Option Select</option>
+<option value="parry">Parry</option>
+<option value="@sa1">@SA I</option>
+<option value="@sa2">@SA II</option>
+<option value="@sa3">@SA III</option>
+<option value="sa1">SA I</option>
+<option value="sa2">SA II</option>
+<option value="sa3">SA III</option>
+<option value="@wakeup">@Wakeup</option>
+<option value="wakeup">Wakeup</option>
+<option value="fun">Fun</option>
+</select>
+</p>
 <p><button id="filter">Filter</button></p>
 </center>
 </div>
@@ -77,6 +101,7 @@
 
 var yourchar="block";
 var char="block";
+var category="block";
 
 function hasClass(elem, klass) {
 if (elem.classList.contains(klass)) { return true; } else {return false; }
@@ -90,10 +115,14 @@ function charchange(value) {
 char=value;
 }
 
-function show2tags(tag1,tag2) {
+function categorychange(value) {
+category=value;
+}
+
+function show3tags(tag1,tag2,tag3) {
 var collection = document.getElementsByClassName(`block`);
 for (var key = 0, max = collection.length; key < max; key++) {
-if (hasClass(collection[key],tag1) && hasClass(collection[key],tag2)) {
+if (hasClass(collection[key],tag1) && hasClass(collection[key],tag2) && hasClass(collection[key],tag3)) {
         collection[key].style.display="block"; }
 }
 }
@@ -107,7 +136,7 @@ for (var key = 0, max = collection.length; key < max; key++) {
 
 function filter() {
 removeAll();
-show2tags(yourchar,char);
+show3tags(yourchar,char,category);
 }
 
 document.getElementById("filter").onclick = filter;
