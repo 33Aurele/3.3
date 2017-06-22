@@ -95,7 +95,19 @@
 
 *** Zoning with crMK						   :footsies:
 ** Ibuki							      :ibuki:
-*** 2-hit 100% combo							:fun:
+*** Punish slide Kubiori (-10 -16 -19) with MP                       :punish:
+*** Punish slide (down towards MK) (-16) with MP                     :punish:
+*** TODO Punish HK (-11) with cr MP                                  :punish:
+    The 2 hit kick that ends up with the foot in the air
+    [[https://youtu.be/7EiX78cZu9U?t=23m3s][Video]]
+*** TODO Punish EX Tsumuji (3 kicks) with cr MP                      :punish:
+    Maybe MP is enough
+*** TODO In corner, MP, cr MP blocked then Kara Karakusa              :setup:
+    [[https://youtu.be/7EiX78cZu9U?t=11m10s][Video]]
+
+*** Zoning with MK and cr MK                                       :footsies:
+*** HP Fukiage catches a lot of super jump ins                     :footsies:
+*** 2-hit 100% combo                                               :fun:@sa3:
     3 taunts, SA3, HP Fukiage inside Ibuki's special dash, jump cancel HK Tsurugi
     [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
 
