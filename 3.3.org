@@ -112,7 +112,13 @@
     [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
 
 ** Ken									:ken:
-
+*** Punish Shipuujinrai Kyaku with karakusa                      :punish:sa3:
+    You need to start the input early, on the last blocked kick
+*** Charge Hayates outside of cr MK range                          :footsies:
+*** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
+    TODO: what happens if he cancels it into SA3 anyway?
+*** Don't try too much to parry on wakeup                           :@wakeup:
+    Ken has too many multi-hits block strings options
 ** Makoto							     :makoto:
 *** SA1 punish 100% stun (reset)                           :punish:reset:sa1:
     Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
@@ -175,6 +181,9 @@
     You can reset Alex with Kara-Karakusa after
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
 
+** Shotos                                          :akuma:gouki:ken:ryu:sean:
+*** TODO EX Hayate corner juggle with MK                       :juggle:combo:
+    [[https://youtu.be/iBWYdKCr6Hc?t=12m46s][Video]]
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
@@ -227,7 +236,8 @@
     [[https://youtu.be/Y4w1dMA3lyQ?t=5m57s][Video]]
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
-
+*** TODO Jump HK, MP, kara karakusa                                   :setup:
+    [[https://youtu.be/iBWYdKCr6Hc?t=14m28s][Video]]
 *** Karakusa after forward LK					      :setup:
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
@@ -282,7 +292,11 @@
 * Ibuki								     :@ibuki:
 
 * Ken								       :@ken:
-
+** Makoto                                                            :makoto:
+*** Throw Glitch                                                        :fun:
+    If you win a round with the first kick of you neutral throw in the arcade version, the game can glitch or crash.
+    [[http://errors.wikia.com/wiki/Street_Fighter_3_:_Third_Strike][What happens]]
+    [[https://www.youtube.com/watch?v=2pjLwVVqLfk][Video]]
 * Necro								     :@necro:
 
 * Oro								       :@oro:
