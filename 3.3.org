@@ -120,6 +120,13 @@
 *** Don't try too much to parry on wakeup                           :@wakeup:
     Ken has too many multi-hits block strings options
 ** Makoto							     :makoto:
+*** TODO Punish Hayate (-12) with cr MP                              :punish:
+    check if karakusa or HP can be done too
+    Warning: fully charged Hayate is safe.
+*** Simple Seichusen Godanzuki (SA1) punish (-17)                 :punis:sa1:
+    HP or Karakusa
+*** Punish Abare Tosanami (-20)                                  :punish:sa2:
+    HP or Karakusa
 *** SA1 punish 100% stun (reset)                           :punish:reset:sa1:
     Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
@@ -187,7 +194,7 @@
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
-** Chun Li, Elena,...                                          :elena:chunli:
+** Chun Li, Elena, Makoto...                            :elena:chunli:makoto:
 *** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
@@ -238,6 +245,8 @@
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 *** TODO Jump HK, MP, kara karakusa                                   :setup:
     [[https://youtu.be/iBWYdKCr6Hc?t=14m28s][Video]]
+*** TODO In corner, MP, HP, Kara Karakusa                             :setup:
+    [[https://youtu.be/ve_Sm5b4CH4?t=31s][Video]]
 *** Karakusa after forward LK					      :setup:
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
