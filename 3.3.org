@@ -132,7 +132,15 @@
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 
 ** Necro							      :necro:
-
+*** TODO Punish HK (-8) with cr MP ?                                 :punish:
+*** TODO Punish crHK (-12) with HP Hayate ?                          :punish:
+*** TODO Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate ? :punish:
+*** TODO Get out of the Spinning punch loop (1/-4/-18)             :footsies:
+    If I remember correctly, it is done with the MP version. 
+    I think you can blue parry the second hit and then Fukiage but I'm not sure.
+*** Beware of the grab reset in the corner                         :footsies:
+    After corner grab + juggle.
+    He can also do Flying Viper
 ** Oro									:oro:
 *** Dash under Yagyou Dama (Ball, SA2)
 *** Avoid Yagyou Dama (Ball, SA2) after multi-hit grab		    :@wakeup:
@@ -142,7 +150,7 @@
 ** Q									  :q:
 *** Parry half of EX High speed barrage			       :punish:parry:
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
-
+*** Beware of the grab reset in the corner                         :footsies:
 ** Remy								       :remy:
 *** TODO Punish SA2 Supreme Rising Rage Flash
 [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
@@ -205,7 +213,7 @@
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
 
-** TODO Yang, Dudley, Hugo, Ibuki                    :dudley:ibuki:yang:hugo:
+** TODO Yang, Dudley, Hugo, Ibuki, Necro       :dudley:ibuki:yang:hugo:necro:
 *** Dash behind them on their wakeup                           :setup:wakeup:
     [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
     [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
