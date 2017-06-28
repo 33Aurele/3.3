@@ -135,6 +135,7 @@
 *** TODO Punish HK (-8) with cr MP ?                                 :punish:
 *** TODO Punish crHK (-12) with HP Hayate ?                          :punish:
 *** TODO Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate ? :punish:
+*** TODO Punish Magnetic Storm (-12) SA1 with HP Hayate          :punish:sa1:
 *** TODO Get out of the Spinning punch loop (1/-4/-18)             :footsies:
     If I remember correctly, it is done with the MP version. 
     I think you can blue parry the second hit and then Fukiage but I'm not sure.
@@ -142,8 +143,11 @@
     After corner grab + juggle.
     He can also do Flying Viper
 ** Oro									:oro:
-*** Dash under Yagyou Dama (Ball, SA2)
-*** Avoid Yagyou Dama (Ball, SA2) after multi-hit grab		    :@wakeup:
+*** TODO Punish Human Pillar Driver (extended arm grab) (-15) with HP Hayate :punish:
+*** Don't dash too much                                            :footsies:
+    He can really zone you and hurt you with HK
+*** Dash under Yagyou Dama (Ball, SA2)                                  :sa2:
+*** Avoid Yagyou Dama (Ball, SA2) after multi-hit grab          :@wakeup:sa2:
     Don't quick-roll, parry forward on wakeup, reverse Fukiage.
     [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
 
@@ -234,6 +238,7 @@
     As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
 
 *** TODO HK Tsurugi antiair, HP Hayate				      :combo:
+    Dash before the first Hayate? If done early enough, you can juggle with another one?
     [[https://youtu.be/40sXfFua38M?t=6m41s][Video]]
  
 *** Jump HK, HP xx Hayate					      :combo:
@@ -243,7 +248,7 @@
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP
 
-*** HP antiair, ex Fukiage if parried
+*** HP antiair, ex Fukiage if parried                              :footsies:
 *** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
 *** TODO Kara-Karakusa after back grab, backward dash 		      :setup:
 *** TODO Kara-Karakusa after meaty MP, MP                             :setup:
@@ -256,11 +261,14 @@
 *** TODO In corner, MP, HP, Kara Karakusa                             :setup:
     [[https://youtu.be/ve_Sm5b4CH4?t=31s][Video]]
 *** Karakusa after forward LK					      :setup:
+*** TODO Karakusa after low MK                                        :setup:
+    [[https://youtu.be/UV6XqaEd5Kc?t=4m28s][Video]]
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
 *** Low EX Tsurugi against cornered opponent			   :footsies:
     Use super jump to hit low. 28214+2K
-
+*** Jump back HK against cornered opponent                         :footsies:
+    If he expects Karakusa and jumps or tries to jump out
 *** OS low parry, Karakusa or jump, ex Tsurugi 				 :os:
     Input: low parry, super jump, 270° to back, then 2 kicks
     2 2 8 9 6 3 2 1 4 + 2K
