@@ -125,8 +125,10 @@
     Warning: fully charged Hayate is safe.
 *** Simple Seichusen Godanzuki (SA1) punish (-17)                 :punis:sa1:
     HP or Karakusa
-*** Punish Abare Tosanami (-20)                                  :punish:sa2:
-    HP or Karakusa
+*** TODO Punish Abare Tosanami (-20)                             :punish:sa2:
+    HP or Karakusa (easy).
+    Or jump before the last hit, parry it while in the air (very soon after jumping), then HK, HP xx Hayate
+    [[http://ensabahnur.free.fr/BastonV2/videoViewer.php?FLV=SFIII_3rd_Strike_Anniversary_Edition_DVD_Tutorial_Makoto.flv][Video]]
 *** SA1 punish 100% stun (reset)                           :punish:reset:sa1:
     Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
@@ -152,6 +154,25 @@
     [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
 
 ** Q									  :q:
+*** TODO Punish HP (-23)                                             :punish:
+    I think you need to be close, or else it is safe.
+    HP Hayate or cr MP should be enough
+*** TODO Punish HK (-12)                                             :punish:
+    HP Hayate reversal?
+*** Punish cr HK (-25) with cr MP                                    :punish:
+    Same goes for back+crHK (-26). If you see him falling, punish
+*** TODO Punish overhead Dashing Head Attack (-10/-11/-12) with HP   :punish:
+*** TODO Punish low Dashing Leg Attack (-13/-14/-15) with crMP       :punish:
+*** TODO Punish EX Dashing Head/Leg Attack (-21/-18) with crMP       :punish:
+*** Punish EX High speed barrage (-23) with HP Hayate                :punish:
+*** Punish Critical Combo Attack (SA1) (-19) with Karakusa       :punish:sa1:
+    (And don't forget to crouch for the 4th hit)
+    [[https://youtu.be/GA5-9rN8GSY?t=3m19s][Video]]
+*** TODO Punish Deadly Double Combination (SA2) (-25) with ?     :punish:sa2:
+    HP? Karakusa? Blockstun is long.
+*** TODO Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
+*** TODO Kara EX Hayate to punish full screen taunts                 :punish:
+    Test if it really goes full screen
 *** Parry half of EX High speed barrage			       :punish:parry:
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
 *** Beware of the grab reset in the corner                         :footsies:
@@ -206,7 +227,7 @@
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
-** Chun Li, Elena, Makoto...                            :elena:chunli:makoto:
+** Chun Li, Elena, Makoto, Q...                       :elena:chunli:makoto:q:
 *** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
@@ -261,6 +282,9 @@
 *** TODO In corner, MP, HP, Kara Karakusa                             :setup:
     [[https://youtu.be/ve_Sm5b4CH4?t=31s][Video]]
 *** Karakusa after forward LK					      :setup:
+*** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
+    If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
+    If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
 *** TODO Karakusa after low MK                                        :setup:
     [[https://youtu.be/UV6XqaEd5Kc?t=4m28s][Video]]
 *** LK before EX Oroshi for range				   :footsies:
