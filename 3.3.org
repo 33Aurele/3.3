@@ -177,11 +177,21 @@
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
 *** Beware of the grab reset in the corner                         :footsies:
 ** Remy								       :remy:
-*** TODO Punish SA2 Supreme Rising Rage Flash
+*** Punish crHK                                                      :punish:
+    Blue parry the second hit, then crMP
+*** TODO Punish crMK (-9) with cr MP                                 :punish:
+    It seems weird, i need to test it
+*** TODO Punish towardsMK (-7) (weird side stomp) with LK            :punish:
+    I need to check the range
+*** Dash under high Light of Virtue                                :footsies:
+    The recovery is 22 frames, you can often Karakusa to punish
+*** TODO Punish blocked HK/EX Rising Rage Flash (flash kick)         :punish:
+    HP Fukiage, MP Hayate
+*** TODO Punish Cold BLue Kick (-4/-4/-6/-1) with SA1           :punish:@sa1:
+*** TODO Punish SA2 Supreme Rising Rage Flash                    :punish:sa2:
 [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
-
 ** Ryu									:ryu:
-*** TODO Punish SA2 Shin Shoryuken (-25)			     :punish:
+*** TODO Punish SA2 Shin Shoryuken (-25)                         :punish:sa2:
     EX Hayate, EX Hayate
 
 ** Sean								       :sean:
