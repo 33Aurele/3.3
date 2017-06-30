@@ -185,12 +185,25 @@
     I need to check the range
 *** Dash under high Light of Virtue                                :footsies:
     The recovery is 22 frames, you can often Karakusa to punish
+*** EX Hayate to punish high Light of Virtue                :footsies:punish:
+    It goes under it
 *** TODO Punish blocked HK/EX Rising Rage Flash (flash kick)         :punish:
     HP Fukiage, MP Hayate
 *** TODO Punish Cold BLue Kick (-4/-4/-6/-1) with SA1           :punish:@sa1:
 *** TODO Punish SA2 Supreme Rising Rage Flash                    :punish:sa2:
 [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 ** Ryu									:ryu:
+*** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMP           :punish:
+*** TODO Punish blocked HP Shoryuken                                 :punish:
+    HP Fukiage, MP Hayate
+*** TODO Punish crHP (-8) with crMP                                  :punish:
+    Or maybe even Karakusa? or simply LK?
+*** TODO Punish Tatsumaki (-12/-8/-11) with Karakusa                 :punish:
+*** Punish SA3 Denjin Hadouken on wakeup            :punish:@wakeup:@sa1:sa3:
+    If Ryu charges it too close, you can reversal SA1
+    [[https://youtu.be/yUpr8qOR34c?t=1m56s][Video]]
+    Sometimes, only the first hit of the Seichusen hits, and then you get hit (and stunned if fully charged) by the denjin.
+    Use it when the first hit should kill ryu or if the denjin isn't fully charged.
 *** TODO Punish SA2 Shin Shoryuken (-25)                         :punish:sa2:
     EX Hayate, EX Hayate
 
@@ -295,6 +308,8 @@
 *** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
     If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
     If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
+*** LK xx Hayate (cancelled), Karakusa                                :setup:
+    [[https://youtu.be/yUpr8qOR34c?t=4m11s][Video]]
 *** TODO Karakusa after low MK                                        :setup:
     [[https://youtu.be/UV6XqaEd5Kc?t=4m28s][Video]]
 *** LK before EX Oroshi for range				   :footsies:
@@ -406,6 +421,9 @@
 *** Blue parry the second hit of crouching roundhouse
 ** Urien							      :urien:
 *** Watch out for grab after whiffed Headbutt
+** Shotos                                                     :ken:ryu:akuma:
+*** Hadouken (not EX) isn't safe in corner                           :punish:
+    It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** Quick roll                                                      :@wakeup:
     Press down as you get knocked down.
