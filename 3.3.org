@@ -219,8 +219,28 @@
 *** TODO Punish Hadou BUrst (SA1) (-29) with EX Hayate?          :punish:sa1:
     Check the range
 *** TODO Punish Hyper Tornado (SA3) (-31) with Karakusa          :punish:sa3:
-** Twelve							     :twelve:
-
+** Twelve                                                            :twelve:
+*** TODO Punish crHP (rolling ball) (-8) with crMP?                  :punish:
+*** TODO Punish crHK (low drill) (-11) with MP                       :punish:
+*** TODO Punish D.R.A (torpedo) (-14/-13/-13) with HP?               :punish:
+    Check the range
+*** TODO HP Fukiage beats air A.X.E (multi-hit arm-waving thing)   :footsies:
+    Juggle with HP Hayate 
+    [[https://youtu.be/7BPhr5TKB7A?t=2m34s][Video]]
+*** EX Fukiage to beat free-falling jump-in                        :footsies:
+    Juggle with MP Hayate
+    [[https://youtu.be/7BPhr5TKB7A?t=2m55s][Video]]
+    HP Fukiage can work too [[https://youtu.be/7BPhr5TKB7A?t=4m34s][Video]]
+*** HP Fukiage beats superjump HK                                  :footsies:
+    [[https://youtu.be/7BPhr5TKB7A?t=9m29s][Video]]
+*** TODO Punish ground A.X.E (-5/-6/-7/-4) with SA1             :punish:@sa1:
+    [[https://youtu.be/7BPhr5TKB7A?t=11m13s][Video]]
+    Corner only?
+*** TODO After air Tsurugi, dash then juggle Fukiage                 :juggle:
+    [[https://youtu.be/7BPhr5TKB7A?t=14m2s][Video]]
+*** X.N.D.L (SA1) isn't safe (-29). Punish it in corner          :punish:sa1:
+*** TODO Punish X.F.L.A.T (SA2, torpedo) (-24)                   :punish:sa2:
+    I think it switch sides. Is HP enough?
 ** Urien							      :urien:
 *** Punish crHP	(-10) 						     :punish:
     Punish with MP or LK
@@ -260,7 +280,7 @@
 ** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
-** Chun Li, Elena, Makoto, Q...                       :elena:chunli:makoto:q:
+** Chun Li, Elena, Makoto, Q, Twelve...        :elena:chunli:makoto:q:twelve:
 *** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
@@ -271,10 +291,11 @@
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
 
-** TODO Yang, Dudley, Hugo, Ibuki, Necro       :dudley:ibuki:yang:hugo:necro:
+** TODO Yang, Dudley, Hugo, Ibuki, Necro, Twelve :dudley:ibuki:yang:hugo:necro:twelve:
 *** Dash behind them on their wakeup                           :setup:wakeup:
     [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
     [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
+    [[https://youtu.be/7BPhr5TKB7A?t=1m27s][Video]]
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** MP xx SA1                                         :combo:hitconfirm:@sa1:
 *** Hayate link SA1                                   :combo:hitconfirm:@sa1:
