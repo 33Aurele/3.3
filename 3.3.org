@@ -208,7 +208,17 @@
     EX Hayate, EX Hayate
 
 ** Sean								       :sean:
-
+*** TODO Punish crHP (-9) with crMP                                  :punish:
+    Test if it isn't better to use Karakusa, or MP, or HP
+*** TODO Punish towards HP on hit with SA1                      :punish:@sa1:
+    towards HP is -6 on block, -4 on hit
+*** TODO Punish Tornado Kick (-7/-6/-6) not EX, with LK              :punish:
+*** TODO Punish Tackle (-14 all versions, including EX) with MP      :punish:
+*** crLP against close rolls                                       :footsies:
+    It has 7 recovery frames
+*** TODO Punish Hadou BUrst (SA1) (-29) with EX Hayate?          :punish:sa1:
+    Check the range
+*** TODO Punish Hyper Tornado (SA3) (-31) with Karakusa          :punish:sa3:
 ** Twelve							     :twelve:
 
 ** Urien							      :urien:
