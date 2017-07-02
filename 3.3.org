@@ -265,7 +265,13 @@
     [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
 
 ** Yang								       :yang:
-
+*** TODO After 2 (3?) hits of EX Mantis Slash, kara Karakusa          :setup:
+    [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
+*** TODO Punish HK (turn kick) (-8) with crMP ?                      :punish:
+    Maybe too hard to do, reversal only
+*** TODO Punsih EX Mantis Slash with SA1                             :punish:
+    After how many hits?
+*** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11)			     :punish:
     MP or LK
@@ -291,10 +297,11 @@
 *** TODO When expecting DP, jump parry rather than down block	   :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
     [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
-
 ** Twins							   :yang:yun:
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
+*** TODO After blocked MK (launcher), then jump cancel, Fukiage?   :footsies:
+    I think you can go with HP Fukiage or EX before the diveckick hits you.
 
 ** TODO Yang, Dudley, Hugo, Ibuki, Necro, Twelve :dudley:ibuki:yang:hugo:necro:twelve:
 *** Dash behind them on their wakeup                           :setup:wakeup:
@@ -332,6 +339,8 @@
 *** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
 *** TODO Kara-Karakusa after back grab, backward dash 		      :setup:
 *** TODO Kara-Karakusa after meaty MP, MP                             :setup:
+*** TODO Meaty MP, Karakusa                                           :setup:
+    [[https://youtu.be/66B9x4TFej4?t=5m21s][Video]]
 *** TODO Kara-Karakusa after LP antiair                               :setup:
     [[https://youtu.be/Y4w1dMA3lyQ?t=5m57s][Video]]
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
@@ -348,6 +357,10 @@
     [[https://youtu.be/yUpr8qOR34c?t=4m11s][Video]]
 *** TODO Karakusa after low MK                                        :setup:
     [[https://youtu.be/UV6XqaEd5Kc?t=4m28s][Video]]
+*** Karakusa, HP, EX Oroshi, then jump over the opponent              :setup:
+    There you can do Karakusa, MP, crLK...
+    [[https://youtu.be/66B9x4TFej4?t=8m8s][Video]]
+    Useful if you want to swap places with someone (for SA2 or corner pressure), instead of EX Hayate which simply pushes the opponent
 *** LK before EX Oroshi for range				   :footsies:
 *** Dash after MK Tsurugi					   :footsies:
 *** Low EX Tsurugi against cornered opponent			   :footsies:
@@ -460,6 +473,8 @@
 ** Shotos                                                     :ken:ryu:akuma:
 *** Hadouken (not EX) isn't safe in corner                           :punish:
     It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too
+** Twins                                                           :yang:yun:
+*** Watch out for Divekick crossup if you wakeup in the corner      :@wakeup:
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** Quick roll                                                      :@wakeup:
     Press down as you get knocked down.
@@ -475,3 +490,4 @@
 * TODO list of taunts
 * TODO list of links
 * TODO DED explanation
+* TODO clear todos
