@@ -244,19 +244,24 @@
 ** Urien							      :urien:
 *** Punish crHP	(-10) 						     :punish:
     Punish with MP or LK
-
+*** TODO Punish towrds HP (-6) with LK                               :punish:
+    The overhead
+*** TODO Punish Violence Knee Drop (-16/-16/-16/-14) with HP Hayate  :punish:
+*** TODO Punish Chariot Rush (-10/-11/-12/-9) with MP                :punish:
+    Or crMP?
+*** TODO Punish Tyrant Punish (SA1, -18) with Karakusa           :punish:sa1:
 *** Charge Hayates outside of his range 			   :footsies:
     You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
 
-*** Crouch or Dash under EX Metallic Sphere
+*** Crouch or Dash under EX Metallic Sphere                        :footsies:
     Then you can do Fukiage 
     [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
     
 *** TODO Parry Chariot Rush, then HP Fukiage			      :parry:
-*** EX Fukiage beats a lot of options
+*** EX Fukiage beats a lot of options                              :footsies:
     Headbutt, most normals...
     
-*** TODO Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :fun:
+*** TODO Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :fun:juggle:
     [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
 
 ** Yang								       :yang:
@@ -277,7 +282,7 @@
 ** Shotos                                          :akuma:gouki:ken:ryu:sean:
 *** TODO EX Hayate corner juggle with MK                       :juggle:combo:
     [[https://youtu.be/iBWYdKCr6Hc?t=12m46s][Video]]
-** Shotos and Alex			      :akuma:gouki:ken:ryu:sean:alex:
+** Shotos and Alex and Urien            :akuma:gouki:ken:ryu:sean:alex:urien:
 *** TODO Punish crHK with HP Hayate 				     :punish:
     Also works on wiffed crHK
 ** Chun Li, Elena, Makoto, Q, Twelve...        :elena:chunli:makoto:q:twelve:
