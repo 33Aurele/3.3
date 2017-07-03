@@ -1,11 +1,12 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
-*** TODO Fukiage (not EX) to beat the stomp
+*** TODO Fukiage (not EX) to beat the stomp                        :footsies:
 *** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
 
-*** TODO Punish roundhouse (boot) (-13) with Hayate 		     :punish:
+*** Punish roundhouse (boot) (-13) with HP Hayate                    :punish:
+    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
 *** Mixup: alex rolls after EX Oroshi				:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup) xx LK xx LP Hayate
@@ -14,7 +15,7 @@
 
 ** Akuma							:akuma:gouki:
 *** Cr MK against MK and HK tatsumakis				   :footsies:
-*** TODO Against guarded HK tatsumaki				     :punish:
+*** Against guarded close HK tatsumaki                               :punish:
     block the two first hits, crouch for the third then blue parry the last one
     [[https://youtu.be/40sXfFua38M?t=3m34s][Video]]
     
@@ -24,20 +25,23 @@
 *** Punished wiffed far HP with HP Hayate			   :footsies:
     [[https://youtu.be/40sXfFua38M?t=7m37s][Video]]
 
-*** TODO Dash under karakusa against close, jump back, air hadouken :footsies:
-*** TODO LK tatsumaki that goes above you can be punished with cr LP xx cr LP :punish:
-    You can put sa1 after.
-    You can do down lp+lk to OS tech/crLP.
+*** Dash under karakusa against close, jump back, air hadouken     :footsies:
+*** LK tatsumaki that goes above you can be punished with cr LP xx cr LP :punish:
+    You can put SA1 after.
+    You can input down lp+lk to OS tech/crLP.
 
-*** TODO Charged HP Hayate avoid Shun Goku Satsu (super grab)		:fun:
+*** Charged HP Hayate avoid Shun Goku Satsu (super grab)                :fun:
+    This isn't very useful because Shun Goku Satsu only has 2 recovery frames so it's very hard to punish that way.
+    Don't let go of the charge during the super. 
+    If the Hayate is fully charged and comes out, you will get grabbed.
 ** ChunLi							     :chunli:
-*** Low parry then Fukiage to beat low xx Hazan Shu
-[[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
+*** Low parry then Fukiage to beat low xx Hazan Shu                :footsies:
+    [[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
 
-*** TODO After Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa  :setup:
+*** TODO After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa :setup:
     It works even if the last crLK is blocked
 
-*** TODO Fukiage beats ???
+*** Fukiage beats close HK                                         :footsies:
     [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
 
 *** TODO EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa :setup:
@@ -47,9 +51,10 @@
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
     TODO: what happens if she cancels it into SA2 anyway?
     
-*** TODO Punish SA2
+*** Max Punish SA2                                               :punish:sa2:
     Blue parry last hit, then neutral jump HK, HP,...
-
+    The timing is very tight. No super jump.
+    Easiest way is to simply parry the last hit then HP
 *** Double Fukiage                                               :@sa2:combo:
 [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
@@ -61,7 +66,7 @@
     MP xx HP Fukiage xx super jump cancel HK
 
 *** Zoning with crHK						   :footsies:
-*** Mixup: dudley rolls after EX Hayate
+*** Mixup: dudley rolls after EX Hayate                               :mixup:
     Dash, then super jump HP (crossup) or Dash, then super jump karakusa
     [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
 
@@ -76,7 +81,7 @@
 *** TODO Punish Spinning Beat (SA1) with HP                      :punish:sa1:
 *** TODO Punish Brave Dance (-12)                                :punish:sa2:
     I don't know yet
-** Gill								       :gill:
+** Gill                                                                :gill:
 
 ** Hugo								       :hugo:
 *** TODO EX Oroshi xx SA2                                        :combo:@sa2:
@@ -216,7 +221,7 @@
 *** TODO Punish Tackle (-14 all versions, including EX) with MP      :punish:
 *** crLP against close rolls                                       :footsies:
     It has 7 recovery frames
-*** TODO Punish Hadou BUrst (SA1) (-29) with EX Hayate?          :punish:sa1:
+*** TODO Punish Hadou Burst (SA1) (-29) with EX Hayate?          :punish:sa1:
     Check the range
 *** TODO Punish Hyper Tornado (SA3) (-31) with Karakusa          :punish:sa3:
 ** Twelve                                                            :twelve:
@@ -411,7 +416,7 @@
 
 * ChunLi							    :@chunli:
 ** Makoto							     :makoto:
-*** Kara-throw beats Karakusa after Hayate
+*** Kara-throw beats Karakusa after Hayate                         :footsies:
 * Dudley							    :@dudley:
 
 * Elena								     :@elena:
@@ -460,12 +465,11 @@
 *** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
     Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
 
-*** TODO First hit of Kongou Kokuretsu Zan cannot be parried
-
+*** TODO First hit of Kongou Kokuretsu Zan cannot be parried            :fun:
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after blocking the beginning
-*** TODO Only spinning bird kick EX and SA as reversal
+*** TODO Only spinning bird kick EX and SA as reversal             :footsies:
 ** Hugo								       :hugo:
 *** Block Hammer Frenzy SA3                                             :sa3:
     The third hit is overhead
@@ -475,9 +479,9 @@
     The fourth hit is low
 
 ** Remy								       :remy:
-*** Blue parry the second hit of crouching roundhouse
+*** Blue parry the second hit of crouching roundhouse                 :parry:
 ** Urien							      :urien:
-*** Watch out for grab after whiffed Headbutt
+*** Watch out for grab after whiffed Headbutt                      :footsies:
 ** Shotos                                                     :ken:ryu:akuma:
 *** Hadouken (not EX) isn't safe in corner                           :punish:
     It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too
