@@ -38,14 +38,12 @@
 *** Low parry then Fukiage to beat low xx Hazan Shu                :footsies:
     [[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
 
-*** TODO After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa :setup:
-    It works even if the last crLK is blocked
+*** After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa    :setup:
+    It works even if the last crLK is blocked. 
+    Does not work in the corner.
 
 *** Fukiage beats close HK                                         :footsies:
     [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
-
-*** TODO EX Hayate corner, LP Hayate, LKxxCharged Hayate cancel, meaty MP then Kara-karakusa :setup:
-    [[https://youtu.be/E0J9J87JL7s?t=5m23s][Video]]
 
 *** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
@@ -58,11 +56,13 @@
 *** Double Fukiage                                               :@sa2:combo:
 [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
-*** Punish HP or EX Machine Gun Blow (-15) 			     :punish:
-    HP is close enough
+*** Punish MP Machine Gun Blow (-9) with crMP                        :punish:
+*** Punish HP Machine Gun Blow (-15)                                 :punish:
+    HP is close enough. If you want more time, punish with crMP
     [[https://youtu.be/N-fVnPzgTbU?t=57s][Video]]
-    
-*** TODO Punish Cross Counter (not EX)				     :punish:
+    Don't punish MP MGB. The difference is that there are 6 hits in the HP version (4 for MP version).
+*** Punish EX Machine Gun Blow (-15) with crMP                       :punish:
+*** Punish Cross Counter (not EX)                                    :punish:
     MP xx HP Fukiage xx super jump cancel HK
 
 *** Zoning with crHK						   :footsies:
@@ -73,12 +73,15 @@
 *** Fukiage hits stunned Dudley						:fun:
 
 ** Elena                                                              :elena:
-*** TODO Punish HK Spinning Scythe (-8) with cr MP                   :punish:
-*** TODO Punish EX Spinning Scythe (-15)                             :punish:
-    I think cr MP or Hayate should be ok
+*** Punish HK Spinning Scythe (-8) with LK or crLK                   :punish:
+    In theory, crMP is possible, but the timing is really hard (1frame)
+*** Punish EX Spinning Scythe (-15) with crMP                        :punish:
 *** Punish Rhino Horn (-3/-4/-6/-2 EX) with SA1                 :punish:@sa1:
+    When she throws at you feet first 
 *** TODO Punish Lynx Tail (-17/-15/-15) with Hayate                  :punish:
-*** TODO Punish Spinning Beat (SA1) with HP                      :punish:sa1:
+    The low spinning kicks.
+    Don't punish EX (-10) (maybe with Kara SA1?
+*** Punish Spinning Beat (SA1) with HP                           :punish:sa1:
 *** TODO Punish Brave Dance (-12)                                :punish:sa2:
     I don't know yet
 ** Gill                                                                :gill:
@@ -86,7 +89,7 @@
 ** Hugo								       :hugo:
 *** TODO EX Oroshi xx SA2                                        :combo:@sa2:
     Will connect in the corner
-*** TODO Punish dropkick (-18) with Hayate                           :punish:
+*** TODO Punish dropkick HK (-18) with Hayate                        :punish:
 *** TODO Punish butt crHK (-43) with cr MP                           :punish:
 *** TODO Punish Monster Lariat (-8/-10/-11/-22)                      :punish:
     Karakusa? I don't know if the range is good enough
