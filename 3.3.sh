@@ -2,7 +2,7 @@
 
 # replace todos with something more readable
 cp 3.3.org temp.org
-sed -i 's/TODO/\(needs to be tested\)/g' temp.org
+sed -i 's/TODO/\(unsure\)/g' temp.org
 
 #removing empty lines
 sed -i '/^$/d' temp.org

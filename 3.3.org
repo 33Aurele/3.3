@@ -87,14 +87,17 @@
 ** Gill                                                                :gill:
 
 ** Hugo								       :hugo:
-*** TODO EX Oroshi xx SA2                                        :combo:@sa2:
-    Will connect in the corner
-*** TODO Punish dropkick HK (-18) with Hayate                        :punish:
-*** TODO Punish butt crHK (-43) with cr MP                           :punish:
-*** TODO Punish Monster Lariat (-8/-10/-11/-22)                      :punish:
-    Karakusa? I don't know if the range is good enough
-*** TODO Punish Hammer Frenzy (-29)                              :punish:sa3:
-    HP should be enough?
+*** Punish dropkick HK (-18) with HP Hayate                          :punish:
+    You can even use EX Hayate but the timing is very strict.
+*** Punish butt crHK (-43) with cr MP or MP                          :punish:
+*** Punish Monster Lariat (-8/-10/-11/-22)                           :punish:
+    Use LK xx LP Hayate against the LK version. crLK can be used too but then you're out of range for a LP Hayate.
+    Use MP or HP against the other versions.
+*** Punish Hammer Frenzy (-29)                                   :punish:sa3:
+    You can use HP most of the times.
+    Depending on where the first hit hits you, Hugo can be close or far.
+    If he's very far, don't use HP and go directly for Hayate.
+    If he's very close, you can use EX Fukiage to punish (even reversal MP Fukiage in the corner).
 *** EX Oroshi beats cr MK                                          :footsies:
 *** Zone him                                                       :footsies:
     Don't stay too near. Use jump back HK to get out.
@@ -102,17 +105,15 @@
     Use Hayate to punish wiffed grabs.
 
 *** Zoning with crMK						   :footsies:
+*** EX Oroshi xx SA2                                             :combo:@sa2:
+    Will connect in the corner.
+    Be careful, EX Oroshi has almost no pushback (compared to HP), so don't use a two strong button for the super.
 ** Ibuki							      :ibuki:
-*** Punish slide Kubiori (-10 -16 -19) with MP                       :punish:
-*** Punish slide (down towards MK) (-16) with MP                     :punish:
-*** TODO Punish HK (-11) with cr MP                                  :punish:
-    The 2 hit kick that ends up with the foot in the air
+*** Punish slide Kubiori (-10 -16 -19) with crMP                     :punish:
+*** Punish slide (down towards MK) (-16) with crMP                   :punish:
+*** Punish HK (-11) with cr MP                                       :punish:
+    The 2 hit kick that ends up with the foot in the air. You have to be quick.
     [[https://youtu.be/7EiX78cZu9U?t=23m3s][Video]]
-*** TODO Punish EX Tsumuji (3 kicks) with cr MP                      :punish:
-    Maybe MP is enough
-*** TODO In corner, MP, cr MP blocked then Kara Karakusa              :setup:
-    [[https://youtu.be/7EiX78cZu9U?t=11m10s][Video]]
-
 *** Zoning with MK and cr MK                                       :footsies:
 *** HP Fukiage catches a lot of super jump ins                     :footsies:
 *** 2-hit 100% combo                                               :fun:@sa3:
@@ -283,6 +284,8 @@
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11), not EX (-2)             :punish:
     HP, MP or LK
+*** TODO Punish launch punch EX with EX Fukiage?                     :punish:
+    It seems that it shouldn't be possible. nee to test it. maybe on not EX launch punch
 *** TODO Punish EX Tetsu Zankuu (shoulder) (-7) with LK              :punish:
 *** TODO EX Fukiage to punish shoulder and launch punch on reaction :footsies:
 *** TODO EX Fukiage to punish jump backward at karakusa range      :footsies:
@@ -316,6 +319,7 @@
 ** Twins							   :yang:yun:
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
+*** After divekick parry, LP then dash under                 :footsies:parry:
 *** TODO After blocked MK (launcher), then jump cancel, Fukiage?   :footsies:
     I think you can go with HP Fukiage or EX before the diveckick hits you.
 
@@ -365,6 +369,8 @@
     [[https://youtu.be/iBWYdKCr6Hc?t=14m28s][Video]]
 *** TODO In corner, MP, HP, Kara Karakusa                             :setup:
     [[https://youtu.be/ve_Sm5b4CH4?t=31s][Video]]
+*** TODO In corner, MP, cr MP blocked then Kara Karakusa              :setup:
+    [[https://youtu.be/7EiX78cZu9U?t=11m10s][Video]]
 *** Karakusa after forward LK					      :setup:
 *** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
     If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
