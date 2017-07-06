@@ -129,24 +129,26 @@
 *** Don't try too much to parry on wakeup                           :@wakeup:
     Ken has too many multi-hits block strings options
 ** Makoto							     :makoto:
-*** TODO Punish Hayate (-12) with cr MP                              :punish:
-    check if karakusa or HP can be done too
+*** Punish any Hayate (-12) with HP or Karakusa                      :punish:
     Warning: fully charged Hayate is safe.
 *** Simple Seichusen Godanzuki (SA1) punish (-17)                 :punis:sa1:
-    HP or Karakusa
-*** TODO Punish Abare Tosanami (-20)                             :punish:sa2:
+    HP or Karakusa. To know when to hit, do it a little bit after her arm has retracted.
+*** Punish Abare Tosanami (-20)                                  :punish:sa2:
     HP or Karakusa (easy).
-    Or jump before the last hit, parry it while in the air (very soon after jumping), then HK, HP xx Hayate
+    Or jump before the last hit, parry it while in the air (soon after jumping), then HK, HP xx Hayate
     [[http://ensabahnur.free.fr/BastonV2/videoViewer.php?FLV=SFIII_3rd_Strike_Anniversary_Edition_DVD_Tutorial_Makoto.flv][Video]]
 *** SA1 punish 100% stun (reset)                           :punish:reset:sa1:
-    Reversal HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK
+    HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK. Strict timing for the first Fukiage. Wait for her arm to retract.
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 
 ** Necro							      :necro:
-*** TODO Punish HK (-8) with cr MP ?                                 :punish:
-*** TODO Punish crHK (-12) with HP Hayate ?                          :punish:
+*** Punish crHK (-12) with HP Hayate ?                               :punish:
+    Warning: it can push you out of Hayate range. Don't punish if you're too far.
+    Also timing is very strict, do it as early as possible.
 *** TODO Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate ? :punish:
-*** TODO Punish Magnetic Storm (-12) SA1 with HP Hayate          :punish:sa1:
+*** Punish Magnetic Storm (-12) SA1                              :punish:sa1:
+    In theory you can punish with HP. However, the opponent can keep it going by pressing punch.
+    It is too hard to react if he stops in the middle of it, except maybe with SA1.
 *** TODO Get out of the Spinning punch loop (1/-4/-18)             :footsies:
     If I remember correctly, it is done with the MP version. 
     I think you can blue parry the second hit and then Fukiage but I'm not sure.
@@ -154,7 +156,8 @@
     After corner grab + juggle.
     He can also do Flying Viper
 ** Oro									:oro:
-*** TODO Punish Human Pillar Driver (extended arm grab) (-15) with HP Hayate :punish:
+*** Punish Human Pillar Driver (extended arm grab) (-15) with HP Hayate :punish:
+    If he's close enough you can even punish with HP. Easier timing, better dammage, better stun if you cancel it.
 *** Don't dash too much                                            :footsies:
     He can really zone you and hurt you with HK
 *** Dash under Yagyou Dama (Ball, SA2)                                  :sa2:
