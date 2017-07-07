@@ -1,12 +1,11 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
+*** Punish roundhouse (boot) (-13) with HP Hayate                    :punish:
+    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
 *** TODO Fukiage (not EX) to beat the stomp                        :footsies:
 *** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
-
-*** Punish roundhouse (boot) (-13) with HP Hayate                    :punish:
-    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
 *** Mixup: alex rolls after EX Oroshi				:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup) xx LK xx LP Hayate
@@ -166,44 +165,47 @@
     [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
 
 ** Q									  :q:
-*** TODO Punish HP (-23)                                             :punish:
-    I think you need to be close, or else it is safe.
-    HP Hayate or cr MP should be enough
-*** TODO Punish HK (-12)                                             :punish:
-    HP Hayate reversal?
+***  Punish HP (-23)                                                 :punish:
+    Two fists forward.
+    You can punish with HP if you're close. Otherwise, do HP Hayate.
+*** Punish HK (-12)                                                  :punish:
+    If you're close, you can do Reversal HP Hayate. It can be out of range.
 *** Punish cr HK (-25) with cr MP                                    :punish:
     Same goes for back+crHK (-26). If you see him falling, punish
 *** TODO Punish overhead Dashing Head Attack (-10/-11/-12) with HP   :punish:
 *** TODO Punish low Dashing Leg Attack (-13/-14/-15) with crMP       :punish:
-*** TODO Punish EX Dashing Head/Leg Attack (-21/-18) with crMP       :punish:
-*** Punish EX High speed barrage (-23) with HP Hayate                :punish:
+*** Punish EX Dashing Head Attack (-21) with HP                      :punish:
+*** Punish EX Dashing Leg Attack (-18) with MP                       :punish:
+    This is the dash that goes through the whole screen so you can expect it at that range.
+*** Punish EX High speed barrage (-23) with crMP                     :punish:
 *** Punish Critical Combo Attack (SA1) (-19) with Karakusa       :punish:sa1:
     (And don't forget to crouch for the 4th hit)
     [[https://youtu.be/GA5-9rN8GSY?t=3m19s][Video]]
-*** TODO Punish Deadly Double Combination (SA2) (-25) with ?     :punish:sa2:
-    HP? Karakusa? Blockstun is long.
+*** Punish Deadly Double Combination (SA2) (-25) with HP         :punish:sa2:
+    Blockstun is long. You need to hit him a little bit after he retracts his arm.
 *** TODO Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
-*** TODO Kara EX Hayate to punish full screen taunts                 :punish:
-    Test if it really goes full screen
+*** EX Hayate to punish full screen taunts                           :punish:
 *** Parry half of EX High speed barrage			       :punish:parry:
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
 *** Beware of the grab reset in the corner                         :footsies:
 ** Remy								       :remy:
 *** Punish crHK                                                      :punish:
     Blue parry the second hit, then crMP
-*** TODO Punish crMK (-9) with cr MP                                 :punish:
-    It seems weird, i need to test it
-*** TODO Punish towardsMK (-7) (weird side stomp) with LK            :punish:
-    I need to check the range
+*** Punish crMK (-9)                                                 :punish:
+    If you're close, you can use LK (not crLK or LP Hayate won't connect).
+    If you're a bit far, you can use crMP.
+    But it can still push you out of crMP range.
+*** Punish towardsMK (-7) (weird side stomp) with LK                 :punish:
+    Don't use crLK or LP won't connect.
 *** Dash under high Light of Virtue                                :footsies:
     The recovery is 22 frames, you can often Karakusa to punish
-*** EX Hayate to punish high Light of Virtue                :footsies:punish:
-    It goes under it
+*** Hayate to punish high Light of Virtue                   :footsies:punish:
+    It goes under it. But it has fast recovery, if you waited too long, just dash under it.
 *** TODO Punish blocked HK/EX Rising Rage Flash (flash kick)         :punish:
     HP Fukiage, MP Hayate
-*** TODO Punish Cold BLue Kick (-4/-4/-6/-1) with SA1           :punish:@sa1:
+*** TODO Punish Cold Blue Kick (-4/-4/-6/-1) with SA1           :punish:@sa1:
 *** TODO Punish SA2 Supreme Rising Rage Flash                    :punish:sa2:
-[[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
+    [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 ** Ryu									:ryu:
 *** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMP           :punish:
 *** TODO Punish blocked HP Shoryuken                                 :punish:
