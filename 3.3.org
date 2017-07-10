@@ -123,6 +123,8 @@
 *** Punish Shipuujinrai Kyaku with karakusa                      :punish:sa3:
     You need to start the input early, on the last blocked kick
 *** Charge Hayates outside of cr MK range                          :footsies:
+*** TODO Punish crHP (-6)
+    LK or SA1?
 *** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
     TODO: what happens if he cancels it into SA3 anyway?
 *** Don't try too much to parry on wakeup                           :@wakeup:
@@ -244,10 +246,11 @@
     Above that range, you have to start jumping over the fireball during the super freeze. You will still have the time to punish with EX Hayate.
 *** TODO Punish Hyper Tornado (SA3) (-31) with Karakusa          :punish:sa3:
 ** Twelve                                                            :twelve:
-*** TODO Punish crHP (rolling ball) (-8) with crMP?                  :punish:
-*** TODO Punish crHK (low drill) (-11) with MP                       :punish:
-*** TODO Punish D.R.A (torpedo) (-14/-13/-13) with HP?               :punish:
-    Check the range
+*** Punish crHP (rolling ball) (-8)                                  :punish:
+    In theory, you can do crMP but the timing is very short.
+    If you're close, you can do LK or SA1
+*** Punish crHK (low drill) (-11) with MP                            :punish:
+*** Punish D.R.A (torpedo) (-14/-13/-13) with crMP                   :punish:
 *** TODO HP Fukiage beats air A.X.E (multi-hit arm-waving thing)   :footsies:
     Juggle with HP Hayate 
     [[https://youtu.be/7BPhr5TKB7A?t=2m34s][Video]]
@@ -257,23 +260,24 @@
     HP Fukiage can work too [[https://youtu.be/7BPhr5TKB7A?t=4m34s][Video]]
 *** HP Fukiage beats superjump HK                                  :footsies:
     [[https://youtu.be/7BPhr5TKB7A?t=9m29s][Video]]
-*** TODO Punish ground A.X.E (-5/-6/-7/-4) with SA1             :punish:@sa1:
+*** Punish ground A.X.E (-5/-6/-7/-4) with SA1                  :punish:@sa1:
     [[https://youtu.be/7BPhr5TKB7A?t=11m13s][Video]]
-    Corner only?
 *** TODO After air Tsurugi, dash then juggle Fukiage                 :juggle:
     [[https://youtu.be/7BPhr5TKB7A?t=14m2s][Video]]
 *** X.N.D.L (SA1) isn't safe (-29). Punish it in corner          :punish:sa1:
-*** TODO Punish X.F.L.A.T (SA2, torpedo) (-24)                   :punish:sa2:
-    I think it switch sides. Is HP enough?
+*** Punish X.F.L.A.T (SA2, torpedo) (-24)                        :punish:sa2:
+    You can use MP or crMP. 
+    Warning: sometimes he switches sides, sometimes not. Try to react to that.
 ** Urien							      :urien:
 *** Punish crHP	(-10) 						     :punish:
     Punish with MP or LK
-*** TODO Punish towrds HP (-6) with LK                               :punish:
-    The overhead
-*** TODO Punish Violence Knee Drop (-16/-16/-16/-14) with HP Hayate  :punish:
-*** TODO Punish Chariot Rush (-10/-11/-12/-9) with MP                :punish:
-    Or crMP?
-*** TODO Punish Tyrant Punish (SA1, -18) with Karakusa           :punish:sa1:
+*** Punish towards HP (-6) with LK                                   :punish:
+    Only if he's very close. SA1 works too.
+*** TODO Punish Violence Knee Drop (-16/-16/-16/-14)                 :punish:
+    It works in the corner with crMP. Need to do more tests
+*** TODO Punish Chariot Rush (-10/-11/-12/-9) with crMP              :punish:
+    Test more, not in corner
+*** Punish Tyrant Punish (SA1, -18) with Karakusa                :punish:sa1:
 *** Charge Hayates outside of his range 			   :footsies:
     You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
 
