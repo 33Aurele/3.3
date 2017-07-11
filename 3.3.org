@@ -295,26 +295,21 @@
 ** Yang								       :yang:
 *** TODO After 2 (3?) hits of EX Mantis Slash, kara Karakusa          :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
-*** TODO Punish HK (turn kick) (-8) with crMP ?                      :punish:
-    Maybe too hard to do, reversal only
 *** TODO Punsih EX Mantis Slash with SA1                             :punish:
     After how many hits?
 *** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11), not EX (-2)             :punish:
     HP, MP or LK
-*** TODO Punish launch punch EX with EX Fukiage?                     :punish:
-    It seems that it shouldn't be possible. nee to test it. maybe on not EX launch punch
-*** TODO Punish EX Tetsu Zankuu (shoulder) (-7) with LK              :punish:
 *** TODO EX Fukiage to punish shoulder and launch punch on reaction :footsies:
 *** TODO EX Fukiage to punish jump backward at karakusa range      :footsies:
     If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
-*** TODO Punish You Hou (SA1, -27) with HP                       :punish:sa1:
-    Is range enough for karakusa?
-*** TODO Punish Sourai Rengeki (SA2, -18) with HP                :punish:sa2:
-    Karakusa?
-    Warning: if blocked, it crosses you up.
-** Alex and Hugo						  :alex:hugo:
+*** Punish You Hou (SA1, -27)                                    :punish:sa1:
+    Block the two first hit, then jump. You won't be hit by the last punch (no need to parry).
+    On the way down you can punish with jHK, HP xx Hayate
+*** Punish Sourai Rengeki (SA2, -18) with HP or Karakusa         :punish:sa2:
+    Warning: it crosses you up on the last hit.
+** Alex and Hugo                                                  :alex:hugo:
 *** TODO EX Hayate corner juggle with HP                       :juggle:combo:
     You can reset Alex with Kara-Karakusa after
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
