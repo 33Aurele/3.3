@@ -126,6 +126,7 @@
 *** TODO Punish crHP (-6)
     LK or SA1?
 *** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
+    [[https://youtu.be/tGPk6hiEmHg?t=4m25s][Video]]
     TODO: what happens if he cancels it into SA3 anyway?
 *** Don't try too much to parry on wakeup                           :@wakeup:
     Ken has too many multi-hits block strings options
@@ -483,16 +484,20 @@
 * all :@all:@alex:@akuma:@chunli:@dudley:@elena:@gill:@gouki:@hugo:@ibuki:@ken:@makoto:@necro:@oro:@q:@remy:@ryu:@sean:@twelve:@urien:@yang:@yun:
 ** Alex								       :alex:
 *** TODO Back HP cannot be parried
-
 ** Akuma							:akuma:gouki:
 *** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
     Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
 
 *** TODO First hit of Kongou Kokuretsu Zan cannot be parried            :fun:
+*** Watch out for tatsumaki, LK, dash under reset                  :footsies:
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after blocking the beginning
 *** TODO Only spinning bird kick EX and SA as reversal             :footsies:
+** Dudley                                                            :dudley:
+*** Parry SA1
+    Jump with the last uppercut so you can land a jumping attack on the way down.
+    [[https://youtu.be/tGPk6hiEmHg?t=4m46s][Video]]
 ** Hugo								       :hugo:
 *** Block Hammer Frenzy SA3                                             :sa3:
     The third hit is overhead
