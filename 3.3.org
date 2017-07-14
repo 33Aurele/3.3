@@ -90,8 +90,8 @@
     You can even use EX Hayate but the timing is very strict.
 *** Punish butt crHK (-43) with cr MP or MP                          :punish:
 *** Punish Monster Lariat (-8/-10/-11/-22)                           :punish:
-    Use LK xx LP Hayate against the LK version. crLK can be used too but then you're out of range for a LP Hayate.
-    Use MP or HP against the other versions.
+    Use LK xx LP Hayate against any version. crLK can be used too but then you're out of range for a LP Hayate.
+    Use MP or HP against medium or heavy or EX.
 *** Punish Hammer Frenzy (-29)                                   :punish:sa3:
     You can use HP most of the times.
     Depending on where the first hit hits you, Hugo can be close or far.
@@ -305,6 +305,8 @@
 *** TODO EX Fukiage to punish shoulder and launch punch on reaction :footsies:
 *** TODO EX Fukiage to punish jump backward at karakusa range      :footsies:
     If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
+*** TODO HP Fukiage on Yun's wakeup to beat EX Nishou Kyaku (DP) :footsies:wakeup:
+    [[https://youtu.be/ExtdQcWXjfk?t=2m9s][Video]]
 *** Punish You Hou (SA1, -27)                                    :punish:sa1:
     Block the two first hit, then jump. You won't be hit by the last punch (no need to parry).
     On the way down you can punish with jHK, HP xx Hayate
