@@ -2,7 +2,6 @@
 ** Alex								       :alex:
 *** Punish roundhouse (boot) (-13) with HP Hayate                    :punish:
     At a certain distance, HP Hayate is too short. Only punish if you are close enough.
-*** TODO Fukiage (not EX) to beat the stomp                        :footsies:
 *** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
@@ -44,9 +43,9 @@
 *** Fukiage beats close HK                                         :footsies:
     [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
 
-*** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
+*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
-    TODO: what happens if she cancels it into SA2 anyway?
+    If she cancels into SA2, your reversal won't come out but you can punish after.
     
 *** Max Punish SA2                                               :punish:sa2:
     Blue parry last hit, then neutral jump HK, HP,...
@@ -77,12 +76,10 @@
 *** Punish EX Spinning Scythe (-15) with crMP                        :punish:
 *** Punish Rhino Horn (-3/-4/-6/-2 EX) with SA1                 :punish:@sa1:
     When she throws at you feet first 
-*** TODO Punish Lynx Tail (-17/-15/-15) with Hayate                  :punish:
+*** Punish Lynx Tail (-17/-15/-15) with Hayate                       :punish:
     The low spinning kicks.
-    Don't punish EX (-10) (maybe with Kara SA1?
 *** Punish Spinning Beat (SA1) with HP                           :punish:sa1:
-*** TODO Punish Brave Dance (-12)                                :punish:sa2:
-    I don't know yet
+*** Punish Brave Dance (-12) with HP                             :punish:sa2:
 ** Gill                                                                :gill:
 
 ** Hugo								       :hugo:
@@ -123,11 +120,10 @@
 *** Punish Shipuujinrai Kyaku with karakusa                      :punish:sa3:
     You need to start the input early, on the last blocked kick
 *** Charge Hayates outside of cr MK range                          :footsies:
-*** TODO Punish crHP (-6)
-    LK or SA1?
-*** TODO Reversal SA1 to punish crMK (-2)                       :punish:@sa1:
+*** Punish crHP (-6) with LK or SA1                                  :punish:
+*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/tGPk6hiEmHg?t=4m25s][Video]]
-    TODO: what happens if he cancels it into SA3 anyway?
+    If he cancels into SA3, your reversal won't come out and you can punish later.
 *** Don't try too much to parry on wakeup                           :@wakeup:
     Ken has too many multi-hits block strings options
 ** Makoto							     :makoto:
