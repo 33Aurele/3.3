@@ -140,10 +140,10 @@
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 
 ** Necro							      :necro:
-*** Punish crHK (-12) with HP Hayate ?                               :punish:
+*** Punish crHK (-12) with HP Hayate                                 :punish:
     Warning: it can push you out of Hayate range. Don't punish if you're too far.
     Also timing is very strict, do it as early as possible.
-*** TODO Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate ? :punish:
+*** Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate      :punish:
 *** Punish Magnetic Storm (-12) SA1                              :punish:sa1:
     In theory you can punish with HP. However, the opponent can keep it going by pressing punch.
     It is too hard to react if he stops in the middle of it, except maybe with SA1.
@@ -164,15 +164,15 @@
     [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
 
 ** Q									  :q:
-***  Punish HP (-23)                                                 :punish:
+*** Punish HP (-23)                                                  :punish:
     Two fists forward.
     You can punish with HP if you're close. Otherwise, do HP Hayate.
 *** Punish HK (-12)                                                  :punish:
     If you're close, you can do Reversal HP Hayate. It can be out of range.
 *** Punish cr HK (-25) with cr MP                                    :punish:
     Same goes for back+crHK (-26). If you see him falling, punish
-*** TODO Punish overhead Dashing Head Attack (-10/-11/-12) with HP   :punish:
-*** TODO Punish low Dashing Leg Attack (-13/-14/-15) with crMP       :punish:
+*** Punish overhead Dashing Head Attack (-10/-11/-12) with crMP      :punish:
+*** Punish low Dashing Leg Attack (-13/-14/-15) with crMP            :punish:
 *** Punish EX Dashing Head Attack (-21) with HP                      :punish:
 *** Punish EX Dashing Leg Attack (-18) with MP                       :punish:
     This is the dash that goes through the whole screen so you can expect it at that range.
@@ -182,7 +182,7 @@
     [[https://youtu.be/GA5-9rN8GSY?t=3m19s][Video]]
 *** Punish Deadly Double Combination (SA2) (-25) with HP         :punish:sa2:
     Blockstun is long. You need to hit him a little bit after he retracts his arm.
-*** TODO Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
+*** Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
 *** EX Hayate to punish full screen taunts                           :punish:
 *** Parry half of EX High speed barrage			       :punish:parry:
     Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
@@ -200,15 +200,17 @@
     The recovery is 22 frames, you can often Karakusa to punish
 *** Hayate to punish high Light of Virtue                   :footsies:punish:
     It goes under it. But it has fast recovery, if you waited too long, just dash under it.
-*** TODO Punish blocked HK/EX Rising Rage Flash (flash kick)         :punish:
-    HP Fukiage, MP Hayate
-*** TODO Punish Cold Blue Kick (-4/-4/-6/-1) with SA1           :punish:@sa1:
+*** Meterless punish of blocked HK/EX Rising Rage Flash (flash kick) :punish:
+    HP Fukiage. After that you can either go with MP Hayate, cr HK (no knockdown), jump cancel HK, jump cancel Tsurugi...
+    It only works if Remy is very close to you 
+*** Punish Cold Blue Kick (-4/-4/-6) with SA1                   :punish:@sa1:
+    EX is safe
 *** TODO Punish SA2 Supreme Rising Rage Flash                    :punish:sa2:
     [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 ** Ryu									:ryu:
 *** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMP           :punish:
-*** TODO Punish blocked HP Shoryuken                                 :punish:
-    HP Fukiage, MP Hayate
+*** Meterless punish of blocked HP Shoryuken                         :punish:
+    HP Fukiage, jump cancel HK
 *** Punish crHP (-8)                                                 :punish:
     If he he's close, you can use LK xx LP Hayate.
     If he's a little further, you can use crMP but the timing is very strict.
@@ -221,9 +223,6 @@
     [[https://youtu.be/yUpr8qOR34c?t=1m56s][Video]]
     If you miss the reversal, only the first hit of the Seichusen hits, and then you get hit (and stunned if fully charged) by the denjin.
     Use it when the first hit should kill ryu or if the denjin isn't fully charged, or don't miss the reversal
-*** TODO Punish SA2 Shin Shoryuken (-25)                         :punish:sa2:
-    EX Hayate, EX Hayate
-
 ** Sean								       :sean:
 *** Punish crHP (-9) with crMP                                       :punish:
     If he he's close, you can use LK xx LP Hayate.
@@ -238,17 +237,17 @@
     Be cautious, sometimes he can start the tackle without hitting. In that case you won't have time to punish.
 *** crLP against close rolls                                       :footsies:
     It has 7 recovery frames
-*** Punish Hadou Burst (SA1) (-29) with EX Hayate                :punish:sa1:
+*** Punish Hadou Burst (SA1) (-29)                               :punish:sa1:
     If you're less than half a screen from him when he launches his super, you can punish with EX Hayate.
     Above that range, you have to start jumping over the fireball during the super freeze. You will still have the time to punish with EX Hayate.
-*** TODO Punish Hyper Tornado (SA3) (-31) with Karakusa          :punish:sa3:
+*** Punish Hyper Tornado (SA3) (-31) with HP                     :punish:sa3:
 ** Twelve                                                            :twelve:
 *** Punish crHP (rolling ball) (-8)                                  :punish:
     In theory, you can do crMP but the timing is very short.
     If you're close, you can do LK or SA1
 *** Punish crHK (low drill) (-11) with MP                            :punish:
 *** Punish D.R.A (torpedo) (-14/-13/-13) with crMP                   :punish:
-*** TODO HP Fukiage beats air A.X.E (multi-hit arm-waving thing)   :footsies:
+*** HP Fukiage beats air A.X.E (multi-hit arm-waving thing)        :footsies:
     Juggle with HP Hayate 
     [[https://youtu.be/7BPhr5TKB7A?t=2m34s][Video]]
 *** EX Fukiage to beat free-falling jump-in                        :footsies:
@@ -259,8 +258,6 @@
     [[https://youtu.be/7BPhr5TKB7A?t=9m29s][Video]]
 *** Punish ground A.X.E (-5/-6/-7/-4) with SA1                  :punish:@sa1:
     [[https://youtu.be/7BPhr5TKB7A?t=11m13s][Video]]
-*** TODO After air Tsurugi, dash then juggle Fukiage                 :juggle:
-    [[https://youtu.be/7BPhr5TKB7A?t=14m2s][Video]]
 *** X.N.D.L (SA1) isn't safe (-29). Punish it in corner          :punish:sa1:
 *** Punish X.F.L.A.T (SA2, torpedo) (-24)                        :punish:sa2:
     You can use MP or crMP. 
@@ -270,10 +267,10 @@
     Punish with MP or LK
 *** Punish towards HP (-6) with LK                                   :punish:
     Only if he's very close. SA1 works too.
-*** TODO Punish Violence Knee Drop (-16/-16/-16/-14)                 :punish:
-    It works in the corner with crMP. Need to do more tests
-*** TODO Punish Chariot Rush (-10/-11/-12/-9) with crMP              :punish:
-    Test more, not in corner
+*** Punish Violence Knee Drop (not EX) (-16/-16/-16) with crMP       :punish:
+    EX ends up too far to be punished
+*** Punish Chariot Rush (-10/-11/-12/-9) with crMP                   :punish:
+    EX is easier to punish with LK. But don't use LK on other versions or LP Hayate won't connect.
 *** Punish Tyrant Punish (SA1, -18) with Karakusa                :punish:sa1:
 *** Charge Hayates outside of his range 			   :footsies:
     You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
@@ -281,14 +278,13 @@
 *** Crouch or Dash under EX Metallic Sphere                        :footsies:
     Then you can do Fukiage 
     [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
-    
-*** TODO Parry Chariot Rush, then HP Fukiage			      :parry:
 *** EX Fukiage beats a lot of options                              :footsies:
     Headbutt, most normals...
     
-*** TODO Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :fun:juggle:
+*** Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :fun:juggle:
     [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
-
+*** Parry Chariot Rush, then HP Fukiage                               :parry:
+    The timing is very strict, so it might not be an useful trick.
 ** Yang								       :yang:
 *** TODO After 2 (3?) hits of EX Mantis Slash, kara Karakusa          :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
@@ -506,8 +502,11 @@
 
 ** Remy								       :remy:
 *** Blue parry the second hit of crouching roundhouse                 :parry:
+*** Parried Flash kick crosses you up                                 :parry:
 ** Urien							      :urien:
 *** Watch out for grab after whiffed Headbutt                      :footsies:
+** Yun                                                                  :yun:
+*** Blocked SA2 crosses you up                                          :sa2:
 ** Shotos                                                     :ken:ryu:akuma:
 *** Hadouken (not EX) isn't safe in corner                           :punish:
     It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too
