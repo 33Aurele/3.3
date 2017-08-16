@@ -58,7 +58,7 @@
 *** Punish HP Machine Gun Blow (-15)                                 :punish:
     HP is close enough. If you want more time, punish with crMP
     [[https://youtu.be/N-fVnPzgTbU?t=57s][Video]]
-    Don't punish MP MGB. The difference is that there are 6 hits in the HP version (4 for MP version).
+    The difference with MP MGB is that there are 6 hits in the HP version (4 for MP version).
 *** Punish EX Machine Gun Blow (-15) with crMP                       :punish:
 *** Punish Cross Counter (not EX)                                    :punish:
     MP xx HP Fukiage xx super jump cancel HK
@@ -286,18 +286,15 @@
 *** Parry Chariot Rush, then HP Fukiage                               :parry:
     The timing is very strict, so it might not be an useful trick.
 ** Yang								       :yang:
-*** TODO After 2 (3?) hits of EX Mantis Slash, kara Karakusa          :setup:
+*** After a few hits of EX Mantis Slash, kara Karakusa                :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
-*** TODO Punsih EX Mantis Slash with SA1                             :punish:
-    After how many hits?
+*** Punsih EX Mantis Slash with SA1                                  :punish:
 *** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11), not EX (-2)             :punish:
     HP, MP or LK
 *** TODO EX Fukiage to punish shoulder and launch punch on reaction :footsies:
-*** TODO EX Fukiage to punish jump backward at karakusa range      :footsies:
-    If yun fears karakusa (after Hayate for instance) and jumps backward, EX Fukiage gets him
-*** TODO HP Fukiage on Yun's wakeup to beat EX Nishou Kyaku (DP) :footsies:wakeup:
+*** HP Fukiage on Yun's wakeup to beat EX Nishou Kyaku (DP) :footsies:wakeup:
     [[https://youtu.be/ExtdQcWXjfk?t=2m9s][Video]]
 *** Punish You Hou (SA1, -27)                                    :punish:sa1:
     Block the two first hit, then jump. You won't be hit by the last punch (no need to parry).
@@ -305,34 +302,31 @@
 *** Punish Sourai Rengeki (SA2, -18) with HP or Karakusa         :punish:sa2:
     Warning: it crosses you up on the last hit.
 ** Alex and Hugo                                                  :alex:hugo:
-*** TODO EX Hayate corner juggle with HP                       :juggle:combo:
+*** EX Hayate corner juggle with HP                            :juggle:combo:
     You can reset Alex with Kara-Karakusa after
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
 
 ** Shotos                                          :akuma:gouki:ken:ryu:sean:
-*** TODO EX Hayate corner juggle with MK                       :juggle:combo:
+*** EX Hayate corner juggle with MK                            :juggle:combo:
     [[https://youtu.be/iBWYdKCr6Hc?t=12m46s][Video]]
 ** Shotos, twins,...                           :akuma:gouki:ryu:ken:yang:yun:
-*** TODO EX Hayate corner juggle with towards LK               :juggle:combo:
+*** EX Hayate corner juggle with towards LK                    :juggle:combo:
     You can even setup kara-Karakusa after.
     [[https://youtu.be/ltzXTx02CbA?t=8m39s][Video]]
 ** Shotos and Alex and Urien            :akuma:gouki:ken:ryu:sean:alex:urien:
-*** TODO Punish crHK with HP Hayate 				     :punish:
+*** Punish crHK with HP Hayate                                       :punish:
     Also works on wiffed crHK
 ** Chun Li, Elena, Makoto, Q, Twelve...        :elena:chunli:makoto:q:twelve:
 *** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
-*** TODO When expecting DP, jump parry rather than down block	   :footsies:
+*** When expecting DP, jump parry rather than down block           :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
     [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
 ** Twins							   :yang:yun:
 *** Avoid divekicks						   :footsies:
     Back jump HP to punish divekicks.
 *** After divekick parry, LP then dash under                 :footsies:parry:
-*** TODO After blocked MK (launcher), then jump cancel, Fukiage?   :footsies:
-    I think you can go with HP Fukiage or EX before the diveckick hits you.
-
-** TODO Yang, Dudley, Hugo, Ibuki, Necro, Twelve :dudley:ibuki:yang:hugo:necro:twelve:
+** Yang, Dudley, Hugo, Ibuki, Necro, Twelve :dudley:ibuki:yang:hugo:necro:twelve:
 *** Dash behind them on their wakeup                           :setup:wakeup:
     [[https://youtu.be/N-fVnPzgTbU?t=1m3s][Video]]
     [[https://youtu.be/vawX9PccGTc?t=4m51s][Video]]
@@ -477,17 +471,17 @@
 
 * all :@all:@alex:@akuma:@chunli:@dudley:@elena:@gill:@gouki:@hugo:@ibuki:@ken:@makoto:@necro:@oro:@q:@remy:@ryu:@sean:@twelve:@urien:@yang:@yun:
 ** Alex								       :alex:
-*** TODO Back HP cannot be parried
+*** Back HP cannot be parried
 ** Akuma							:akuma:gouki:
 *** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
     Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
 
-*** TODO First hit of Kongou Kokuretsu Zan cannot be parried            :fun:
+*** First hit of Kongou Kokuretsu Zan cannot be parried                 :fun:
 *** Watch out for tatsumaki, LK, dash under reset                  :footsies:
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after blocking the beginning
-*** TODO Only spinning bird kick EX and SA as reversal             :footsies:
+*** Only spinning bird kick EX and SA as reversal                  :footsies:
 ** Dudley                                                            :dudley:
 *** Parry SA1
     Jump with the last uppercut so you can land a jumping attack on the way down.
