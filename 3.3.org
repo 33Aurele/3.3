@@ -177,6 +177,10 @@
 *** Punish EX Dashing Leg Attack (-18) with MP                       :punish:
     This is the dash that goes through the whole screen so you can expect it at that range.
 *** Punish EX High speed barrage (-23) with crMP                     :punish:
+*** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
+    If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
+    If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
+
 *** Punish Critical Combo Attack (SA1) (-19) with Karakusa       :punish:sa1:
     (And don't forget to crouch for the 4th hit)
     [[https://youtu.be/GA5-9rN8GSY?t=3m19s][Video]]
@@ -334,24 +338,20 @@
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** MP xx SA1                                         :combo:hitconfirm:@sa1:
 *** Hayate link SA1                                   :combo:hitconfirm:@sa1:
-    Piano the three punches to have more time
+    Piano the three punches to have more time.
 
 *** MK Tsurugi, SA1                                   :combo:hitconfirm:@sa1:
     At a certain range only. After forward jump it will be ok.
 
 *** MP Oroshi xx SA1                                  :combo:hitconfirm:@sa1:
-*** TODO UOH, SA1                                     :combo:hitconfirm:@sa1:
+*** UOH, SA1                                          :combo:hitconfirm:@sa1:
+    The UOH should be done almost at max range. If it hits late, you can link SA1.
     [[https://youtu.be/vawX9PccGTc?t=20m54s][Video]]
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
-*** Jump HK link HP xx Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
     As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
 
-*** TODO HK Tsurugi antiair, HP Hayate				      :combo:
-    Dash before the first Hayate? If done early enough, you can juggle with another one?
-    [[https://youtu.be/40sXfFua38M?t=6m41s][Video]]
- 
-*** Jump HK, HP xx Hayate					      :combo:
+*** Jump HK, HP xx Hayate                                             :combo:
     Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
     The ump HK can be replaced with jump HP.
 
@@ -359,29 +359,19 @@
     From there, either karakusa or HP or MP
 
 *** HP antiair, ex Fukiage if parried                              :footsies:
-*** TODO Kara-Karakusa after forward MP (blocked or not)	      :setup:
-*** TODO Kara-Karakusa after back grab, backward dash 		      :setup:
-*** TODO Kara-Karakusa after meaty MP, MP                             :setup:
-*** TODO Meaty MP, Karakusa                                           :setup:
-    [[https://youtu.be/66B9x4TFej4?t=5m21s][Video]]
-*** TODO Kara-Karakusa after LP antiair                               :setup:
+*** Kara-Karakusa after forward MP (blocked or not)                   :setup:
+*** Kara-Karakusa after back grab, backward dash                      :setup:
+*** Kara-Karakusa after meaty MP, MP                                  :setup:
+*** Kara-Karakusa after LP antiair                                    :setup:
     [[https://youtu.be/Y4w1dMA3lyQ?t=5m57s][Video]]
+    You don't have to be at perfect kara-karakusa range, the LK won't hit.
 *** Backdash, Kara-Karakusa after HP xx MP Hayate		      :setup:
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
-*** TODO Jump HK, MP, kara karakusa                                   :setup:
-    [[https://youtu.be/iBWYdKCr6Hc?t=14m28s][Video]]
-*** TODO In corner, MP, HP, Kara Karakusa                             :setup:
-    [[https://youtu.be/ve_Sm5b4CH4?t=31s][Video]]
-*** TODO In corner, MP, cr MP blocked then Kara Karakusa              :setup:
-    [[https://youtu.be/7EiX78cZu9U?t=11m10s][Video]]
-*** Karakusa after forward LK					      :setup:
-*** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
-    If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
-    If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
+*** In corner, blocked crMP, then Kara-Karakusa                       :setup:
+    You have to be against the opponent when doing crMP.
+*** Karakusa after forward LK or forward LP                           :setup:
 *** LK xx Hayate (cancelled), Karakusa                                :setup:
     [[https://youtu.be/yUpr8qOR34c?t=4m11s][Video]]
-*** TODO Karakusa after low MK                                        :setup:
-    [[https://youtu.be/UV6XqaEd5Kc?t=4m28s][Video]]
 *** Karakusa, HP, EX Oroshi, then jump over the opponent              :setup:
     There you can do Karakusa, MP, crLK...
     [[https://youtu.be/66B9x4TFej4?t=8m8s][Video]]
@@ -390,14 +380,12 @@
 *** Dash after MK Tsurugi					   :footsies:
 *** Low EX Tsurugi against cornered opponent			   :footsies:
     Use super jump to hit low. 28214+2K
-*** Jump back HK against cornered opponent                         :footsies:
-    If he expects Karakusa and jumps or tries to jump out
-*** OS low parry, Karakusa or jump, ex Tsurugi 				 :os:
+*** OS low parry, Karakusa or jump, ex Tsurugi                           :os:
     Input: low parry, super jump, 270° to back, then 2 kicks
     2 2 8 9 6 3 2 1 4 + 2K
     [[https://www.youtube.com/watch?v=dcWhlfwILoE&feature=youtu.be][Video]]
 
-*** TODO Parry jump, MP, Dash Fukiage xx Super Jump Fierce 	      :reset:
+*** Parry jump, MP, Dash Fukiage xx Super Jump Fierce                 :reset:
     When landing, the hitbox is different and Fukiage can hit
     [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
     Also works after meaty MP
