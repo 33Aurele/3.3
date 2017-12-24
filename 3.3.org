@@ -276,6 +276,7 @@
 *** Punish Chariot Rush (-10/-11/-12/-9) with crMP                   :punish:
     EX is easier to punish with LK. But don't use LK on other versions or LP Hayate won't connect.
 *** Punish Tyrant Punish (SA1, -18) with Karakusa                :punish:sa1:
+*** EX Hayate corner juggle with HP Hayate		       :juggle:combo:
 *** Charge Hayates outside of his range 			   :footsies:
     You can react by cancelling when he does metallic spheres and crHK, and most normals can be wiffed punish by releasing.
 
@@ -305,23 +306,15 @@
     On the way down you can punish with jHK, HP xx Hayate
 *** Punish Sourai Rengeki (SA2, -18) with HP or Karakusa         :punish:sa2:
     Warning: it crosses you up on the last hit.
-** Alex and Hugo                                                  :alex:hugo:
+** Alex, Chun, Elena, Hugo, Makoto, Oro, Q, Remy, Twelve  :alex:chunli:elena:hugo:makoto:oro:q:remy:twelve:
+*** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
+** Alex, Hugo 							  :alex:hugo:
 *** EX Hayate corner juggle with HP                            :juggle:combo:
     You can reset Alex with Kara-Karakusa after
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
-
-** Shotos                                          :akuma:gouki:ken:ryu:sean:
-*** EX Hayate corner juggle with MK                            :juggle:combo:
-    [[https://youtu.be/iBWYdKCr6Hc?t=12m46s][Video]]
-** Shotos, twins,...                           :akuma:gouki:ryu:ken:yang:yun:
-*** EX Hayate corner juggle with towards LK                    :juggle:combo:
-    You can even setup kara-Karakusa after.
-    [[https://youtu.be/ltzXTx02CbA?t=8m39s][Video]]
 ** Shotos and Alex and Urien            :akuma:gouki:ken:ryu:sean:alex:urien:
 *** Punish crHK with HP Hayate                                       :punish:
     Also works on wiffed crHK
-** Chun Li, Elena, Makoto, Q, Twelve...        :elena:chunli:makoto:q:twelve:
-*** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** When expecting DP, jump parry rather than down block           :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
@@ -354,7 +347,7 @@
 *** Jump HK, HP xx Hayate                                             :combo:
     Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
     The ump HK can be replaced with jump HP.
-
+*** EX Hayate corner juggle with towards LK                    :juggle:combo:
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP
 
@@ -501,7 +494,7 @@
 *** Play Third Strike!                                                  :fun:
     It's a good game.
 
-* TODO put the hayate ex corner juggles
+
 * TODO put the sa2 100% stun combos
 * TODO what shoryukens crosses you up on block?
 * TODO every super punish
@@ -509,4 +502,3 @@
 * TODO list of taunts
 * TODO list of links
 * TODO DED explanation
-* TODO clear todos
