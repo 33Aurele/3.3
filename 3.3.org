@@ -5,6 +5,9 @@
 *** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     Enough range.
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
+*** Punish Boomerang Raid (SA2)					 :punish:sa2:
+    In the middle, after the first hit is guarded, backdash then forward jump HK.
+    In the corner, you can't jump without getting hit. Get up so that the last hit is guarded, then HP Hayate.
 *** Mixup: alex rolls after EX Oroshi				:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup) xx LK xx LP Hayate
@@ -16,7 +19,6 @@
 *** Against guarded close HK tatsumaki                               :punish:
     block the two first hits, crouch for the third then blue parry the last one
     [[https://youtu.be/40sXfFua38M?t=3m34s][Video]]
-    
 *** Punished wiffed far HP with HP Hayate			   :footsies:
     [[https://youtu.be/40sXfFua38M?t=7m37s][Video]]
 
@@ -29,6 +31,13 @@
     This isn't very useful because Shun Goku Satsu only has 2 recovery frames so it's very hard to punish that way.
     Don't let go of the charge during the super. 
     If the Hayate is fully charged and comes out, you will get grabbed.
+*** Punish Messatsu Gou Shoryuu (SA2)				 :punish:sa2:
+    LP or MP Fukiage (LP is easier).
+*** Punish Ground Messatsu Gou Rasen (SA3)			 :punish:sa3:
+    Walk forward, then HP Fukiage when Akuma comes down. Strict Timing. EX Fukiage requires less walking.
+    Easiest punish is with crMP.
+*** Punish Kongou Kokuretsu Zan (-28) 				     :punish:
+    With HP Hayate or EX Hayate.
 ** ChunLi							     :chunli:
 *** Low parry then Fukiage to beat low xx Hazan Shu                :footsies:
     [[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
@@ -43,11 +52,15 @@
 *** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
     If she cancels into SA2, your reversal won't come out but you can punish after.
-    
 *** Max Punish SA2                                               :punish:sa2:
     Blue parry last hit, then neutral jump HK, HP,...
     The timing is very tight. No super jump.
     Easiest way is to simply parry the last hit then HP
+
+*** Punish Kikoshou (SA1) with HP Hayate			 :punish:sa1:
+
+*** Punish Tensei Reka (SA3) with crMP 				 :punish:sa3:
+    Don't forget to guard high, the last hit is overhead.
 *** Double Fukiage                                               :@sa2:combo:
 [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
 ** Dudley							     :dudley:
@@ -59,7 +72,16 @@
 *** Punish EX Machine Gun Blow (-15) with crMP                       :punish:
 *** Punish Cross Counter (not EX)                                    :punish:
     MP xx HP Fukiage xx super jump cancel HK
-
+*** Punish HP Uppercut						     :punish:
+    Crosses you up if guarded.
+    Punish with HP Fukiage. If you do late, Dudley will cross up (keep that in mind for post Fukiage juggles).
+*** Punish EX Uppercut						     :punish:
+    Crosses you up if guarded.
+    Reversal Hp Fukiage can be used but timing is strict.
+    Easiest is to punish with MP or HP on the landing, but remember that Dudley will switch sides.
+*** Punish Rocket Uppercut (SA1)				 :punish:sa1:
+    For max dammage with super, MP xx SA1 works and is a hit-confirm.
+    Meterless punish: down parry the last uppercut, then HP Fukiage, jump cancel, HK Tsurugi.
 *** Zoning with crHK						   :footsies:
 *** Mixup: dudley rolls after EX Hayate                               :mixup:
     Dash, then super jump HP (crossup) or Dash, then super jump karakusa
@@ -113,9 +135,16 @@
     You need to start the input early, on the last blocked kick
 *** Charge Hayates outside of cr MK range                          :footsies:
 *** Punish crHP (-6) with LK or SA1                                  :punish:
+*** Punish HP Shoryuken						     :punish:
+    Punish with MP, Karakusa, or MP Fukiage.
+*** Punish EX Shoryuken						     :punish:
+    Ken crosses you up (not in corner).
+    Punish with reverse HP Fukiage.
 *** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/tGPk6hiEmHg?t=4m25s][Video]]
     If he cancels into SA3, your reversal won't come out and you can punish later.
+*** Punish Shoryureppa (SA1) with HP Fukiage 			 :punish:sa1:
+*** Punish Shinryuken (SA2) with MP				 :punish:sa2:
 ** Makoto 							     :makoto:
 *** Punish any Hayate (-12) with HP or Karakusa                      :punish:
     Warning: fully charged Hayate is safe.
@@ -137,10 +166,9 @@
 *** Punish Magnetic Storm (-12) SA1                              :punish:sa1:
     In theory you can punish with HP. However, the opponent can keep it going by pressing punch.
     It is too hard to react if he stops in the middle of it, except maybe with SA1.
-*** TODO Get out of the Spinning punch loop (1/-4/-18)             :footsies:
-    If I remember correctly, it is done with the MP version. 
-    I think you can blue parry the second hit and then Fukiage but I'm not sure.
-*** Beware of the grab reset in the corner                         :footsies:
+*** Punish Electric Snake (-11) (SA3)				 :punish:sa3:
+    If close enough, crMP can punish.
+*** Beware of the grab reset in the corner 			   :footsies:
     After corner grab + juggle.
     He can also do Flying Viper
 ** Oro									:oro:
@@ -197,7 +225,7 @@
     It only works if Remy is very close to you 
 *** Punish Cold Blue Kick (-4/-4/-6) with SA1                   :punish:@sa1:
     EX is safe
-*** TODO Punish SA2 Supreme Rising Rage Flash                    :punish:sa2:
+*** Punish SA2 Supreme Rising Rage Flash 			 :punish:sa2:
     [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 ** Ryu									:ryu:
 *** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMP           :punish:
@@ -210,11 +238,17 @@
     Light and Heavy Tatsumakis can be punished with MP or HP.
     For Medium Tatsumaki, try to crouch after the first hit, then you can punish easily with crMP.
     But don't crouch for Heavy Tatsumaki or it will go over you, simply block and punish.
+*** Punish HP Shoryuken						     :punish:
+    MP Fukiage, Jump Cancel, HK Tsurugi
+*** Punish EX Shoryuken						     :punish:
+    Crosses you up (not in corner)
+    Reverse Fukiage. HP Fukiage deals more dammage, but timing is easier with LP Fukiage.
 *** Punish SA3 Denjin Hadouken on wakeup            :punish:@wakeup:@sa1:sa3:
     If Ryu charges it too close, you can reversal SA1
     [[https://youtu.be/yUpr8qOR34c?t=1m56s][Video]]
     If you miss the reversal, only the first hit of the Seichusen hits, and then you get hit (and stunned if fully charged) by the denjin.
     Use it when the first hit should kill ryu or if the denjin isn't fully charged, or don't miss the reversal
+*** Punish Shin Shoryuken (SA2) with HP				 :punish:sa2:
 ** Sean								       :sean:
 *** Punish crHP (-9) with crMP                                       :punish:
     If he's close, you can use LK xx LP Hayate.
@@ -273,7 +307,6 @@
     [[https://twitter.com/murakamigouki/status/866251691305205760][Video]]
 *** EX Fukiage beats a lot of options                              :footsies:
     Headbutt, most normals...
-    
 *** Juggle EX Hayate with EX Hayate if the first one hits an Aegis Reflector :juggle:
     [[https://youtu.be/wbf85t2F0gc?t=2m34s][Video]]
 *** Parry Chariot Rush, then HP Fukiage                               :parry:
@@ -371,11 +404,9 @@
     [[https://www.youtube.com/watch?v=GSYb2-hh6gc][Video]]
     Also works after meaty MP
     [[https://twitter.com/murakamigouki/status/799932900120477697][Video]]
-    
 *** Kara SA1 for range!                                                :@sa1:
     Can wiff punish most medium, hard normals. Use LK for Kara. If LK hit, the super comboes anyway
     [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
-    
 *** Charged DED                                                   :@sa1:@sa3:
     With SA1 and SA3, do DED, but keep the punch button pressed, then press kick shortly after.
     If the normal is blocked, Hayate will start to charge and then you cancel it.
@@ -399,7 +430,6 @@
 ** Makoto							     :makoto:
 *** Kara-throw beats Karakusa after Hayate                         :footsies:
 * Dudley							    :@dudley:
-
 * Elena								     :@elena:
 
 * Gill								      :@gill:
@@ -450,7 +480,9 @@
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after blocking the beginning
-*** Only spinning bird kick EX and SA as reversal                  :footsies:
+*** Only spinning bird kick EX and SA as reversal 		   :footsies:
+*** Guard Tensei Reka (SA3)						:sa3:
+    The last hit is overhead.
 ** Dudley                                                            :dudley:
 *** Parry SA1
     Jump with the last uppercut so you can land a jumping attack on the way down.
@@ -484,9 +516,6 @@
 
 
 * TODO put the sa2 100% stun combos
-* TODO what shoryukens crosses you up on block?
-* TODO every super punish
 * TODO list of supers
 * TODO list of taunts
 * TODO list of links
-* TODO DED explanation
