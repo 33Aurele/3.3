@@ -36,7 +36,7 @@
     If the Hayate is fully charged and comes out, you will get grabbed.
 ** ChunLi							     :chunli:
 *** After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa    :setup:
-    It works even if the last crLK is blocked. 
+    It works even if the last crLK is guarded. 
     Does not work in the corner.
 *** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
@@ -117,7 +117,7 @@
     [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
 ** Ken									:ken:
 *** Punish Shipuujinrai Kyaku with Karakusa 			 :punish:sa3:
-    You need to start the input early, on the last blocked kick
+    You need to start the input early, on the last guarded kick
 *** Charge Hayates outside of crMK range 			   :footsies:
 *** Punish crHP (-6) with LK or SA1                                  :punish:
 *** Punish HP Shoryuken						     :punish:
@@ -174,7 +174,7 @@
     This is the dash that goes through the whole screen so you can expect it at that range.
 *** Punish EX High speed barrage (-23) with crMP                     :punish:
 *** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
-    If the HP is blocked:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
+    If the HP is guarded:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
     If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
 *** Punish Critical Combo Attack (SA1) (-19) with Karakusa       :punish:sa1:
     (And don't forget to crouch for the 4th hit)
@@ -184,7 +184,7 @@
 *** Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
 *** EX Hayate to punish full screen taunts                           :punish:
 *** Parry half of EX High speed barrage			       :punish:parry:
-    Block the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
+    Guard the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
 ** Remy								       :remy:
 *** Punish crHK						       :punish:parry:
     Blue parry the second hit, then crMP.
@@ -198,7 +198,7 @@
     The recovery is 22 frames, you can often Karakusa before he recovers.
 *** Hayate to punish high Light of Virtue                   :footsies:punish:
     It goes under it.
-*** Meterless punish of blocked HK/EX Rising Rage Flash (flash kick) :punish:
+*** Meterless punish of guarded HK/EX Rising Rage Flash (flash kick) :punish:
     HP Fukiage. After that you can either go with MP Hayate, crHK (no knockdown), jump cancel HK, jump cancel Tsurugi...
     It only works if Remy is very close to you 
 *** Punish Cold Blue Kick (-4/-4/-6) with SA1                   :punish:@sa1:
@@ -213,7 +213,7 @@
 *** Punish Tatsumaki (-12/-8/-11)                                    :punish:
     Light and Heavy Tatsumakis can be punished with MP or HP.
     For Medium Tatsumaki, try to crouch after the first hit, then you can punish easily with crMP.
-    But don't crouch for Heavy Tatsumaki or it will go over you, simply block and punish.
+    But don't crouch for Heavy Tatsumaki or it will go over you, simply guard and punish.
 *** Punish HP Shoryuken						     :punish:
     MP Fukiage, Jump Cancel, HK Tsurugi.
 *** Punish EX Shoryuken						     :punish:
@@ -228,8 +228,8 @@
 *** Punish crHP (-9) with crMP                                       :punish:
     If he's close, you can use LK xx LP Hayate.
     If he's a little further, you can use crMP but the timing is very strict.
-*** Punish towards HP on block or even hit with SA1             :punish:@sa1:
-    Towards HP is -6 on block, -4 on hit.
+*** Punish towards HP guard or even hit with SA1 		:punish:@sa1:
+    Towards HP is -6 on guard, -4 on hit.
 *** Punish Tornado Kick (-7/-6/-6) not EX, with LK                   :punish:
     If you crouch under medium or heavy version, it will go over you. You can then punish with MP but remember that he will be on the other side.
     If you crouch under the light version, no cross-up and you can keep punishing with LK.
@@ -295,7 +295,7 @@
 *** HP Fukiage on Yun's wakeup to beat EX Nishou Kyaku (DP) :footsies:wakeup:
     [[https://youtu.be/ExtdQcWXjfk?t=2m9s][Video]]
 *** Punish You Hou (SA1, -27)                                    :punish:sa1:
-    Block the two first hit, then jump. You won't be hit by the last punch (no need to parry).
+    Guard the two first hit, then jump. You won't be hit by the last punch (no need to parry).
     On the way down you can punish with jump HK, HP xx Hayate.
 *** Punish Sourai Rengeki (SA2) (-18) with HP or Karakusa 	 :punish:sa2:
     It crosses you up on the last hit.
@@ -309,7 +309,7 @@
 *** Punish crHK with HP Hayate                                       :punish:
     Also works on whiffed crHK.
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
-*** When expecting DP, jump parry rather than down block           :footsies:
+*** When expecting DP, jump parry rather than down guard 	   :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
     [[https://youtu.be/40sXfFua38M?t=5m4s][Video]]
 ** Twins							   :yang:yun:
@@ -336,6 +336,7 @@
     HP xx SA2 only works if Makoto is closer to the wall than the opponent.
     After the Kara-MP Fukiage, the opponent crosses you up so you have to reverse Dash and LP Fukiage.
     Kara Fukiage is done with HK.
+    Other possibility: [[https://www.youtube.com/watch?v=-j2FyQExQ3Q][Video]]
 ** Ibuki, Oro							  :ibuki:oro:
 *** 90% Stun Combo 					  :@sa2:combo:juggle:
     Karakusa, HP xx SA2, Forward Dash, Kara MP Fukiage, Dash (reversed), Kara LP Fukiage (reversed).
@@ -357,7 +358,7 @@
     [[https://youtu.be/vawX9PccGTc?t=20m54s][Video]]
 *** MP link LK xx LP Hayate				   :combo:hitconfirm:
 *** Meaty HP confirm HP Hayate				   :combo:hitconfirm:
-    As soon as you input HP, input Hayate but hold it. If HP is blocked, cancel with kick, else release.
+    As soon as you input HP, input Hayate but hold it. If HP is guarded, cancel with kick, else release.
 *** Jump HK, HP xx Hayate                                             :combo:
     Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
     The jump HK can be replaced with jump HP.
@@ -365,7 +366,7 @@
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP.
 *** HP antiair, ex Fukiage if parried                              :footsies:
-*** Kara-Karakusa after forward MP (blocked or not)                   :setup:
+*** Kara-Karakusa after forward MP (guarded or not) 		      :setup:
 *** Kara-Karakusa after back grab, backward dash                      :setup:
 *** Kara-Karakusa after meaty guarded MP, MP 			      :setup:
 *** Kara-Karakusa after LP anti-air 				      :setup:
@@ -400,9 +401,13 @@
 *** Kara SA1 for range 						       :@sa1:
     Can whiff punish most medium, hard normals. Use LK for Kara. If LK hits, the super hits anyway.
     [[https://youtu.be/40sXfFua38M?t=16m41s][Video]]
+*** EX Fukiage reset after SA2			    :@sa2:reset:juggle:mixup:
+    After SA2, dash then HP Fukiage, then jump forward (not canceled) LP, then EX Fukiage.
+    The EX Fukiage crosses down the opponent. You can use Karakusa instead for mixup.
+    [[https://www.youtube.com/watch?v=QVl7BNO8Q4s][Video]]
 *** Charged DED                                                   :@sa1:@sa3:
     With SA1 and SA3, do DED, but keep the punch button pressed, then press kick shortly after.
-    If the normal is blocked, Hayate will start to charge and then you cancel it.
+    If the normal is guarded, Hayate will start to charge and then you cancel it.
 *** Invincibility after neutral throw				      :other:
     Don't push any button and you won't have a hitbox during a short time.
 *** Invincibility after SA3 activation                                 :@sa3:
@@ -445,7 +450,7 @@
 *** Back HP cannot be parried
 ** Akuma							:akuma:gouki:
 *** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
-    Else Akuma has too many mixup options. Parrying the first two and blocking the last one should be ok.
+    Else Akuma has too many mixup options. Parrying the first two and guarding the last one should be ok.
 *** First hit of Kongou Kokuretsu Zan cannot be parried                 :other:
 *** Watch out for Tatsumaki, LK, dash under reset 		   :footsies:
 ** ChunLi							     :chunli:
@@ -475,7 +480,7 @@
 ** Urien							      :urien:
 *** Watch out for grab after whiffed Headbutt                      :footsies:
 ** Yun                                                                  :yun:
-*** Blocked SA2 crosses you up                                          :sa2:
+*** Guarded SA2 crosses you up 						:sa2:
 ** Shotos                                                     :ken:ryu:akuma:
 *** Hadouken (not EX) isn't safe in corner                           :punish:
     It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too.
