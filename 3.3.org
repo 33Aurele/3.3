@@ -1,6 +1,6 @@
 * Makoto							    :@makoto:
 ** Alex								       :alex:
-*** Punish HK (boot) (-13) with HP Hayate 			     :punish:
+*** Punish HK (-13) with HP Hayate 				     :punish:
     At a certain distance, HP Hayate is too short. Only punish if you are close enough.
 *** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
@@ -390,7 +390,7 @@
 *** Low EX Tsurugi against cornered opponent			   :footsies:
     Use super jump to hit low. 28214+2K.
 *** OS low parry, Karakusa or jump, ex Tsurugi                           :os:
-    Input: low parry, super jump, 270° to back, then 2 kicks.
+    Input: low parry, super jump, 270 to back, then 2 kicks.
     2 2 8 9 6 3 2 1 4 + 2K.
     [[https://www.youtube.com/watch?v=dcWhlfwILoE&feature=youtu.be][Video]]
 *** Parry jump, MP, Dash Fukiage, Super Jump HP 		      :reset:
@@ -415,10 +415,6 @@
 *** Taunt xx SA1                                             :other:@sa1:combo:
 * Alex								      :@alex:
 * Akuma 						      :@akuma:@gouki:
-** Twelve							     :twelve:
-*** 1 hit 100%								:other:
-    Kongou Kokuretsu Zan during Twelve's XCOPY, after taunt
-    [[https://www.youtube.com/watch?v=TH_nIcOAfdQ][Video]]
 * ChunLi							    :@chunli:
 ** Makoto							     :makoto:
 *** Kara-throw beats Karakusa after Hayate                         :footsies:
