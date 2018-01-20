@@ -451,7 +451,7 @@
 *** Watch out for Tatsumaki, LK, dash under reset 		   :footsies:
 ** ChunLi							     :chunli:
 *** Parry last hit of SA2                                  :punish:parry:sa2:
-    Last hit can be blue parried after guarding the beginning
+    Last hit can be blue parried after guarding the beginning.
 *** Only spinning bird kick EX and SA as reversal 		   :footsies:
 *** Guard Tensei Reka (SA3)						:sa3:
     The last hit is overhead.
