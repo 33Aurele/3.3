@@ -1,0 +1,9 @@
+To add new techs, edit the 3.3.org file.
+Then, to generate the html, run the 3.3.sh script.
+
+There is a dependency: PyOrgMode, a org-mode parser in Python:
+https://github.com/bjonnh/PyOrgMode
+However, PyOrgMode has an issue where it doesn't parse the tags correctly.
+While this hasn't been corrected, you can use the solution in this pull request:
+https://github.com/bjonnh/PyOrgMode/pull/37
+
