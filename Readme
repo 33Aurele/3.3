@@ -1,4 +1,4 @@
-To add new techs, edit the 3.3.org file.
+To add new techs, edit the the org files.
 Then, to generate the html, run the 3.3.sh script.
 
 There is a dependency: PyOrgMode, a org-mode parser in Python:
