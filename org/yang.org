@@ -1,0 +1,23 @@
+* Yang								      :@yang:
+** Akuma							:akuma:gouki:
+** Alex								       :alex:
+** ChunLi							     :chunli:
+** Dudley							     :dudley:
+** Elena							      :elena:
+** Gill								       :gill:
+** Hugo								       :hugo:
+** Ibuki							      :ibuki:
+** Ken									:ken:
+** Makoto							     :makoto:
+** Necro							      :necro:
+** Oro									:oro:
+** Q 									  :q:
+** Remy								       :remy:
+** Ryu									:ryu:
+** Sean								       :sean:
+** Twelve							     :twelve:
+** Urien							      :urien:
+** Yang								       :yang:
+** Yun									:yun:
+** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
+

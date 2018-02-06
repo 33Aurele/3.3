@@ -1,17 +1,4 @@
 * Makoto							    :@makoto:
-** Alex								       :alex:
-*** Punish HK (-13) with HP Hayate 				     :punish:
-    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
-*** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
-    [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
-*** Punish Boomerang Raid (SA2)					 :punish:sa2:
-    In the middle, after the first hit is guarded, backdash then forward jump HK.
-    In the corner, you can't jump without getting hit. Guard up so that the last hit is guarded, then HP Hayate.
-*** Mixup: Alex quickrolls after EX Oroshi 			:setup:mixup:
-    Do HP xx EX Oroshi. If Alex quickrolls, you can:
-    Super jump HP (crossup), LK xx LP Hayate
-    Super jump HK Tsurugi (whiff), Karakusa
-    [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
 ** Akuma							:akuma:gouki:
 *** crMK against MK and HK Tatsumakis 				   :footsies:
 *** Punish guarded close HK Tatsumaki 				     :punish:
@@ -34,6 +21,19 @@
     This isn't very useful because Shun Goku Satsu only has 2 recovery frames.
     Don't let go of the charge during the super. 
     If the Hayate is fully charged and comes out, you will get grabbed.
+** Alex								       :alex:
+*** Punish HK (-13) with HP Hayate 				     :punish:
+    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
+*** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
+    [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
+*** Punish Boomerang Raid (SA2)					 :punish:sa2:
+    In the middle, after the first hit is guarded, backdash then forward jump HK.
+    In the corner, you can't jump without getting hit. Guard up so that the last hit is guarded, then HP Hayate.
+*** Mixup: Alex quickrolls after EX Oroshi 			:setup:mixup:
+    Do HP xx EX Oroshi. If Alex quickrolls, you can:
+    Super jump HP (crossup), LK xx LP Hayate
+    Super jump HK Tsurugi (whiff), Karakusa
+    [[https://twitter.com/murakamigouki/status/807970551809470466][Video]]
 ** ChunLi							     :chunli:
 *** After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa    :setup:
     It works even if the last crLK is guarded. 
@@ -413,77 +413,3 @@
 *** Invincibility after SA3 activation                                 :@sa3:
     Don't push any button and you won't have a hitbox during a short time.
 *** Taunt xx SA1                                             :other:@sa1:combo:
-* Alex								      :@alex:
-* Akuma 						      :@akuma:@gouki:
-* ChunLi							    :@chunli:
-** Makoto							     :makoto:
-*** Kara-throw beats Karakusa after Hayate                         :footsies:
-* Dudley							    :@dudley:
-* Elena								     :@elena:
-* Gill								      :@gill:
-* Hugo								      :@hugo:
-* Ibuki								     :@ibuki:
-* Ken								       :@ken:
-** Makoto                                                            :makoto:
-*** Throw Glitch                                                        :other:
-    If you win a round with the first kick of you neutral throw in the arcade version, the game can glitch or crash.
-    [[http://errors.wikia.com/wiki/Street_Fighter_3_:_Third_Strike][What happens]]
-    [[https://www.youtube.com/watch?v=2pjLwVVqLfk][Video]]
-* Necro								     :@necro:
-* Oro								       :@oro:
-* Q									 :@q:
-* Remy								      :@remy:
-* Ryu								       :@ryu:
-* Sean								      :@sean:
-* Twelve							    :@twelve:
-* Urien								     :@urien:
-* Yang								      :@yang:
-* Yun								       :@yun:
-* Shotos				      :@akuma:@gouki:@ken:@ryu:@sean:
-* Twins								 :@yang:@yun:
-* all :@all:@alex:@akuma:@chunli:@dudley:@elena:@gill:@gouki:@hugo:@ibuki:@ken:@makoto:@necro:@oro:@q:@remy:@ryu:@sean:@twelve:@urien:@yang:@yun:
-** Alex								       :alex:
-*** Back HP cannot be parried
-** Akuma							:akuma:gouki:
-*** On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken	    :@wakeup:
-    Else Akuma has too many mixup options. Parrying the first two and guarding the last one should be ok.
-*** First hit of Kongou Kokuretsu Zan cannot be parried                 :other:
-*** Watch out for Tatsumaki, LK, dash under reset 		   :footsies:
-** ChunLi							     :chunli:
-*** Parry last hit of SA2                                  :punish:parry:sa2:
-    Last hit can be blue parried after guarding the beginning.
-*** Only spinning bird kick EX and SA as reversal 		   :footsies:
-*** Guard Tensei Reka (SA3)						:sa3:
-    The last hit is overhead.
-** Dudley                                                            :dudley:
-*** Parry SA1
-    Jump with the last uppercut so you can land a jumping attack on the way down.
-    [[https://youtu.be/tGPk6hiEmHg?t=4m46s][Video]]
-** Hugo								       :hugo:
-*** Guard Hammer Frenzy SA3 						:sa3:
-    The third hit is overhead.
-** Necro							      :necro:
-*** Beware of the grab reset in the corner 			   :footsies:
-    After corner grab + juggle.
-    He can also do Flying Viper.
-** Q									  :q:
-*** Guard Critical Combo Attack 					:sa1:
-    The fourth hit is low.
-*** Beware of the grab reset in the corner                         :footsies:
-** Remy								       :remy:
-*** Blue parry the second hit of crouching roundhouse                 :parry:
-*** Parried Flash kick crosses you up                                 :parry:
-** Urien							      :urien:
-*** Watch out for grab after whiffed Headbutt                      :footsies:
-** Yun                                                                  :yun:
-*** Guarded SA2 crosses you up 						:sa2:
-** Shotos                                                     :ken:ryu:akuma:
-*** Hadouken (not EX) isn't safe in corner                           :punish:
-    It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too.
-** Twins                                                           :yang:yun:
-*** Watch out for Divekick crossup if you wakeup in the corner      :@wakeup:
-** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
-*** Quick roll                                                      :@wakeup:
-    Press down as you get knocked down.
-*** Play Third Strike!                                                  :other:
-    [[http://playthirdstrike.com][It's a good game.]]

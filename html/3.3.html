@@ -30,8 +30,8 @@
 <select id="@charselect" name="Your character" onchange="yourcharchange(value)"> 
   <option value="block">Any</option>
   <option value="@all">All</option>
-  <option value="@alex">Alex</option>
   <option value="@akuma">Akuma</option>
+  <option value="@alex">Alex</option>
   <option value="@chunli">Chun Li</option>
   <option value="@dudley">Dudley</option>
   <option value="@elena">Elena</option>
@@ -55,8 +55,8 @@
 <select id="charselect" name="Opponent's character" onchange="charchange(value)"> 
   <option value="block">Any</option>
   <option value="all">All</option>
-  <option value="alex">Alex</option>
   <option value="akuma">Akuma</option>
+  <option value="alex">Alex</option>
   <option value="chunli">Chun Li</option>
   <option value="dudley">Dudley</option>
   <option value="elena">Elena</option>
@@ -154,26 +154,6 @@ document.getElementById("filter").onclick = filter;
 </div>
 
 
-<div class="block punish alex @makoto">
-<p><h2>Punish HK (-13) with HP Hayate</h2>
-<h5> Tags: @makoto, alex, punish</h5>    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
-</p></div>
-<div class="block punish @sa1 alex @makoto">
-<p><h2>SA1 to punish Air Stampede (stomp) (-3)</h2>
-<h5> Tags: @makoto, alex, punish, @sa1</h5>    <a href="https://youtu.be/MOCVDPE6dV0?t=8m51s">Video</a>
-</p></div>
-<div class="block punish sa2 alex @makoto">
-<p><h2>Punish Boomerang Raid (SA2)</h2>
-<h5> Tags: @makoto, alex, punish, sa2</h5>    In the middle, after the first hit is guarded, backdash then forward jump HK.
-<br>    In the corner, you can't jump without getting hit. Guard up so that the last hit is guarded, then HP Hayate.
-</p></div>
-<div class="block setup mixup alex @makoto">
-<p><h2>Mixup: Alex quickrolls after EX Oroshi</h2>
-<h5> Tags: @makoto, alex, setup, mixup</h5>    Do HP xx EX Oroshi. If Alex quickrolls, you can:
-<br>    Super jump HP (crossup), LK xx LP Hayate
-<br>    Super jump HK Tsurugi (whiff), Karakusa
-<br>    <a href="https://twitter.com/murakamigouki/status/807970551809470466">Video</a>
-</p></div>
 <div class="block footsies akuma gouki @makoto">
 <p><h2>crMK against MK and HK Tatsumakis</h2>
 <h5> Tags: @makoto, akuma, gouki, footsies</h5></p></div>
@@ -212,6 +192,26 @@ document.getElementById("filter").onclick = filter;
 <h5> Tags: @makoto, akuma, gouki, other</h5>    This isn't very useful because Shun Goku Satsu only has 2 recovery frames.
 <br>    Don't let go of the charge during the super. 
 <br>    If the Hayate is fully charged and comes out, you will get grabbed.
+</p></div>
+<div class="block punish alex @makoto">
+<p><h2>Punish HK (-13) with HP Hayate</h2>
+<h5> Tags: @makoto, alex, punish</h5>    At a certain distance, HP Hayate is too short. Only punish if you are close enough.
+</p></div>
+<div class="block punish @sa1 alex @makoto">
+<p><h2>SA1 to punish Air Stampede (stomp) (-3)</h2>
+<h5> Tags: @makoto, alex, punish, @sa1</h5>    <a href="https://youtu.be/MOCVDPE6dV0?t=8m51s">Video</a>
+</p></div>
+<div class="block punish sa2 alex @makoto">
+<p><h2>Punish Boomerang Raid (SA2)</h2>
+<h5> Tags: @makoto, alex, punish, sa2</h5>    In the middle, after the first hit is guarded, backdash then forward jump HK.
+<br>    In the corner, you can't jump without getting hit. Guard up so that the last hit is guarded, then HP Hayate.
+</p></div>
+<div class="block setup mixup alex @makoto">
+<p><h2>Mixup: Alex quickrolls after EX Oroshi</h2>
+<h5> Tags: @makoto, alex, setup, mixup</h5>    Do HP xx EX Oroshi. If Alex quickrolls, you can:
+<br>    Super jump HP (crossup), LK xx LP Hayate
+<br>    Super jump HK Tsurugi (whiff), Karakusa
+<br>    <a href="https://twitter.com/murakamigouki/status/807970551809470466">Video</a>
 </p></div>
 <div class="block setup chunli @makoto">
 <p><h2>After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa</h2>
@@ -764,9 +764,6 @@ document.getElementById("filter").onclick = filter;
 <br>    <a href="http://errors.wikia.com/wiki/Street_Fighter_3_:_Third_Strike">What happens</a>
 <br>    <a href="https://www.youtube.com/watch?v=2pjLwVVqLfk">Video</a>
 </p></div>
-<div class="block alex @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
-<p><h2>Back HP cannot be parried</h2>
-<h5> Tags: @all, alex</h5></p></div>
 <div class="block @wakeup akuma gouki @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
 <p><h2>On wakeup, don't parry all 3 hits of HP Shakunetsu Hadouken</h2>
 <h5> Tags: @all, akuma, gouki, @wakeup</h5>    Else Akuma has too many mixup options. Parrying the first two and guarding the last one should be ok.
@@ -777,6 +774,9 @@ document.getElementById("filter").onclick = filter;
 <div class="block footsies akuma gouki @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
 <p><h2>Watch out for Tatsumaki, LK, dash under reset</h2>
 <h5> Tags: @all, akuma, gouki, footsies</h5></p></div>
+<div class="block alex @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<p><h2>Back HP cannot be parried</h2>
+<h5> Tags: @all, alex</h5></p></div>
 <div class="block punish parry sa2 chunli @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
 <p><h2>Parry last hit of SA2</h2>
 <h5> Tags: @all, chunli, punish, parry, sa2</h5>    Last hit can be blue parried after guarding the beginning.
@@ -788,9 +788,9 @@ document.getElementById("filter").onclick = filter;
 <p><h2>Guard Tensei Reka (SA3)</h2>
 <h5> Tags: @all, chunli, sa3</h5>    The last hit is overhead.
 </p></div>
-<div class="block dudley @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
+<div class="block parry sa1 dudley @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
 <p><h2>Parry SA1</h2>
-<h5> Tags: @all, dudley</h5>    Jump with the last uppercut so you can land a jumping attack on the way down.
+<h5> Tags: @all, dudley, parry, sa1</h5>    Jump with the last uppercut so you can land a jumping attack on the way down.
 <br>    <a href="https://youtu.be/tGPk6hiEmHg?t=4m46s">Video</a>
 </p></div>
 <div class="block sa3 hugo @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
@@ -962,7 +962,7 @@ document.getElementById("filter").onclick = filter;
 </p></div>
 <div class="block other all alex akuma chunli dudley elena gill gouki hugo ibuki ken makoto necro oro q remy ryu sean twelve urien yang yun @all @alex @akuma @chunli @dudley @elena @gill @gouki @hugo @ibuki @ken @makoto @necro @oro @q @remy @ryu @sean @twelve @urien @yang @yun">
 <p><h2>Play Third Strike!</h2>
-<h5> Tags: @all, all, other</h5>    <a href="http://playthirdstrike.com">It's a good game.</a>
+<h5> Tags: @all, all, other</h5>    <a href="http://playthirdstrike.com">It's a good game.</a>   
 </p></div>
 </div>
 </body>
