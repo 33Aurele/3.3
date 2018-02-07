@@ -102,6 +102,8 @@
     If he's very far, don't use HP and go directly for Hayate.
     If he's very close, you can use EX Fukiage to punish (even reversal MP Fukiage in the corner).
 *** EX Oroshi beats crMK 					   :footsies:
+*** Avoid dashing under jumping Hugo				   :footsies:
+    You can get caught with Moonsault Press or SA1.
 *** EX Oroshi xx SA2                                             :combo:@sa2:
     Will connect in the corner.
     Be careful, EX Oroshi has almost no pushback (compared to HP).
