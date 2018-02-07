@@ -52,5 +52,7 @@
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** Quick roll                                                      :@wakeup:
     Press down as you get knocked down.
+*** Know something that you don't see here?			      :other:
+    [[contribute.html][Contribute]]
 *** Play Third Strike!                                                  :other:
     [[http://playthirdstrike.com][It's a good game.]]   

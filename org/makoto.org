@@ -50,6 +50,7 @@
     Don't forget to guard high, the last hit is overhead.
 *** 100% Stun Combo					  :@sa2:combo:juggle:
     [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
+    [[https://clips.twitch.tv/EncouragingSourNightingaleCoolCat][Meter optimisation]]
 *** Fukiage beats close HK                                         :footsies:
     [[https://youtu.be/E0J9J87JL7s?t=9m18s][Video]]
 *** Fukiage beats Hazan Shu 					   :footsies:
@@ -77,6 +78,9 @@
 *** Mixup: Dudley quickrolls after EX Hayate 			      :mixup:
     Dash, then super jump HP (crossup) or dash, then super jump Karakusa
     [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
+*** After EX Hayate in corner, juggle with LK then dash under  :juggle:mixup:
+    If you dash later, you don't switch sides.
+    [[https://clips.twitch.tv/SteamyAcceptableRavenFeelsBadMan][Video]]
 *** Fukiage hits stunned Dudley						:other:
 ** Elena                                                              :elena:
 *** Punish HK Spinning Scythe (-8) with LK or crLK                   :punish:
@@ -187,6 +191,8 @@
 *** EX Hayate to punish full screen taunts                           :punish:
 *** Parry half of EX High speed barrage			       :punish:parry:
     Guard the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
+*** Touch of Death against SA1 			:parry:@sa2:sa1:combo:juggle:
+    [[https://clips.twitch.tv/ImpossibleAgileBeePunchTrees][Video]]
 ** Remy								       :remy:
 *** Punish crHK						       :punish:parry:
     Blue parry the second hit, then crMP.
@@ -331,6 +337,8 @@
     After the Kara-MP Fukiage, the opponent crosses you up so you have to reverse Dash and LP Fukiage.
     Kara Fukiage is done with HK.
     [[https://www.youtube.com/watch?v=wyOMyfCR7CQ][Video]]
+    Adding another Kara gives you time for a taunt. [[https://clips.twitch.tv/FunnyBluePepperRaccAttack][Video]]
+    Meter optimisation against Urien: [[https://clips.twitch.tv/EagerLitigiousEggnogBrainSlug][Video]]
 ** Alex, Elena, Hugo, Q					  :alex:elena:hugo:q:
 *** 90-100% Stun Combo 					  :@sa2:combo:juggle:
     Karakusa, HP xx SA2, Forward Dash, MP Fukiage, Dash (reversed), LP Fukiage (reversed).
