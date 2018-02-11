@@ -293,10 +293,16 @@
 *** Parry Chariot Rush, then HP Fukiage                               :parry:
     The timing is very strict, so it might not be an useful trick.
 ** Yang								       :yang:
+*** Punsih Mantis Slash with SA1 				:punish:@sa1:
+    The first hit of LP Mantis is safe.
+    And by spacing the 3 first EX rekkas correctly, Yang can put you out of range for SA1.
+    Any other version, or more EX rekkas, can be punished with SA1.
+*** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
+    In any corner, the range is enough.
+    In the middle, it can push you out of range.
+    You can use kara SA1 to punish it in that case, but sometimes even that range won't be enough.
 *** After a few hits of EX Mantis Slash, Kara-Karakusa 		      :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
-*** Punsih EX Mantis Slash with SA1				:punish:@sa1:
-*** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou (-11), not EX (-2)             :punish:
     HP, MP or LK. EX can only be punished by reversal SA1.
@@ -387,6 +393,9 @@
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 *** In corner, guarded crMP, then Kara-Karakusa 		      :setup:
     You have to be against the opponent when doing crMP.
+*** Cross-up setups						      :setup:
+    Any Kara-Karakusa setup is a cross-up setup. Use jump MK (no super jump).
+    You can followup with LK, LP Hayate.
 *** Karakusa after forward LK or forward LP                           :setup:
 *** LK xx Hayate (cancelled), Karakusa                                :setup:
     [[https://youtu.be/yUpr8qOR34c?t=4m11s][Video]]
