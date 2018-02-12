@@ -300,7 +300,6 @@
 *** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
     In any corner, the range is enough.
     In the middle, it can push you out of range.
-    You can use kara SA1 to punish it in that case, but sometimes even that range won't be enough.
 *** After a few hits of EX Mantis Slash, Kara-Karakusa 		      :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
 ** Yun									:yun:
