@@ -243,4 +243,8 @@ ul#menu li a:hover
     h5, h6 {
 	font: italic 75% arial, sans-serif;
     }
+    #menubar {
+	margin: auto;
+	width: 95%;
+    } 
 }
