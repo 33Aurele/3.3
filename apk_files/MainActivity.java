@@ -7,11 +7,18 @@ import android.webkit.WebViewClient;
 import android.net.Uri;
 import android.webkit.WebResourceRequest;
 import android.content.Intent;
+import android.view.Window;
+import android.support.v7.app.ActionBar;
 
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        //hide action bar
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.hide();
+
         WebView webView = new WebView(this);
         webView.getSettings().setJavaScriptEnabled(true);
 
@@ -49,5 +56,6 @@ public class MainActivity extends AppCompatActivity {
         webView.loadUrl("file:///android_asset/3.3.html");
         setContentView(webView);
         super.onCreate(savedInstanceState);
+
     }
 }

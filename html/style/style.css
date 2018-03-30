@@ -102,8 +102,7 @@ ol li
   height: 170px;}
 
 #logo
-{ width: auto;
-  margin-left: 30px;
+{ width: 900px;
   position: relative;
   height: 134px;}
 
@@ -242,10 +241,14 @@ ul#menu li a:hover
     }
 
     h5, h6 {
-	font: italic 75% arial, sans-serif;
+	font: italic 90% arial, sans-serif;
     }
     #menubar {
 	margin: auto;
 	width: 95%;
-    } 
+    }
+    #logo {
+	width: auto;
+	margin-left: 30px;
+    }
 }

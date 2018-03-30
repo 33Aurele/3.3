@@ -7,8 +7,7 @@ cp html/style/style.css apk/app/src/main/assets/style
 
 cd apk/app/src/main/assets
 
-# file:///android_asset/3.3.html
-# <a href="3.3.html">
+#links to local files
 
 for i in *.html; do
     sed -i 's/href=\"3.3.html\"/href=\"file:\/\/\/android_asset\/3.3.html\"/g' $i
