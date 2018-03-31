@@ -1,11 +1,11 @@
 #!/bin/bash
 
-cp html/3.3.html apk/app/src/main/assets
-cp html/contribute.html apk/app/src/main/assets
-cp html/links.html apk/app/src/main/assets
-cp html/style/style.css apk/app/src/main/assets/style
+cp html/3.3.html apk/Third\ Strike\ Tech/src/main/assets
+cp html/contribute.html apk/Third\ Strike\ Tech/src/main/assets
+cp html/links.html apk/Third\ Strike\ Tech/src/main/assets
+cp html/style/style.css apk/Third\ Strike\ Tech/src/main/assets/style
 
-cd apk/app/src/main/assets
+cd apk/Third\ Strike\ Tech/src/main/assets
 
 #links to local files
 
