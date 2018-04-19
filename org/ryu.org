@@ -1,5 +1,12 @@
 * Ryu								       :@ryu:
 ** Akuma							:akuma:gouki:
+*** In corner, Punish HK Tatsumaki that goes over you with close MK  :punish:
+    [[https://youtu.be/EKUzPr_vUv4?t=19m36s][Video]]
+*** Against air firball, dash under then punish with close MK or close HP :footsies:
+*** Punish LK Tatsumaki that goes above you with crLK		     :punish:
+    You can followup with another crLK and a super.
+*** Punish Close Messatsu Gou Hadou (SA1) with crMK		 :punish:sa1:
+    Only if Akuma stands right next to you.
 ** Alex								       :alex:
 ** ChunLi							     :chunli:
 ** Dudley							     :dudley:
@@ -20,4 +27,31 @@
 ** Yang								       :yang:
 ** Yun									:yun:
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
+*** crLK xx crLP xx crLK xx SA1			      :combo:hitconfirm:@sa1:
+    Does not work on standing Urien, standing Q and standing Necro.
+    Against them, use crLK xx crLK xx SA1 (harder to confirm).
+*** crMK xx SA1 				      :combo:hitconfirm:@sa1:
+*** close MK xx SA1 on crouching opponent	      :combo:hitconfirm:@sa1:
+*** crLK xx crLK xx SA2				      :combo:hitconfirm:@sa2:
+*** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
+    Best meterless combo.
+    If you're too far for the crHP to connect, do Jump HK, crMK, HK Tatsumaki.
+*** SA1 corner juggles					  :combo:juggle:@sa1:
+    SA1 can combo with
 
+* TODO EX joudan geri juggles
+* TODO Denjin setups
+* TODO SA1 corner juggles
+* TODO crossups combos
+* TODO throw SA2 on dudley
+* TODO UOH into SA1
+  I think cr(LK LP LK) guarded in the corner puts you in the right range
+  srk: This trick works on: Dudley, Oro, Elena, Hugo, Yun, Yang, Urien, Ibuki, Alex
+* TODO From srk: 
+» After SA1 or EX Hadouken use HK Tatsumaki to get in front of your opponent. It also charges super meter. Have in mind that if you use HK Tatsumaki after SA1 you can easily land another super by doing F+MP>SA1 on opponent's wakeup (with F+MP hitting with its last frames). Wakeup time is specific for all characters so this setup only works on Ryu(77), Ken(75), Akuma(77), Sean(77), Urien(76), Chun-Li(88). Numbers represent frames it takes for a character to stand up.
+* TODO MP SRK xx SA1 juggle
+* TODO SA2 combo
+When you have a chance to punish with combo, use cl.MK>HP SRK>SA2. If you're aiming for stun damage, use cl.HP>HP SRK>SA2
+* TODO SA2 followup
+* TODO Other SA2 hitconfirms
+* TODO Karathrow and setups
