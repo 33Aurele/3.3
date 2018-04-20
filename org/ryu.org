@@ -17,6 +17,12 @@
 *** TODO Punish crHP with crMK					     :punish:
 *** TODO Punish back HP with crMK				     :punish:
 ** ChunLi							     :chunli:
+*** Punish SA2							 :punish:sa2:
+    Blue parry the last hit, then neutral jump HK, close MK, EX joudan geri.
+*** TODO Punish SA1						 :punish:sa1:
+    Dash in, crMK
+*** Punish EX Spinning Bird Kick with SA1			:punish:@sa1:
+    Reversal. If you're close to Chun after guarding it you can also punish with Soryuken.
 ** Dudley							     :dudley:
 ** Elena							      :elena:
 ** Gill								       :gill:
