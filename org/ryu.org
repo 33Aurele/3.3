@@ -8,6 +8,14 @@
 *** Punish Close Messatsu Gou Hadou (SA1) with crMK		 :punish:sa1:
     Only if Akuma stands right next to you.
 ** Alex								       :alex:
+*** Punish Boomerang Raid (SA2)					 :punish:sa2:
+    In the middle, jump HP.
+    [[https://youtu.be/QFseKWKYJMM?t=7m32s][Video]]
+    In the corner, guard up, then crMK. If he started really close to you, you need to parry the third hit.
+*** SA2 to punish Air Stampede (-3)				:punish:@sa2:
+*** TODO Punish MK/HK Slash Elbow (-8) with crMK		     :punish:
+*** TODO Punish crHP with crMK					     :punish:
+*** TODO Punish back HP with crMK				     :punish:
 ** ChunLi							     :chunli:
 ** Dudley							     :dudley:
 ** Elena							      :elena:
@@ -40,6 +48,7 @@
     SA1 can combo with
 
 * TODO EX joudan geri juggles
+  another joudan geri or HK tatsu?
 * TODO Denjin setups
 * TODO SA1 corner juggles
 * TODO crossups combos
