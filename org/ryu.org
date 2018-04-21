@@ -24,6 +24,15 @@
 *** Punish EX Spinning Bird Kick with SA1			:punish:@sa1:
     Reversal. If you're close to Chun after guarding it you can also punish with Soryuken.
 ** Dudley							     :dudley:
+*** Punish crMK (-12) with crHK					     :punish:
+    In the corner, crMK has enough range to punish as well.
+*** Punish EX and HP Machine Gun Blow (-15) with crMK 		     :punish:
+    [[https://youtu.be/sHFf-1as0zM?t=13m55s][Video]]
+*** Zoning with far HK						   :footsies:
+*** Punish Ducking Upper (-12) with crMK or crHK		     :punish:
+    If you punish with crMK, tatsumakis won't connect
+*** Dash behind Dudley on his wakeup				     :wakeup:
+    [[https://youtu.be/sHFf-1as0zM?t=14m45s][Video]]
 ** Elena							      :elena:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
