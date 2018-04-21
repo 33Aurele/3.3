@@ -34,6 +34,19 @@
 *** Dash behind Dudley on his wakeup				     :wakeup:
     [[https://youtu.be/sHFf-1as0zM?t=14m45s][Video]]
 ** Elena							      :elena:
+*** Punish crHK (-9)						     :punish:
+    With crHK or crMK depending on the range.
+*** Punish slide (-14) with crHK 				     :punish:
+    If correctly spaced, it can be out of range.
+*** TODO Punish EX Spinning Scythe (-15) with crMK		     :punish:
+*** Punish any Lynx Tail (-17/-17/-15/-10)			     :punish:
+    With crMK.
+*** Punish Spinning Beat (SA1) (-30)				 :punish:sa1:
+    crMK, clos MK, crHP,...
+*** Punish Brave Dance (s12) (-12)				 :punish:sa2:
+    With crHP.
+    [[https://youtu.be/JA64aNc6Xjk?t=9m8s][Video]]
+*** Zoning with crMP						   :footsies:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
 ** Ibuki							      :ibuki:
