@@ -49,6 +49,18 @@
 *** Zoning with crMP						   :footsies:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
+*** Punish crHP (-29)						     :punish:
+    You can dash forward the punish with any normal.
+*** TODO Punish dropkick (HK) (-18) with crHK			     :punish:
+*** Punish crHK(-43) with crHP					      :punis:
+*** Punish towards HP with crMK					     :punish:
+*** TODO Punish Monster Lariat (-8/-10/-11/-22) 		     :punish:
+*** Punish Hammer Frenzy (SA3) (-29)				 :punish:sa3:
+    If he's close, crHP. Otherwise crMK
+*** TODO Jump forward MP, MP, crHP on crouching Hugo		      :combo:
+    [[https://youtu.be/pQ48I3TuGa8?t=4m23s][Video]]
+*** Super jump forward air Tatsumaki 				   :footsies:
+    It crosses up Hugo
 ** Ibuki							      :ibuki:
 ** Ken									:ken:
 ** Makoto							     :makoto:
