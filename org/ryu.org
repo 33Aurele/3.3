@@ -77,6 +77,14 @@
     If spaced correctly, you can be out of range.
     [[https://youtu.be/LZRa0zv_LI8?t=5m29s][Video]]
 ** Makoto							     :makoto:
+*** Punish Hayate (-12)						     :punish:
+    crHP, close MK, crMP
+    [[https://youtu.be/yUpr8qOR34c?t=11m3s][Video]]
+*** Punish Towards HK (-11)					     :punish:
+    With close MK, crHP, crMP
+    Keep in mind that it can be feinted.
+*** TODO Punish Seichusen Godanzuki (SA1) (-17)			 :punish:sa1:
+*** TODO Punish Abare Tosanami (SA2) (-20)			 :punish:sa2:
 ** Necro							      :necro:
 ** Oro									:oro:
 ** Q 									  :q:
