@@ -13,13 +13,11 @@
     [[https://youtu.be/QFseKWKYJMM?t=7m32s][Video]]
     In the corner, guard up, then crMK. If he started really close to you, you need to parry the third hit.
 *** SA2 to punish Air Stampede (-3)				:punish:@sa2:
-*** TODO Punish MK/HK Slash Elbow (-8) with crMK		     :punish:
-*** TODO Punish crHP with crMK					     :punish:
-*** TODO Punish back HP with crMK				     :punish:
+*** Punish crHP with HP Shoryuken				     :punish:
 ** ChunLi							     :chunli:
 *** Punish SA2							 :punish:sa2:
     Blue parry the last hit, then neutral jump HK, close MK, EX joudan geri.
-*** TODO Punish SA1						 :punish:sa1:
+*** Punish SA1							 :punish:sa1:
     Dash in, crMK
 *** Punish EX Spinning Bird Kick with SA1			:punish:@sa1:
     Reversal. If you're close to Chun after guarding it you can also punish with Soryuken.
@@ -38,7 +36,7 @@
     With crHK or crMK depending on the range.
 *** Punish slide (-14) with crHK 				     :punish:
     If correctly spaced, it can be out of range.
-*** TODO Punish EX Spinning Scythe (-15) with crMK		     :punish:
+*** Punish EX Spinning Scythe (-15) with crMK			     :punish:
 *** Punish any Lynx Tail (-17/-17/-15/-10)			     :punish:
     With crMK.
 *** Punish Spinning Beat (SA1) (-30)				 :punish:sa1:
@@ -51,13 +49,16 @@
 ** Hugo								       :hugo:
 *** Punish crHP (-29)						     :punish:
     You can dash forward the punish with any normal.
-*** TODO Punish dropkick (HK) (-18) with crHK			     :punish:
+*** Punish dropkick (HK) (-18)					     :punish:
+    If you're close enough, use crHK or EX Hadouken.
+    At some range, crHK won't connect and EX Hadouken won't punish.
 *** Punish crHK(-43) with crHP					      :punis:
 *** Punish towards HP with crMK					     :punish:
-*** TODO Punish Monster Lariat (-8/-10/-11/-22) 		     :punish:
+*** Punish Monster Lariat (-8/-10/-11/-22)			     :punish:
+    with HP Shoryuken or crHP
 *** Punish Hammer Frenzy (SA3) (-29)				 :punish:sa3:
     If he's close, crHP. Otherwise crMK
-*** TODO Jump forward MP, MP, crHP on crouching Hugo		      :combo:
+*** Jump forward MP, MP, crHP on crouching Hugo			      :combo:
     [[https://youtu.be/pQ48I3TuGa8?t=4m23s][Video]]
 *** Super jump forward air Tatsumaki 				   :footsies:
     It crosses up Hugo
@@ -71,9 +72,7 @@
     With close HP, crHP, or close MK.
     [[https://youtu.be/LZRa0zv_LI8?t=5m5s][Video]]
     [[https://youtu.be/LZRa0zv_LI8?t=5m14s][Video]]
-*** TODO Blue Parry SA3?				   :punish:sa3:parry:
-    [[https://youtu.be/LZRa0zv_LI8?t=11m][Video]]
-*** Punish crHK (-14) with crHK					     :punish:
+*** Punish crHK (-14) with crHK 				     :punish:
     If spaced correctly, you can be out of range.
     [[https://youtu.be/LZRa0zv_LI8?t=5m29s][Video]]
 ** Makoto							     :makoto:
@@ -83,8 +82,12 @@
 *** Punish Towards HK (-11)					     :punish:
     With close MK, crHP, crMP
     Keep in mind that it can be feinted.
-*** TODO Punish Seichusen Godanzuki (SA1) (-17)			 :punish:sa1:
-*** TODO Punish Abare Tosanami (SA2) (-20)			 :punish:sa2:
+*** Punish Seichusen Godanzuki (SA1) (-17) with crHP 		 :punish:sa1:
+*** Punish Abare Tosanami (SA2) 				 :punish:sa2:
+    Guard high for the first hit, then crouch to avoid the high kick.
+    Then neutral jump, blue parry the last hit, then jHP, crHP.
+    You need to crouch under the third hit for the crHP to connect. Otherwise, use crMP instead.
+    [[https://www.youtube.com/watch?v=h5Vu_xuVRtY][Video and explanation]]
 ** Necro							      :necro:
 ** Oro									:oro:
 ** Q 									  :q:
