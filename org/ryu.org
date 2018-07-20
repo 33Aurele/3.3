@@ -89,6 +89,15 @@
     You need to crouch under the third hit for the crHP to connect. Otherwise, use crMP instead.
     [[https://www.youtube.com/watch?v=h5Vu_xuVRtY][Video and explanation]]
 ** Necro							      :necro:
+*** Punish crKH (-12) with crHK					     :punish:
+    Only at close range.
+*** Punish Snake Fange (-13/-15/-17)				     :punish:
+    Only at close range. crHP or crHK depending on how close you are.
+*** Punish Magnetic Storm (-12) (SA1)				 :punish:sa1:
+    Punish with crHP. However, the opponent can keep it going by pressing punch.
+    It is too hard to react if he stops in the middle of it.
+*** Punish Electric Snake (-11) (SA3)				 :punish:sa3:
+    Use crMK or crHK if you're close enough.
 ** Oro									:oro:
 ** Q 									  :q:
 ** Remy								       :remy:
