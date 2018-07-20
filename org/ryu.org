@@ -105,6 +105,21 @@
     Dash towards Oro after the crossup, then crMK.
     Oro can land crouching, don't cancel the crMK into Tatsumaki.
 ** Q 									  :q:
+*** Tatsumakis hit crouching Q					      :combo:
+    Every crMK can be cancelled into HK Tatsumaki.
+*** Punish HP (-23)						     :punish:
+    Use crHP, crMK, crHK or EX Hadouken depending on the range.
+    At max range, you can only punish it with SA1.
+*** Punish crHK (-25)						     :punish:
+    crMK or crHK depending on the range. SA1 also works.
+*** Punish overhead Dashing Head Attack (-10/-11/-12/-21) 	     :punish:
+    crMK or crHK depending on the range. SA1 also works.
+*** Punish low Dashing Leg Attack (-13/-14/-15/-18) with crMK 	     :punish:
+*** Punish EX High Speed Barrage (-23) with crMK		     :punish:
+*** Punish Critical Combo Attack (SA1) (-19) with crHP or HP 	 :punish:sa1:
+    (Don't forget to crouch for the 4th hit)
+    [[https://youtu.be/6_D9IW5CfAQ?t=1m37s][Video]]
+*** Punish Deadly Double Combination (SA2) (-25) with crMK	 :punish:sa2:
 ** Remy								       :remy:
 ** Ryu									:ryu:
 ** Sean								       :sean:
