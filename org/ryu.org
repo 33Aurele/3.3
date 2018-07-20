@@ -129,6 +129,14 @@
     EX is safe.
 *** Punish Supreme Rising Rage Flash (SA2) with HP		 :punish:sa2:
 ** Ryu									:ryu:
+*** Punish crHK with crHK 					     :punish:
+    [[https://youtu.be/38cBiiNY1YM?t=4m40s][Video]]
+    It can push you out of range.
+*** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMK 	     :punish:
+*** Punish Tatsumaki (-12/-8/-11)				     :punish:
+    Punish LK Tatsumaki with crMP.
+    Crouch under the third hit of MK Tatsumaki, then punish with crHP.
+    Crouch under the third hit of HK Tatsumaki, then punish with crHP, but know that the last hit of HK Tatsumaki will cross you up.
 ** Sean								       :sean:
 ** Twelve							     :twelve:
 ** Urien							      :urien:
