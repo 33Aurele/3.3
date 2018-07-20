@@ -99,6 +99,11 @@
 *** Punish Electric Snake (-11) (SA3)				 :punish:sa3:
     Use crMK or crHK if you're close enough.
 ** Oro									:oro:
+*** Punish Human Pillar Driver (-15)				     :punish:
+    crMK xx HK Tatsumaki
+*** Punish EX Jinchu Nobori					     :punish:
+    Dash towards Oro after the crossup, then crMK.
+    Oro can land crouching, don't cancel the crMK into Tatsumaki.
 ** Q 									  :q:
 ** Remy								       :remy:
 ** Ryu									:ryu:
