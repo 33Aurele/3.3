@@ -138,6 +138,18 @@
     Crouch under the third hit of MK Tatsumaki, then punish with crHP.
     Crouch under the third hit of HK Tatsumaki, then punish with crHP, but know that the last hit of HK Tatsumaki will cross you up.
 ** Sean								       :sean:
+*** Punish crHK with crHK					     :punish:
+    It can push you out of range.
+*** Punish crHP (-9) with crHK					     :punish:
+*** Punish Tornado Kick (-7/-6/-6) with HP Shoryuken		     :punish:
+    MP Shoryuken can also be used if you want to cancel it into SA1.
+*** Punish Tackle (-14/-14/-14) with crHP			     :punish:
+    EX is safe.
+    Sean can start the Tackle without hitting. Punish only if it hits your guard.
+*** Punish Hadou Burst (SA1) (-29)				 :punish:sa1:
+    If you're less than half a screen away at the start of the super, punish with EX Joudan Geri or dash forward crMK or dash crHK.
+    Above that range, you have to start jumping over the fireball during the super freeze. Then punish with crMK or EX Joudan Geri.
+*** Punish Hyper Tornado (SA3) (-31) with crHP			 :punish:sa3:
 ** Twelve							     :twelve:
 ** Urien							      :urien:
 ** Yang								       :yang:
