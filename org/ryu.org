@@ -121,6 +121,13 @@
     [[https://youtu.be/6_D9IW5CfAQ?t=1m37s][Video]]
 *** Punish Deadly Double Combination (SA2) (-25) with crMK	 :punish:sa2:
 ** Remy								       :remy:
+*** Punish crHK						       :punish:parry:
+    Blue parry second hit, then crHP, crMK or crHK depending on the range.
+*** Punish towardsMK (-7)					     :punish:
+    with reversal HP Shoryuken, crHP, SA1 or SA2
+*** Punish Cold Blue Kick (-4/-4/-6) with SA2			:punish:@sa2:
+    EX is safe.
+*** Punish Supreme Rising Rage Flash (SA2) with HP		 :punish:sa2:
 ** Ryu									:ryu:
 ** Sean								       :sean:
 ** Twelve							     :twelve:
@@ -163,3 +170,5 @@ When you have a chance to punish with combo, use cl.MK>HP SRK>SA2. If you're aim
   would it work if ken didn't super?
 * TODO crossup combos
   [[https://youtu.be/LZRa0zv_LI8?t=48s][Video]]
+* TODO Tatsumaki hitting crouch opponent
+  At least Q. Hugo? others?
