@@ -182,36 +182,50 @@
 *** Punish Sourai Rengeki (SA2) (-18) with HP			 :punish:sa2:
     It crosses you up on the last hit.
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
+*** EX Joudan Geri Juggles				       :combo:juggle:
+    If you're in your own corner, dash forward then HK Tatsumaki.
+    For the next two-thirds of the screen, simply do HK Tatsumaki.
+    After mid-screen, you can use HP Shoryuken (you can whiff a crMP before to build meter).
+    In your opponent's corner, use HP. You might need to step back a little bit if you're really close to the wall.
+    [[https://youtu.be/bdvDs0BcZYg?t=5m25s][Video]]
+*** Kara-Throw with towardsMP					      :other:
+*** Close MP, Kara-Throw 					      :setup:
+*** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
+    Best meterless combo.
+    If you're too far for the crHP to connect, do Jump HK, crMK, HK Tatsumaki.
 *** crLK xx crLP xx crLK xx SA1			      :combo:hitconfirm:@sa1:
     Does not work on standing Urien, standing Q and standing Necro.
     Against them, use crLK xx crLK xx SA1 (harder to confirm).
 *** crMK xx SA1 				      :combo:hitconfirm:@sa1:
 *** close MK xx SA1 on crouching opponent	      :combo:hitconfirm:@sa1:
+*** Deep UOH, SA1				      :combo:hitconfirm:@sa1:
+    You need the UOH to hit late a crouching opponent.
+*** Meaty towardsMP, SA1 					 :combo:@sa1:
+*** Anti-air jab, SA1						 :setup:@sa1:
+    Not a real combo, can be parried.
 *** crLK xx crLK xx SA2 			      :combo:hitconfirm:@sa2:
-*** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
-    Best meterless combo.
-    If you're too far for the crHP to connect, do Jump HK, crMK, HK Tatsumaki.
-*** SA1 corner juggles					  :combo:juggle:@sa1:
+*** Towards HP, SA2				      :combo:hitconfirm:@sa2:
+*** Back Throw into corner, LP Hadouken xx Denjuin		 :setup:@sa3:
+*** HP Shoryuken, Charge Denjin					 :setup:@sa3:
+    If the Shoryuken hits, you get to charge denjin during the knockdown.
+    Release early if the Shoryuken is guarded.
+
+*** TODO SA1 corner juggles				  :combo:juggle:@sa1:
     SA1 can combo with
 
-* TODO EX joudan geri juggles
-  another joudan geri or HK tatsu?
 * TODO Denjin setups
 * TODO SA1 corner juggles
 * TODO Corner juggles after ex hado
 * TODO crossups combos
 * TODO throw SA2 on dudley
+  https://www.youtube.com/watch?v=NlrAFj7fr_8
 * TODO UOH into SA1
   I think cr(LK LP LK) guarded in the corner puts you in the right range
   srk: This trick works on: Dudley, Oro, Elena, Hugo, Yun, Yang, Urien, Ibuki, Alex
 * TODO From srk: 
 » After SA1 or EX Hadouken use HK Tatsumaki to get in front of your opponent. It also charges super meter. Have in mind that if you use HK Tatsumaki after SA1 you can easily land another super by doing F+MP>SA1 on opponent's wakeup (with F+MP hitting with its last frames). Wakeup time is specific for all characters so this setup only works on Ryu(77), Ken(75), Akuma(77), Sean(77), Urien(76), Chun-Li(88). Numbers represent frames it takes for a character to stand up.
 * TODO MP SRK xx SA1 juggle
-* TODO SA2 combo
-When you have a chance to punish with combo, use cl.MK>HP SRK>SA2. If you're aiming for stun damage, use cl.HP>HP SRK>SA2
 * TODO SA2 followup
-* TODO Other SA2 hitconfirms
-* TODO Karathrow and setups
 * TODO Double stun setup (denjin)
   [[https://youtu.be/YNGmrAbwn90?t=49s][Video]]
   would it work if ken didn't super?
@@ -219,3 +233,9 @@ When you have a chance to punish with combo, use cl.MK>HP SRK>SA2. If you're aim
   [[https://youtu.be/LZRa0zv_LI8?t=48s][Video]]
 * TODO Tatsumaki hitting crouch opponent
   At least Q. Hugo? others?
+* TODO cr LK LP LK for deep overhead
+  which chars?
+* TODO denjin setups killers
+  Hugo, Q supers, Akuma TP
+* TODO dash behind
+  in corner: alex urien necro twelve hugo dudley
