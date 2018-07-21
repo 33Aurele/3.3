@@ -151,6 +151,16 @@
     Above that range, you have to start jumping over the fireball during the super freeze. Then punish with crMK or EX Joudan Geri.
 *** Punish Hyper Tornado (SA3) (-31) with crHP			 :punish:sa3:
 ** Twelve							     :twelve:
+*** Punish crHP (ball) (-8) with crHK 				     :punish:
+    It can push you out of range.
+*** Punish crHK (drill) (-11) with crHP				     :punish:
+*** Punish D.R.A (-14/-13/-13) with crMP			     :punish:
+    Twelve can land crouching, don't cancel into Tatsumaki.
+*** Punish X.F.L.A.T (SA2) (-24) with HP			 :punish:sa2:
+    Know that sometimes, Twelve switches sides with you.
+*** Punish X.N.D.L (SA1) with SA1 			    :punish:sa1:@sa1:
+    Only if it starts close engouh.
+    [[https://youtu.be/gMJzG1KS-ZU?t=8m43s][Video]]
 ** Urien							      :urien:
 ** Yang								       :yang:
 ** Yun									:yun:
