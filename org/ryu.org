@@ -171,14 +171,23 @@
     Use crMK or crHK depending on the range.
 *** Punish Tyrant Punish (SA1) (-18) with HP 			 :punish:sa1:
 ** Yang								       :yang:
+*** Punish last hit of HP Mantis with crMK or HP 		     :punish:
 ** Yun									:yun:
+*** Punish Zesshou Hohou (-11/-11/-11)				     :punish:
+    with HP Shoryuken or MP Shoryuken (to juggle with SA1).
+    EX is safe.
+*** Punish You Hou (SA1)					 :punish:sa1:
+    Guard the first two hits, then jump and parry the last one in the air.
+    On the way down, do HK, then crMK x HK Tatsumaki.
+*** Punish Sourai Rengeki (SA2) (-18) with HP			 :punish:sa2:
+    It crosses you up on the last hit.
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** crLK xx crLP xx crLK xx SA1			      :combo:hitconfirm:@sa1:
     Does not work on standing Urien, standing Q and standing Necro.
     Against them, use crLK xx crLK xx SA1 (harder to confirm).
 *** crMK xx SA1 				      :combo:hitconfirm:@sa1:
 *** close MK xx SA1 on crouching opponent	      :combo:hitconfirm:@sa1:
-*** crLK xx crLK xx SA2				      :combo:hitconfirm:@sa2:
+*** crLK xx crLK xx SA2 			      :combo:hitconfirm:@sa2:
 *** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
     Best meterless combo.
     If you're too far for the crHP to connect, do Jump HK, crMK, HK Tatsumaki.
