@@ -162,6 +162,14 @@
     Only if it starts close engouh.
     [[https://youtu.be/gMJzG1KS-ZU?t=8m43s][Video]]
 ** Urien							      :urien:
+*** Punish crHP (-10)						     :punish:
+    use crMP xx EX Hadouken or crMK depending on the range.
+*** Punish Violence Knee Drop (-16/-16/-16) with crMK		     :punish:
+    EX can be punished only with SA1.
+    [[https://youtu.be/Nko0ByMG4_8?t=1m53s][Video]]
+*** Punish Chariot Rush (-10/-11/-12/-9)			     :punish:
+    Use crMK or crHK depending on the range.
+*** Punish Tyrant Punish (SA1) (-18) with HP 			 :punish:sa1:
 ** Yang								       :yang:
 ** Yun									:yun:
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
