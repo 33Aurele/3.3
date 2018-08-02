@@ -47,6 +47,8 @@
 *** Zoning with crMP						   :footsies:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
+*** Tatsumakis hit crouching Hugo 				      :combo:
+    Every crMK can be cancelled into HK Tatsumaki.
 *** Punish crHP (-29)						     :punish:
     You can dash forward the punish with any normal.
 *** Punish dropkick (HK) (-18)					     :punish:
@@ -161,6 +163,8 @@
 *** Punish X.N.D.L (SA1) with SA1 			    :punish:sa1:@sa1:
     Only if it starts close engouh.
     [[https://youtu.be/gMJzG1KS-ZU?t=8m43s][Video]]
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against Twelve, SA1 hits only 2 times after MP Shoryuken.
 ** Urien							      :urien:
 *** Punish crHP (-10)						     :punish:
     use crMP xx EX Hadouken or crMK depending on the range.
@@ -181,6 +185,22 @@
     On the way down, do HK, then crMK x HK Tatsumaki.
 *** Punish Sourai Rengeki (SA2) (-18) with HP			 :punish:sa2:
     It crosses you up on the last hit.
+** Akuma, ChunLi, Ken, Ryu, Sean, Urien :akuma:gouki:chunli:ken:ryu:sean:urien:
+*** Meaty Setup							 :setup:@sa1:
+    After SA1, do HK Tatsumaki to close the gap.
+    Then, forwardMP will hit meaty (and can be confirmed into another SA1).
+** Akuma, Elena, Ken, Makoto, Oro, Ryu, Sean, Yang, Yun :akuma:gouki:elena:ken:makoto:oro:ryu:sean:yang:yun:
+*** MP Shotyuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hits fully after MP Shoryuken.
+** Hugo, Necro, Urien					   :hugo:necro:urien:
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hits only 4 times after MP Shoryuken.
+** Alex, Chunli, Dudley, Remy			    :alex:chunli:dudley:remy:
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hit only 3 times after MP Shoryuken.
+** Ibuki, Q							    :ibuki:q:
+*** Shoryuken xx SA1 doesn't combo 				 :combo:@sa1:
+    Don't cancel a Shoryuken into SA1 against these characters.
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
 *** EX Joudan Geri Juggles				       :combo:juggle:
     If you're in your own corner, dash forward then HK Tatsumaki.
@@ -188,6 +208,9 @@
     After mid-screen, you can use HP Shoryuken (you can whiff a crMP before to build meter).
     In your opponent's corner, use HP. You might need to step back a little bit if you're really close to the wall.
     [[https://youtu.be/bdvDs0BcZYg?t=5m25s][Video]]
+*** Crossup combos						      :combo:
+    Crossup with jumpingMK, then MK.
+    Can be followed with EX Joudan Geri, Tatsumaki, SA1, SA2...
 *** Kara-Throw with towardsMP					      :other:
 *** Close MP, Kara-Throw 					      :setup:
 *** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
@@ -203,6 +226,10 @@
 *** Meaty towardsMP, SA1 					 :combo:@sa1:
 *** Anti-air jab, SA1						 :setup:@sa1:
     Not a real combo, can be parried.
+*** SA1 corner juggle					  :combo:juggle:@sa1:
+    In the corner, SA1 can be juggled with anotther SA1, EX Hadouken, HK Tatsumaki, HP Shoryuken or HK.
+    After cancelling from crLK, crLP, crLK, you can only juggle with Tatsumaki.
+    After cancelling from crLP, crLP, you can only juggle with another SA1 or HP Shoryuken.
 *** crLK xx crLK xx SA2 			      :combo:hitconfirm:@sa2:
 *** Towards HP, SA2				      :combo:hitconfirm:@sa2:
 *** Back Throw into corner, LP Hadouken xx Denjuin		 :setup:@sa3:
@@ -210,32 +237,26 @@
     If the Shoryuken hits, you get to charge denjin during the knockdown.
     Release early if the Shoryuken is guarded.
 
-*** TODO SA1 corner juggles				  :combo:juggle:@sa1:
-    SA1 can combo with
+
 
 * TODO Denjin setups
-* TODO SA1 corner juggles
-* TODO Corner juggles after ex hado
-* TODO crossups combos
+
 * TODO throw SA2 on dudley
   https://www.youtube.com/watch?v=NlrAFj7fr_8
 * TODO UOH into SA1
   I think cr(LK LP LK) guarded in the corner puts you in the right range
   srk: This trick works on: Dudley, Oro, Elena, Hugo, Yun, Yang, Urien, Ibuki, Alex
-* TODO From srk: 
-» After SA1 or EX Hadouken use HK Tatsumaki to get in front of your opponent. It also charges super meter. Have in mind that if you use HK Tatsumaki after SA1 you can easily land another super by doing F+MP>SA1 on opponent's wakeup (with F+MP hitting with its last frames). Wakeup time is specific for all characters so this setup only works on Ryu(77), Ken(75), Akuma(77), Sean(77), Urien(76), Chun-Li(88). Numbers represent frames it takes for a character to stand up.
-* TODO MP SRK xx SA1 juggle
 * TODO SA2 followup
 * TODO Double stun setup (denjin)
   [[https://youtu.be/YNGmrAbwn90?t=49s][Video]]
   would it work if ken didn't super?
 * TODO crossup combos
   [[https://youtu.be/LZRa0zv_LI8?t=48s][Video]]
-* TODO Tatsumaki hitting crouch opponent
-  At least Q. Hugo? others?
 * TODO cr LK LP LK for deep overhead
   which chars?
 * TODO denjin setups killers
   Hugo, Q supers, Akuma TP
 * TODO dash behind
   in corner: alex urien necro twelve hugo dudley
+* TODO SA2 against urien middle screen unblockables?
+* TODO Joudan Geri loop
