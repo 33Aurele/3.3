@@ -43,7 +43,7 @@
 *** Punish any Lynx Tail (-17/-17/-15/-10) with crMK 		     :punish:
 *** Punish Spinning Beat (SA1) (-30)				 :punish:sa1:
     crMK, close MK, crHP,...
-*** Punish Brave Dance (s12) (-12)				 :punish:sa2:
+*** Punish Brave Dance (SA2) (-12) 				 :punish:sa2:
     With crHP.
     [[https://youtu.be/JA64aNc6Xjk?t=9m8s][Video]]
 *** Zoning with crMP						   :footsies:
