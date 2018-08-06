@@ -1,23 +1,254 @@
 * Ryu								       :@ryu:
 ** Akuma							:akuma:gouki:
+*** In corner, Punish HK Tatsumaki that goes over you with close MK  :punish:
+    [[https://youtu.be/EKUzPr_vUv4?t=19m36s][Video]]
+*** Against air firball, dash under then punish with close MK or close HP :footsies:
+*** Punish LK Tatsumaki that goes above you with crLK		     :punish:
+    You can followup with another crLK and a super.
+*** Punish Close Messatsu Gou Hadou (SA1) with crMK		 :punish:sa1:
+    Only if Akuma stands right next to you.
 ** Alex								       :alex:
+*** Punish Boomerang Raid (SA2)					 :punish:sa2:
+    In the middle, jump HP.
+    [[https://youtu.be/QFseKWKYJMM?t=7m32s][Video]]
+    In the corner, guard up, then crMK. If he started really close to you, you need to parry the third hit.
+*** SA2 to punish Air Stampede (-3)				:punish:@sa2:
+*** Punish crHP with HP Shoryuken				     :punish:
 ** ChunLi							     :chunli:
+*** Punish SA2							 :punish:sa2:
+    Blue parry the last hit, then neutral jump HK, close MK, EX joudan geri.
+*** Punish SA1							 :punish:sa1:
+    Dash in, crMK
+*** Punish EX Spinning Bird Kick with SA1			:punish:@sa1:
+    If you're close to Chun after guarding it you can also punish with Soryuken.
 ** Dudley							     :dudley:
+*** Punish crMK (-12) with crHK					     :punish:
+    In the corner, crMK has enough range to punish as well.
+*** Punish EX and HP Machine Gun Blow (-15) with crMK 		     :punish:
+    [[https://youtu.be/sHFf-1as0zM?t=13m55s][Video]]
+*** Zoning with far HK						   :footsies:
+*** Punish Ducking Upper (-12) with crMK or crHK		     :punish:
+    If you punish with crMK, tatsumakis won't connect
+*** Dash behind Dudley on his wakeup				     :wakeup:
+    [[https://youtu.be/sHFf-1as0zM?t=14m45s][Video]]
+*** Throw, SA2 							 :combo:@sa2:
+    In the corner, after a neutral throw, if Dudley doesn't quickroll you can combo with SA2.
+    [[https://www.youtube.com/watch?v=NlrAFj7fr_8][Video]]
 ** Elena							      :elena:
+*** Punish crHK (-9)						     :punish:
+    With crHK or crMK depending on the range.
+*** Punish slide (-14) with crHK 				     :punish:
+    If correctly spaced, it can be out of range.
+*** Punish EX Spinning Scythe (-15) with crMK			     :punish:
+*** Punish any Lynx Tail (-17/-17/-15/-10) with crMK 		     :punish:
+*** Punish Spinning Beat (SA1) (-30)				 :punish:sa1:
+    crMK, close MK, crHP,...
+*** Punish Brave Dance (SA2) (-12) 				 :punish:sa2:
+    With crHP.
+    [[https://youtu.be/JA64aNc6Xjk?t=9m8s][Video]]
+*** Zoning with crMP						   :footsies:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
+*** Tatsumakis hit crouching Hugo 				      :combo:
+    Every crMK can be cancelled into HK Tatsumaki.
+*** Punish crHP (-29)						     :punish:
+    You can dash forward the punish with any normal.
+*** Punish dropkick (HK) (-18)					     :punish:
+    If you're close enough, use crHK or EX Hadouken.
+    At some range, crHK won't connect and EX Hadouken won't punish.
+*** Punish crHK (-43) with crHP 				      :punis:
+*** Punish towards HP with crMK					     :punish:
+*** Punish Monster Lariat (-8/-10/-11/-22)			     :punish:
+    with HP Shoryuken or crHP.
+*** Punish Hammer Frenzy (SA3) (-29)				 :punish:sa3:
+    If he's close, crHP. Otherwise crMK.
+*** Jump forward MP, MP, crHP on crouching Hugo			      :combo:
+    [[https://youtu.be/pQ48I3TuGa8?t=4m23s][Video]]
+*** Super jump forward air Tatsumaki 				   :footsies:
+    It crosses up Hugo.
 ** Ibuki							      :ibuki:
+*** Punish slide Kubiori (-10/-16/-19/-27) with crHP		     :punish:
+*** Punish slide (down towards MK) (-16) with crMK		     :punish:
+*** Punish HK (-11) with crMK					     :punish:
 ** Ken									:ken:
+*** Punish Shipuujinrai Kyaku (sA3) (-11) 			 :punish:sa3:
+    With close HP, crHP, or close MK.
+    [[https://youtu.be/LZRa0zv_LI8?t=5m5s][Video]]
+    [[https://youtu.be/LZRa0zv_LI8?t=5m14s][Video]]
+*** Punish crHK (-14) with crHK 				     :punish:
+    If spaced correctly, you can be out of range.
+    [[https://youtu.be/LZRa0zv_LI8?t=5m29s][Video]]
 ** Makoto							     :makoto:
+*** Punish Hayate (-12)						     :punish:
+    crHP, close MK or crMP.
+    [[https://youtu.be/yUpr8qOR34c?t=11m3s][Video]]
+*** Punish Towards HK (-11)					     :punish:
+    With close MK, crHP or crMP.
+    Keep in mind that it can be feinted.
+*** Punish Seichusen Godanzuki (SA1) (-17) with crHP 		 :punish:sa1:
+*** Punish Abare Tosanami (SA2) 				 :punish:sa2:
+    Guard high for the first hit, then crouch to avoid the high kick.
+    Then neutral jump, blue parry the last hit, then jHP, crHP.
+    You need to crouch under the third hit for the crHP to connect. Otherwise, use crMP instead.
+    [[https://www.youtube.com/watch?v=h5Vu_xuVRtY][Video and explanation]]
 ** Necro							      :necro:
+*** Punish crKH (-12) with crHK					     :punish:
+    Only at close range.
+*** Punish Snake Fange (-13/-15/-17)				     :punish:
+    Only at close range. crHP or crHK depending on how close you are.
+*** Punish Magnetic Storm (-12) (SA1)				 :punish:sa1:
+    Punish with crHP. However, the opponent can keep it going by pressing punch.
+    It is too hard to react if he stops in the middle of it.
+*** Punish Electric Snake (-11) (SA3)				 :punish:sa3:
+    Use crMK or crHK if you're close enough.
 ** Oro									:oro:
+*** Punish Human Pillar Driver (-15)				     :punish:
+    crMK xx HK Tatsumaki.
+*** Punish EX Jinchu Nobori					     :punish:
+    Dash towards Oro after the crossup, then crMK.
+    Oro can land crouching, don't cancel the crMK into Tatsumaki.
 ** Q 									  :q:
+*** Tatsumakis hit crouching Q					      :combo:
+    Every crMK can be cancelled into HK Tatsumaki.
+*** Punish HP (-23)						     :punish:
+    Use crHP, crMK, crHK or EX Hadouken depending on the range.
+    At max range, you can only punish it with SA1.
+*** Punish crHK (-25)						     :punish:
+    crMK or crHK depending on the range. SA1 also works.
+*** Punish overhead Dashing Head Attack (-10/-11/-12/-21) 	     :punish:
+    crMK or crHK depending on the range. SA1 also works.
+*** Punish low Dashing Leg Attack (-13/-14/-15/-18) with crMK 	     :punish:
+*** Punish EX High Speed Barrage (-23) with crMK		     :punish:
+*** Punish Critical Combo Attack (SA1) (-19) with crHP or HP 	 :punish:sa1:
+    (Don't forget to crouch for the 4th hit)
+    [[https://youtu.be/6_D9IW5CfAQ?t=1m37s][Video]]
+*** Punish Deadly Double Combination (SA2) (-25) with crMK	 :punish:sa2:
 ** Remy								       :remy:
+*** Punish crHK						       :punish:parry:
+    Blue parry second hit, then crHP, crMK or crHK depending on the range.
+*** Punish towardsMK (-7)					     :punish:
+    with reversal HP Shoryuken, crHP, SA1 or SA2.
+*** Punish Cold Blue Kick (-4/-4/-6) with SA2			:punish:@sa2:
+    EX is safe.
+*** Punish Supreme Rising Rage Flash (SA2) with HP		 :punish:sa2:
 ** Ryu									:ryu:
+*** Punish crHK with crHK 					     :punish:
+    [[https://youtu.be/38cBiiNY1YM?t=4m40s][Video]]
+    It can push you out of range.
+*** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMK 	     :punish:
+*** Punish Tatsumaki (-12/-8/-11)				     :punish:
+    Punish LK Tatsumaki with crMP.
+    Crouch under the third hit of MK Tatsumaki, then punish with crHP.
+    Crouch under the third hit of HK Tatsumaki, then punish with crHP, but know that the last hit of HK Tatsumaki will cross you up.
 ** Sean								       :sean:
+*** Punish crHK with crHK					     :punish:
+    It can push you out of range.
+*** Punish crHP (-9) with crHK					     :punish:
+*** Punish Tornado Kick (-7/-6/-6) with HP Shoryuken		     :punish:
+    MP Shoryuken can also be used if you want to cancel it into SA1.
+*** Punish Tackle (-14/-14/-14) with crHP			     :punish:
+    EX is safe.
+    Sean can start the Tackle without hitting. Punish only if it hits your guard.
+*** Punish Hadou Burst (SA1) (-29)				 :punish:sa1:
+    If you're less than half a screen away at the start of the super, punish with EX Joudan Geri or dash forward crMK or dash crHK.
+    Above that range, you have to start jumping over the fireball during the super freeze. Then punish with crMK or EX Joudan Geri.
+*** Punish Hyper Tornado (SA3) (-31) with crHP			 :punish:sa3:
 ** Twelve							     :twelve:
+*** Punish crHP (ball) (-8) with crHK 				     :punish:
+    It can push you out of range.
+*** Punish crHK (drill) (-11) with crHP				     :punish:
+*** Punish D.R.A (-14/-13/-13) with crMP			     :punish:
+    Twelve can land crouching, don't cancel into Tatsumaki.
+*** Punish X.F.L.A.T (SA2) (-24) with HP			 :punish:sa2:
+    Know that sometimes, Twelve switches sides with you.
+*** Punish X.N.D.L (SA1) with SA1 			    :punish:sa1:@sa1:
+    Only if it starts close engouh.
+    [[https://youtu.be/gMJzG1KS-ZU?t=8m43s][Video]]
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against Twelve, SA1 hits only 2 times after MP Shoryuken.
 ** Urien							      :urien:
+*** Punish crHP (-10)						     :punish:
+    use crMP xx EX Hadouken or crMK depending on the range.
+*** Punish Violence Knee Drop (-16/-16/-16) with crMK		     :punish:
+    EX can be punished only with SA1.
+    [[https://youtu.be/Nko0ByMG4_8?t=1m53s][Video]]
+*** Punish Chariot Rush (-10/-11/-12/-9)			     :punish:
+    Use crMK or crHK depending on the range.
+*** Punish Tyrant Punish (SA1) (-18) with HP 			 :punish:sa1:
 ** Yang								       :yang:
+*** Punish last hit of HP Mantis with crMK or HP 		     :punish:
 ** Yun									:yun:
+*** Punish Zesshou Hohou (-11/-11/-11)				     :punish:
+    with HP Shoryuken or MP Shoryuken (to juggle with SA1).
+    EX is safe.
+*** Punish You Hou (SA1)					 :punish:sa1:
+    Guard the first two hits, then jump and parry the last one in the air.
+    On the way down, do HK, then crHP x HK Tatsumaki.
+*** Punish Sourai Rengeki (SA2) (-18) with HP			 :punish:sa2:
+    It crosses you up on the last hit.
+** Akuma, ChunLi, Ken, Ryu, Sean, Urien :akuma:gouki:chunli:ken:ryu:sean:urien:
+*** Meaty Setup							 :setup:@sa1:
+    After SA1, do HK Tatsumaki to close the gap.
+    Then, forwardMP will hit meaty (and can be confirmed into another SA1).
+** Akuma, Elena, Ken, Makoto, Oro, Ryu, Sean, Yang, Yun :akuma:gouki:elena:ken:makoto:oro:ryu:sean:yang:yun:
+*** MP Shotyuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hits fully after MP Shoryuken.
+** Hugo, Necro, Urien					   :hugo:necro:urien:
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hits only 4 times after MP Shoryuken.
+** Alex, Chunli, Dudley, Remy			    :alex:chunli:dudley:remy:
+*** MP Shoryuken xx SA1						 :combo:@sa1:
+    Against these characters, SA1 hit only 3 times after MP Shoryuken.
+** Ibuki, Q							    :ibuki:q:
+*** Shoryuken xx SA1 doesn't combo 				 :combo:@sa1:
+    Don't cancel a Shoryuken into SA1 against these characters.
+** Alex, Dudley, Elena, Hugo, Ibuki, Oro, Urien, Yang, Yun :alex:dudley:elena:hugo:ibuki:oro:urien:yang:yun:
+*** Deep UOH Setup						 :setup:@sa1:
+    If the opponent guards (or is hit by) your crLK crLP crLK, you're in the right range for a deep UOH, which can be hit-confirmed into SA1.
+    Also works in the corner.
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:
-
+*** EX Joudan Geri Juggles				       :combo:juggle:
+    If you're in your own corner, dash forward then HK Tatsumaki.
+    For the next two-thirds of the screen, simply do HK Tatsumaki.
+    After mid-screen, you can use HP Shoryuken (you can whiff a crMP before to build meter). Hit it as late as possible for max dammage.
+    In your opponent's corner, use HP or crHP. You might need to step back a little bit if you're really close to the wall.
+    [[https://youtu.be/bdvDs0BcZYg?t=5m25s][Video]]
+*** EX Joudan Geri crossdown setup 				      :setup:
+    After EX Joudan Geri in the corner, juggle with crHP.
+    Then, backdash. If you do it early, you can cross down the opponent.
+    [[https://www.youtube.com/watch?v=Xanbp9QXHmY][Video]]
+*** Crossup combos						      :combo:
+    Crossup with jumpingMK, then MK or crHP.
+    Can be followed with EX Joudan Geri, Tatsumaki, SA1, SA2...
+    [[https://youtu.be/LZRa0zv_LI8?t=48s][Video]]
+*** Kara-Throw with towardsMP					      :other:
+*** Close MP, Kara-Throw 					      :setup:
+*** Jump HP, crHP, HK Tatsumaki against stunned opponent	      :combo:
+    Best meterless combo.
+    If you're too far for the crHP to connect, do Jump HK, crMK, HK Tatsumaki.
+*** crLK xx crLP xx crLK xx SA1			      :combo:hitconfirm:@sa1:
+    Does not work on standing Urien, standing Q and standing Necro.
+    Against them, use crLK xx crLK xx SA1 (harder to confirm).
+*** crMK xx SA1 				      :combo:hitconfirm:@sa1:
+*** close MK xx SA1 on crouching opponent	      :combo:hitconfirm:@sa1:
+*** Deep UOH, SA1				      :combo:hitconfirm:@sa1:
+    You need the UOH to hit late a crouching opponent.
+*** Meaty towardsMP, SA1 					 :combo:@sa1:
+*** Anti-air jab, SA1						 :setup:@sa1:
+    Not a real combo, can be parried.
+*** SA1 corner juggle					  :combo:juggle:@sa1:
+    In the corner, SA1 can be juggled with another SA1, EX Hadouken, HK Tatsumaki, HP Shoryuken or HK.
+    After cancelling from crLK, crLP, crLK, you can only juggle with Tatsumaki.
+    After cancelling from crLP, crLP, you can only juggle with another SA1 or HP Shoryuken.
+*** crLK xx crLK xx SA2 			      :combo:hitconfirm:@sa2:
+*** Towards HP, SA2				      :combo:hitconfirm:@sa2:
+*** Juggle after SA2					  :juggle:combo:@sa2:
+    With HK Tatsumaki.
+    If SA2 has been cancelled from any move, wait until the recovery is complete.
+    Otherwise, you have 3 frames to cancel the recovery when landing.
+*** Back Throw into corner, LP Hadouken xx SA3 			 :setup:@sa3:
+*** Blockstrings into Denjin 					 :setup:@sa3:
+    HP Shoryuken, SA3
+    crLK, crLP, MP, Hadouken, SA3
+    crLK, crLP, crLK, Hadouken, SA3
+    close MK, crMP, SA3
