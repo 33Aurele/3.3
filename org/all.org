@@ -10,7 +10,7 @@
 *** Parry last hit of SA2                                  :punish:parry:sa2:
     Last hit can be blue parried after guarding the beginning.
 *** Only spinning bird kick EX and SA as reversal 		   :footsies:
-*** Guard Tensei Reka (SA3)						:sa3:
+*** Guard (SA3) Tensei Reka 						:sa3:
     The last hit is overhead.
 ** Dudley							     :dudley:
 *** Parry SA1							  :parry:sa1:
@@ -19,7 +19,7 @@
 ** Elena							      :elena:
 ** Gill								       :gill:
 ** Hugo								       :hugo:
-*** Guard Hammer Frenzy SA3 						:sa3:
+*** Guard (SA3) Hammer Frenzy 						:sa3:
     The third hit is overhead.
 ** Ibuki							      :ibuki:
 ** Ken									:ken:
@@ -30,7 +30,7 @@
     He can also do Flying Viper.
 ** Oro									:oro:
 ** Q 									  :q:
-*** Guard Critical Combo Attack 					:sa1:
+*** Guard (SA1) Critical Combo Attack 					:sa1:
     The fourth hit is low.
 *** Beware of the grab reset in the corner                         :footsies:
 ** Remy								       :remy:
@@ -46,7 +46,7 @@
 *** Guarded SA2 crosses you up 						:sa2:
 ** Shotos                                                     :ken:ryu:akuma:
 *** Hadouken (not EX) isn't safe in corner                           :punish:
-    It applies for Denjin Hadouken (SA3) and Shinkuu Hadouken (SA1) of Ryu too.
+    It applies for (SA3) Denjin Hadouken and (SA1) Shinkuu Hadouken of Ryu too.
 ** Twins                                                           :yang:yun:
 *** Watch out for Divekick crossup if you wakeup in the corner      :@wakeup:
 ** all :all:alex:akuma:chunli:dudley:elena:gill:gouki:hugo:ibuki:ken:makoto:necro:oro:q:remy:ryu:sean:twelve:urien:yang:yun:

@@ -10,6 +10,11 @@ cd ..
 cp 3.3.org temp.org
 sed -i 's/TODO/\(unsure\)/g' temp.org
 
+# replace Super arts with the corresponding picture
+sed -i 's/(SA1)/\<img src\=\"img\/sa1.png\" \/\>/g' temp.org
+sed -i 's/(SA2)/\<img src\=\"img\/sa2.png\" \/\>/g' temp.org
+sed -i 's/(SA3)/\<img src\=\"img\/sa3.png\" \/\>/g' temp.org
+
 #removing empty lines
 sed -i '/^$/d' temp.org
 
