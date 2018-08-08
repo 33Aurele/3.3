@@ -10,26 +10,26 @@
 *** LK Tatsumaki that goes above you can be punished with crLP xx crLP :punish:
     You can put SA1 after.
     You can input down LP+LK for the OS throw tech/crLP.
-*** Punish Messatsu Gou Shoryuu (SA2)				 :punish:sa2:
+*** Punish (SA2) Messatsu Gou Shoryuu 				 :punish:sa2:
     LP or MP Fukiage (LP is easier).
-*** Punish Ground Messatsu Gou Rasen (SA3)			 :punish:sa3:
+*** Punish Ground (SA3) Messatsu Gou Rasen 			 :punish:sa3:
     Walk forward, then HP Fukiage when Akuma comes down. Strict Timing. EX Fukiage requires less walking.
     Easiest punish is with crMP. Less stun, but can be super-canceled.
-*** Punish Kongou Kokuretsu Zan (-28) 				     :punish:
+*** Punish Kongou Kokuretsu Zan <-28> 				     :punish:
     With HP Hayate or EX Hayate.
 *** Charged HP Hayate avoids Shun Goku Satsu (super grab) 	      :other:
     This isn't very useful because Shun Goku Satsu only has 2 recovery frames.
     Don't let go of the charge during the super. 
     If the Hayate is fully charged and comes out, you will get grabbed.
 ** Alex								       :alex:
-*** Punish HK (-13) with HP Hayate 				     :punish:
+*** Punish HK <-13> with HP Hayate 				     :punish:
     At a certain distance, HP Hayate is too short. Only punish if you are close enough.
-*** SA1 to punish Air Stampede (stomp) (-3)                     :punish:@sa1:
+*** SA1 to punish Air Stampede <-3> 				:punish:@sa1:
     [[https://youtu.be/MOCVDPE6dV0?t=8m51s][Video]]
-*** Punish Boomerang Raid (SA2)					 :punish:sa2:
+*** Punish (SA2) Boomerang Raid 				 :punish:sa2:
     In the middle, after the first hit is guarded, backdash then forward jump HK.
     In the corner, you can't jump without getting hit. Guard up so that the last hit is guarded, then HP Hayate.
-*** Mixup: Alex quickrolls after EX Oroshi 			:setup:mixup:
+*** Mixup: If Alex quickrolls after EX Oroshi 			:setup:mixup:
     Do HP xx EX Oroshi. If Alex quickrolls, you can:
     Super jump HP (crossup), LK xx LP Hayate
     Super jump HK Tsurugi (whiff), Karakusa
@@ -38,15 +38,15 @@
 *** After HP Hayate, crLK xx LP Hayate, do crLK then Kara-Karakusa    :setup:
     It works even if the last crLK is guarded. 
     Does not work in the corner.
-*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
+*** Reversal SA1 to punish crMK <-2> 				:punish:@sa1:
     [[https://youtu.be/E0J9J87JL7s?t=8m15s][Video]]
     If she cancels into SA2, your reversal won't come out but you can punish after.
-*** Max Punish SA2 						 :punish:sa2:
+*** Max Punish (SA2) Houyoku Sen 				 :punish:sa2:
     Blue parry last hit, then neutral jump HK, HP,...
     The timing is very tight. No super jump.
     Easiest way is to simply parry the last hit then HP.
-*** Punish Kikoshou (SA1) with HP Hayate			 :punish:sa1:
-*** Punish Tensei Reka (SA3) with crMP 				 :punish:sa3:
+*** Punish (SA1) Kikoshou with HP Hayate 			 :punish:sa1:
+*** Punish (SA3) Tensei Reka with crMP 				 :punish:sa3:
     Don't forget to guard high, the last hit is overhead.
 *** 100% Stun Combo					  :@sa2:combo:juggle:
     [[https://www.youtube.com/watch?v=F5lOHTQEkRY][Video and explanation]]
@@ -56,12 +56,12 @@
 *** Fukiage beats Hazan Shu 					   :footsies:
     [[https://www.youtube.com/watch?v=YwrjU4wsoy0&feature=youtu.be&t=10m50s][Video]]
 ** Dudley							     :dudley:
-*** Punish MP Machine Gun Blow (-9) with crMP                        :punish:
-*** Punish HP Machine Gun Blow (-15)                                 :punish:
+*** Punish MP Machine Gun Blow <-9> with crMP 			     :punish:
+*** Punish HP Machine Gun Blow <-15> 				     :punish:
     HP is close enough. If you want more time, punish with crMP.
     [[https://youtu.be/N-fVnPzgTbU?t=57s][Video]]
     The difference with MP MGB is that there are 6 hits in the HP version (4 for MP version).
-*** Punish EX Machine Gun Blow (-15) with crMP                       :punish:
+*** Punish EX Machine Gun Blow <-15> with crMP 			     :punish:
 *** Punish Cross Counter (not EX)                                    :punish:
     MP xx HP Fukiage xx super jump cancel HK
 *** Punish HP Uppercut						     :punish:
@@ -71,11 +71,11 @@
     Crosses you up if guarded.
     Reversal Hp Fukiage can be used but timing is strict.
     Easiest is to punish with MP or HP on the landing, but remember that Dudley will switch sides.
-*** Punish Rocket Uppercut (SA1)				 :punish:sa1:
+*** Punish (SA1) Rocket Uppercut 				 :punish:sa1:
     For max dammage with super, MP xx SA1 works and is a hit-confirm.
     Meterless punish: down parry the last uppercut, then HP Fukiage, jump cancel, HK Tsurugi.
 *** Zoning with crHK						   :footsies:
-*** Mixup: Dudley quickrolls after EX Hayate 			      :mixup:
+*** Mixup: If Dudley quickrolls after EX Hayate 		      :mixup:
     Dash, then super jump HP (crossup) or dash, then super jump Karakusa
     [[https://twitter.com/murakamigouki/status/807899448604966912][Video]]
 *** After EX Hayate in corner, juggle with LK then dash under  :juggle:mixup:
@@ -83,24 +83,24 @@
     [[https://clips.twitch.tv/SteamyAcceptableRavenFeelsBadMan][Video]]
 *** Fukiage hits stunned Dudley						:other:
 ** Elena                                                              :elena:
-*** Punish HK Spinning Scythe (-8) with LK or crLK                   :punish:
+*** Punish HK Spinning Scythe <-8> with LK or crLK 		     :punish:
     In theory, crMP is possible, but the timing is really hard (1frame)
-*** Punish EX Spinning Scythe (-15) with crMP                        :punish:
-*** Punish Rhino Horn (-3/-4/-6/-2 EX) with SA1                 :punish:@sa1:
+*** Punish EX Spinning Scythe <-15> with crMP 			     :punish:
+*** Punish Rhino Horn <-3/-4/-6/-2> with SA1 			:punish:@sa1:
     When she throws at you feet first 
-*** Punish Lynx Tail (-17/-15/-15) with Hayate                       :punish:
+*** Punish Lynx Tail <-17/-15/-15> with Hayate 			     :punish:
     The low spinning kicks.
-*** Punish Spinning Beat (SA1) with HP                           :punish:sa1:
-*** Punish Brave Dance (-12) with HP                             :punish:sa2:
+*** Punish (SA1) Spinning Beat with HP 				 :punish:sa1:
+*** Punish (SA2) Brave Dance <-12> with HP 			 :punish:sa2:
 ** Gill                                                                :gill:
 ** Hugo								       :hugo:
-*** Punish dropkick HK (-18) with HP Hayate                          :punish:
+*** Punish dropkick HK <-18> with HP Hayate 			     :punish:
     You can even use EX Hayate but the timing is very strict.
-*** Punish crHK (-43) with crMP or MP 				     :punish:
-*** Punish Monster Lariat (-8/-10/-11/-22)                           :punish:
+*** Punish crHK <-43> with crMP or MP 				     :punish:
+*** Punish Monster Lariat <-8/-10/-11/-22> 			     :punish:
     Use LK xx LP Hayate against any version. crLK can be used too but then you're out of range for a LP Hayate.
     Use MP or HP against medium or heavy or EX.
-*** Punish Hammer Frenzy (-29)                                   :punish:sa3:
+*** Punish (SA3) Hammer Frenzy <-29> 				 :punish:sa3:
     You can use HP most of the times.
     Depending on where the first hit hits you, Hugo can be close or far.
     If he's very far, don't use HP and go directly for Hayate.
@@ -112,9 +112,9 @@
     Will connect in the corner.
     Be careful, EX Oroshi has almost no pushback (compared to HP).
 ** Ibuki							      :ibuki:
-*** Punish slide Kubiori (-10/-16/-19) with crMP 		     :punish:
-*** Punish slide (down towards MK) (-16) with crMP                   :punish:
-*** Punish HK (-11) with crMP 					     :punish:
+*** Punish slide Kubiori <-10/-16/-19> with crMP 		     :punish:
+*** Punish slide (down towards MK) <-16> with crMP 		     :punish:
+*** Punish HK <-11> with crMP 					     :punish:
     The 2 hit kick that ends up with the foot in the air. You have to be quick.
     [[https://youtu.be/7EiX78cZu9U?t=23m3s][Video]]
 *** HP Fukiage catches a lot of super jump ins                     :footsies:
@@ -122,26 +122,26 @@
     3 taunts, SA3, HP Fukiage inside Ibuki's special dash, jump cancel HK Tsurugi
     [[https://www.youtube.com/watch?v=Vv1lETg0398][Video]]
 ** Ken									:ken:
-*** Punish Shipuujinrai Kyaku with Karakusa 			 :punish:sa3:
+*** Punish (SA3) Shipuujinrai Kyaku with Karakusa 		 :punish:sa3:
     You need to start the input early, on the last guarded kick
 *** Charge Hayates outside of crMK range 			   :footsies:
-*** Punish crHP (-6) with LK or SA1                                  :punish:
+*** Punish crHP <-6> with LK or SA1 				     :punish:
 *** Punish HP Shoryuken						     :punish:
     Punish with MP, Karakusa, or MP Fukiage.
 *** Punish EX Shoryuken						     :punish:
     Ken crosses you up (not in corner).
     Punish with reverse HP Fukiage.
-*** Reversal SA1 to punish crMK (-2)                            :punish:@sa1:
+*** Reversal SA1 to punish crMK <-2> 				:punish:@sa1:
     [[https://youtu.be/tGPk6hiEmHg?t=4m25s][Video]]
     If he cancels into SA3, your reversal won't come out and you can punish later.
-*** Punish Shoryureppa (SA1) with HP Fukiage 			 :punish:sa1:
-*** Punish Shinryuken (SA2) with MP or Karakusa 		 :punish:sa2:
+*** Punish (SA1) Shoryureppa with HP Fukiage 			 :punish:sa1:
+*** Punish (SA2) Shinryuken with MP or Karakusa 		 :punish:sa2:
 ** Makoto 							     :makoto:
-*** Punish any Hayate (-12) with HP or Karakusa                      :punish:
+*** Punish any Hayate <-12> with HP or Karakusa 		     :punish:
     Warning: fully charged Hayate and EX Hayate are safe.
-*** Easy Seichusen Godanzuki (SA1) punish (-17) 		  :punis:sa1:
+*** Easy (SA1) Seichusen Godanzuki punish <-17> 		  :punis:sa1:
     HP or Karakusa. To know when to hit, do it a little bit after her arm has retracted.
-*** Punish Abare Tosanami (-20)                                  :punish:sa2:
+*** Punish (SA2) Abare Tosanami <-20> 				 :punish:sa2:
     HP or Karakusa (easy).
     Or jump before the last hit, parry it while in the air (soon after jumping), then HK, HP xx Hayate.
     [[http://ensabahnur.free.fr/BastonV2/videoViewer.php?FLV=SFIII_3rd_Strike_Anniversary_Edition_DVD_Tutorial_Makoto.flv][Video]]
@@ -149,45 +149,45 @@
     HP Fukiage, jump forward cancel LK, reset with EX Fukiage, juggle with crHK. Strict timing for the first Fukiage. Wait for her arm to retract.
     [[https://www.youtube.com/watch?v=txWNv1DsrPY&feature=youtu.be][Video]]
 ** Necro							      :necro:
-*** Punish crHK (-12) with HP Hayate                                 :punish:
+*** Punish crHK <-12> with HP Hayate 				     :punish:
     Warning: it can push you out of Hayate range. Don't punish if you're too far.
     Also timing is very strict, do it as early as possible.
-*** Punish Snake Fang (ankle grab) (-13/-15/-17) with HP Hayate      :punish:
-*** Punish Magnetic Storm (-12) (SA1) 				 :punish:sa1:
+*** Punish Snake Fang (ankle grab) <-13/-15/-17> with HP Hayate      :punish:
+*** Punish (SA1) Magnetic Storm <-12> 				 :punish:sa1:
     In theory you can punish with HP. However, the opponent can keep it going by pressing punch.
     It is too hard to react if he stops in the middle of it.
-*** Punish Electric Snake (-11) (SA3)				 :punish:sa3:
+*** Punish (SA3) Electric Snake <-11> 				 :punish:sa3:
     If close enough, crMP can punish.
 ** Oro									:oro:
-*** Punish Human Pillar Driver (extended arm grab) (-15) with HP Hayate :punish:
+*** Punish Human Pillar Driver (extended arm grab) <-15> with HP Hayate :punish:
     If he's close enough you can even punish with HP. Easier timing, better dammage, better stun if you cancel it.
-*** Dash under Yagyou Dama (Ball, SA2) 					:sa2:
-*** Avoid Yagyou Dama (Ball, SA2) after multi-hit grab          :@wakeup:sa2:
+*** Dash under (SA2) Yagyou Dama 					:sa2:
+*** Avoid (SA2) Yagyou Dama after multi-hit grab 		:@wakeup:sa2:
     Don't quick-roll, parry forward on wakeup, reverse Fukiage.
     [[https://twitter.com/HalreyTV/status/797398019545174016][Video]]
 ** Q									  :q:
-*** Punish HP (-23)                                                  :punish:
+*** Punish HP <-23> 						     :punish:
     Two fists forward.
     You can punish with HP if you're close. Otherwise, do HP Hayate.
-*** Punish HK (-12)                                                  :punish:
+*** Punish HK <-12> 						     :punish:
     If you're close, you can do Reversal HP Hayate. It can be out of range.
-*** Punish crHK (-25) with crMP 				     :punish:
+*** Punish crHK <-25> with crMP 				     :punish:
     Same goes for back+crHK (-26). If you see him falling, punish.
-*** Punish overhead Dashing Head Attack (-10/-11/-12) with crMP      :punish:
-*** Punish low Dashing Leg Attack (-13/-14/-15) with crMP            :punish:
-*** Punish EX Dashing Head Attack (-21) with HP                      :punish:
-*** Punish EX Dashing Leg Attack (-18) with MP                       :punish:
+*** Punish overhead Dashing Head Attack <-10/-11/-12> with crMP      :punish:
+*** Punish low Dashing Leg Attack <-13/-14/-15> with crMP 	     :punish:
+*** Punish EX Dashing Head Attack <-21> with HP 		     :punish:
+*** Punish EX Dashing Leg Attack <-18> with MP 			     :punish:
     This is the dash that goes through the whole screen so you can expect it at that range.
-*** Punish EX High speed barrage (-23) with crMP                     :punish:
+*** Punish EX High speed barrage <-23> with crMP 		     :punish:
 *** In corner, HP xx Hayate (cancelled), Karakusa                     :setup:
     If the HP is guarded:  [[https://youtu.be/GA5-9rN8GSY?t=5m29s][Video]]
     If the HP hits: [[https://youtu.be/GA5-9rN8GSY?t=11m37s][Video]]
-*** Punish Critical Combo Attack (SA1) (-19) with Karakusa       :punish:sa1:
+*** Punish (SA1) Critical Combo Attack <-19> with Karakusa 	 :punish:sa1:
     (And don't forget to crouch for the 4th hit)
     [[https://youtu.be/GA5-9rN8GSY?t=3m19s][Video]]
-*** Punish Deadly Double Combination (SA2) (-25) with HP         :punish:sa2:
+*** Punish (SA2) Deadly Double Combination <-25> with HP 	 :punish:sa2:
     Blockstun is long. You need to hit him a little bit after he retracts his arm.
-*** Punish Total Destruction Far grab (SA3) (-17) with HP Hayate :punish:sa3:
+*** Punish (SA3) Total Destruction Far grab <-17> with HP Hayate :punish:sa3:
 *** EX Hayate to punish full screen taunts                           :punish:
 *** Parry half of EX High speed barrage			       :punish:parry:
     Guard the first 3 hits, then crouch for the 4th (it misses), then blue parry the next 3.
@@ -196,11 +196,11 @@
 ** Remy								       :remy:
 *** Punish crHK						       :punish:parry:
     Blue parry the second hit, then crMP.
-*** Punish crMK (-9)                                                 :punish:
+*** Punish crMK <-9> 						     :punish:
     If you're close, you can use LK (not crLK or LP Hayate won't connect).
     If you're a bit far, you can use crMP.
     But it can still push you out of crMP range.
-*** Punish towardsMK (-7) (weird side stomp) with LK                 :punish:
+*** Punish towardsMK <-7> (weird side stomp) with LK 		     :punish:
     Don't use crLK or LP won't connect.
 *** Dash under high Light of Virtue                                :footsies:
     The recovery is 22 frames, you can often Karakusa before he recovers.
@@ -209,16 +209,16 @@
 *** Meterless punish of guarded HK/EX Rising Rage Flash (flash kick) :punish:
     HP Fukiage. After that you can either go with MP Hayate, crHK (no knockdown), jump cancel HK, jump cancel Tsurugi...
     It only works if Remy is very close to you 
-*** Punish Cold Blue Kick (-4/-4/-6) with SA1                   :punish:@sa1:
+*** Punish Cold Blue Kick <-4/-4/-6> with SA1 			:punish:@sa1:
     EX is safe
-*** Punish SA2 Supreme Rising Rage Flash 			 :punish:sa2:
+*** Punish (SA2) Supreme Rising Rage Flash 			 :punish:sa2:
     [[https://twitter.com/murakamigouki/status/790187068487929856][Video]]
 ** Ryu									:ryu:
-*** Punish Joudan Sokutou Geri (-12/-11/-10/-12) with crMP           :punish:
-*** Punish crHP (-8) 						     :punish:
+*** Punish Joudan Sokutou Geri <-12/-11/-10/-12> with crMP 	     :punish:
+*** Punish crHP <-8> 						     :punish:
     If he's close, you can use LK xx LP Hayate.
     If he's a little further, you can use crMP but the timing is very strict.
-*** Punish Tatsumaki (-12/-8/-11)                                    :punish:
+*** Punish Tatsumaki <-12/-8/-11> 				     :punish:
     Light and Heavy Tatsumakis can be punished with MP or HP.
     For Medium Tatsumaki, try to crouch after the first hit, then you can punish easily with crMP.
     But don't crouch for Heavy Tatsumaki or it will go over you, simply guard and punish.
@@ -227,34 +227,35 @@
 *** Punish EX Shoryuken						     :punish:
     Crosses you up (not in corner).
     Reverse Fukiage. HP Fukiage deals more dammage, but timing is easier with LP Fukiage.
-*** Punish SA3 Denjin Hadouken on wakeup            :punish:@wakeup:@sa1:sa3:
+*** Punish (SA3) Denjin Hadouken on wakeup 	    :punish:@wakeup:@sa1:sa3:
     If Ryu charges it too close, you can reversal SA1
     [[https://youtu.be/yUpr8qOR34c?t=1m56s][Video]]
     If you miss the reversal, only the first hit of the Seichusen hits, and then you get hit (and stunned if fully charged) by the denjin.
-*** Punish Shin Shoryuken (SA2) with HP				 :punish:sa2:
+*** Punish (SA2) Shin Shoryuken with HP 			 :punish:sa2:
 ** Sean								       :sean:
-*** Punish crHP (-9) with crMP                                       :punish:
+*** Punish crHP <-9> with crMP 					     :punish:
     If he's close, you can use LK xx LP Hayate.
     If he's a little further, you can use crMP but the timing is very strict.
-*** Punish towards HP guard or even hit with SA1 		:punish:@sa1:
+*** Punish towards HP on guard or even hit with SA1 		:punish:@sa1:
     Towards HP is -6 on guard, -4 on hit.
-*** Punish Tornado Kick (-7/-6/-6) not EX, with LK                   :punish:
+*** Punish Tornado Kick <-7/-6/-6> not EX, with LK 		     :punish:
     If you crouch under medium or heavy version, it will go over you. You can then punish with MP but remember that he will be on the other side.
     If you crouch under the light version, no cross-up and you can keep punishing with LK.
-*** Punish Tackle (-14 all versions, including EX) with MP           :punish:
+*** Punish Tackle <-14> with MP 				     :punish:
+    All versions, including EX.
     Be cautious, sometimes he can start the tackle without hitting. In that case you won't have time to punish.
 *** crLP against close rolls                                       :footsies:
     It has 7 recovery frames.
-*** Punish Hadou Burst (SA1) (-29)                               :punish:sa1:
+*** Punish (SA1) Hadou Burst <-29> 				 :punish:sa1:
     If you're less than half a screen from him when he launches his super, you can guard and punish with EX Hayate.
     Above that range, you have to start jumping over the fireball during the super freeze. You will still have the time to punish with EX Hayate.
-*** Punish Hyper Tornado (SA3) (-31) with HP                     :punish:sa3:
+*** Punish (SA3) Hyper Tornado <-31> with HP 			 :punish:sa3:
 ** Twelve                                                            :twelve:
-*** Punish crHP (rolling ball) (-8)                                  :punish:
+*** Punish crHP (rolling ball) <-8> 				     :punish:
     In theory, you can do crMP but the timing is very short.
     If you're close, you can do LK or SA1.
-*** Punish crHK (low drill) (-11) with MP                            :punish:
-*** Punish D.R.A (torpedo) (-14/-13/-13) with crMP                   :punish:
+*** Punish crHK (low drill) <-11> with MP 			     :punish:
+*** Punish D.R.A (torpedo) <-14/-13/-13> with crMP 		     :punish:
 *** HP Fukiage beats air A.X.E (multi-hit arm-waving thing)        :footsies:
     Juggle with HP Hayate.
     [[https://youtu.be/7BPhr5TKB7A?t=2m34s][Video]]
@@ -264,22 +265,22 @@
     HP Fukiage can work too [[https://youtu.be/7BPhr5TKB7A?t=4m34s][Video]]
 *** HP Fukiage beats superjump HK                                  :footsies:
     [[https://youtu.be/7BPhr5TKB7A?t=9m29s][Video]]
-*** Punish ground A.X.E (-5/-6/-7/-4) with SA1                  :punish:@sa1:
+*** Punish ground A.X.E <-5/-6/-7/-4> with SA1 			:punish:@sa1:
     [[https://youtu.be/7BPhr5TKB7A?t=11m13s][Video]]
-*** X.N.D.L (SA1) isn't safe (-29). Punish it in corner          :punish:sa1:
-*** Punish X.F.L.A.T (SA2, torpedo) (-24)                        :punish:sa2:
+*** (SA1) X.N.D.L isn't safe <-29>. Punish it in corner 	 :punish:sa1:
+*** Punish (SA2) X.F.L.A.T <-24> 				 :punish:sa2:
     You can use MP or crMP. 
     Warning: sometimes he switches sides, sometimes not. Try to react to that.
 ** Urien							      :urien:
-*** Punish crHP	(-10) 						     :punish:
+*** Punish crHP	<-10> 						     :punish:
     Punish with MP or LK.
-*** Punish towards HP (-6) with LK                                   :punish:
+*** Punish towards HP <-6> with LK 				     :punish:
     Only if he's very close. SA1 works too.
-*** Punish Violence Knee Drop (not EX) (-16/-16/-16) with crMP       :punish:
+*** Punish Violence Knee Drop (not EX) <-16> with crMP 		     :punish:
     EX ends up too far to be punished.
-*** Punish Chariot Rush (-10/-11/-12/-9) with crMP                   :punish:
+*** Punish Chariot Rush <-10/-11/-12/-9> with crMP 		     :punish:
     EX is easier to punish with LK. But don't use LK on other versions or LP Hayate won't connect.
-*** Punish Tyrant Punish (SA1) (-18) with Karakusa 		 :punish:sa1:
+*** Punish (SA1) Tyrant Punish <-18> with Karakusa 		 :punish:sa1:
 *** EX Hayate corner juggle with HP Hayate		       :juggle:combo:
 *** Charge Hayates outside of his range 			   :footsies:
     You can react by cancelling when he does metallic spheres and crHK, and most normals can be whiff-punished by releasing.
@@ -297,20 +298,20 @@
     The first hit of LP Mantis is safe.
     And by spacing the 3 first EX rekkas correctly, Yang can put you out of range for SA1.
     Any other version, or more EX rekkas, can be punished with SA1.
-*** Punish Byakko Soushouda (palm) (-3) with SA1                :punish:@sa1:
+*** Punish Byakko Soushouda (palm) <-3> with SA1 		:punish:@sa1:
     In any corner, the range is enough.
     In the middle, it can push you out of range.
 *** After a few hits of EX Mantis Slash, Kara-Karakusa 		      :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
 ** Yun									:yun:
-*** Punish launch punch Zesshou Hohou (-11), not EX (-2)             :punish:
+*** Punish launch punch Zesshou Hohou <-11>, not EX <-2> 	     :punish:
     HP, MP or LK. EX can only be punished by reversal SA1.
 *** HP Fukiage on Yun's wakeup to beat EX Nishou Kyaku (DP) :footsies:wakeup:
     [[https://youtu.be/ExtdQcWXjfk?t=2m9s][Video]]
-*** Punish You Hou (SA1, -27)                                    :punish:sa1:
+*** Punish (SA1) You Hou <-27> 					 :punish:sa1:
     Guard the two first hit, then jump. You won't be hit by the last punch (no need to parry).
     On the way down you can punish with jump HK, HP xx Hayate.
-*** Punish Sourai Rengeki (SA2) (-18) with HP or Karakusa 	 :punish:sa2:
+*** Punish (SA2) Sourai Rengeki <-18> with HP or Karakusa 	 :punish:sa2:
     It crosses you up on the last hit.
 ** Alex, Chun, Elena, Hugo, Makoto, Oro, Q, Remy, Twelve  :alex:chunli:elena:hugo:makoto:oro:q:remy:twelve:
 *** EX Hayate corner juggle with LP Hayate                     :juggle:combo:
