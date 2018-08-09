@@ -208,6 +208,15 @@ ul#menu li a:hover
   width: 613px;
   padding: 0;}
 
+mark {
+    background-color: #0B192E;
+    color: white;
+    padding: 5px;
+    font-size: 75%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 1000px) {
     #site_content {
 	width: 95%;
