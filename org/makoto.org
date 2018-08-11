@@ -105,6 +105,13 @@
     Depending on where the first hit hits you, Hugo can be close or far.
     If he's very far, don't use HP and go directly for Hayate.
     If he's very close, you can use EX Fukiage to punish (even reversal MP Fukiage in the corner).
+*** Avoid Moonsault Press after Hayate				   :footsies:
+    After Karakusa, delay a little bit the HP (it should still combo).
+    Then, charge a little bit LP Hayate and release (it should still combo).
+    Then, start walking back.
+    This puts you out of range for any Moonsault Press version.
+    Know that (SA1) Gigas Breaker can still catch you.
+    [[https://www.youtube.com/watch?v=po7Gp_0w4ps][Video]]
 *** EX Oroshi beats crMK 					   :footsies:
 *** Avoid dashing under jumping Hugo				   :footsies:
     You can get caught with Moonsault Press or SA1.
@@ -303,6 +310,9 @@
     In the middle, it can push you out of range.
 *** After a few hits of EX Mantis Slash, Kara-Karakusa 		      :setup:
     [[https://youtu.be/66B9x4TFej4?t=58s][Video]]
+*** Max Punish of (SA2) Tenshin Senkyuutai			 :punish:sa2:
+    Guard up. Then, backdash and neutral jump.
+    If you do it fast enough, you can hit him with jumping HK on your way down.
 ** Yun									:yun:
 *** Punish launch punch Zesshou Hohou {-11}, not EX {-2} 	     :punish:
     HP, MP or LK. EX can only be punished by reversal SA1.
@@ -319,9 +329,17 @@
 *** EX Hayate corner juggle with HP                            :juggle:combo:
     You can reset with Kara-Karakusa after.
     [[https://youtu.be/MOCVDPE6dV0?t=9m19s][Video]]
+** Ryu, Ken, Sean, Twelve				:ryu:ken:sean:twelve:
+*** EX Hayate corner juggle with Kara LP Hayate		       :juggle:combo:
+    Kara is done with standing MK.
+    You have to do 2 3 6 5 MK MP quickly. Don't forget to go back to neutral after the quarter circle.
 ** Shotos and Alex and Urien            :akuma:gouki:ken:ryu:sean:alex:urien:
 *** Punish crHK with HP Hayate                                       :punish:
     Also works on whiffed crHK.
+** Akuma, Ken, Ryu					:akuma:gouki:ken:ryu:
+*** Fukiage beats any tatsumaki that crosses you up 		   :footsies:
+    Do the fukiage without standing, with a shortcut (2 3 2 3 P), and towards the original position of your opponent (it will autocorrect if you hit after the crossup).
+    Any version (but EX) works, but know that HP version has more startup and requires stricter timing.    
 ** Shotos					   :akuma:gouki:ken:ryu:sean:
 *** When expecting DP, jump parry rather than down guard 	   :footsies:
 *** HP Fukiage to punish super jump tatsumakis crossup             :footsies:
@@ -379,9 +397,19 @@
     Great against stunned opponent. The HP xx Hayate (not EX) can be hit-confirmed.
     The jump HK can be replaced with jump HP.
 *** EX Hayate corner juggle with towards LK                    :juggle:combo:
+*** Antiair MK Tsurugi juggles				       :juggle:combo:
+    Most of the time, you can juggle with two HP Hayate.
+    Sometimes, the opponent's fall changes direction after the first Hayate. You can still juggle with one more, but you need to input the Hayate in the new direction.
+    After one Hayate in the corner, you can use HP (no knockdown): [[https://www.youtube.com/watch?v=jf5iA-rvvAE&t=0m14s][Video]]
+    Easier, but less dammage: juggle with towards HP.
+    If you juggle with one Hayate after the antiair MK Tsurugi, you can dash and juggle with SA1.
+    [[https://youtu.be/jf5iA-rvvAE?t=10m33s][Video]]
 *** LP antiair, then dash under					:setup:mixup:
     From there, either karakusa or HP or MP.
 *** HP antiair, ex Fukiage if parried                              :footsies:
+*** Whiff LK on opponent's wakeup 			       :setup:wakeup:
+    Stand right next to your grounded opponent and whiff LK.
+    This leaves in the right range to Karakusa (or meaty normals), but out of range for their throw when they wakeup.
 *** Kara-Karakusa after forward MP (guarded or not) 		      :setup:
 *** Kara-Karakusa after back grab, backward dash                      :setup:
 *** Kara-Karakusa after meaty guarded MP, MP 			      :setup:
@@ -393,6 +421,14 @@
     [[https://www.youtube.com/watch?v=ZWzrZdb69OA][Video]]
 *** In corner, guarded crMP, then Kara-Karakusa 		      :setup:
     You have to be against the opponent when doing crMP.
+*** Kara-Karakusa after MP, cr MP 				      :setup:
+    Works with the HK version of Karakusa (Kara is still done with LK).
+    Works wether or not the opponent guarded the two first hits.
+*** Kara-Karakusa after MP, HP xx Hayate cancelled		      :setup:
+    Works with the HK version of Karakusa (Kara is still done with LK).
+    Works wether or not the opponent guarded the two first hits.
+*** Kara-Karakusa after guarded EX Hayate			      :setup:
+    Works with the HK version of Karakusa (Kara is still done with LK).
 *** Cross-up setups						      :setup:
     Any Kara-Karakusa setup is a cross-up setup. Use jump MK (no super jump).
     You can followup with LK, LP Hayate.
@@ -431,4 +467,5 @@
     Don't push any button and you won't have a hitbox during a short time.
 *** Invincibility after SA3 activation                                 :@sa3:
     Don't push any button and you won't have a hitbox during a short time.
+*** HP xx SA3, crMP xx HP Hayate 				 :combo:@sa3:
 *** Taunt xx SA1                                             :other:@sa1:combo:

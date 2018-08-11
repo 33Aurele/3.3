@@ -177,6 +177,10 @@
 *** Punish (SA1) Tyrant Punish {-18} with HP 			 :punish:sa1:
 ** Yang								       :yang:
 *** Punish last hit of HP Mantis with crMK or HP 		     :punish:
+*** Max Punish of (SA2) Tenshin Senkyuutai			 :punish:sa2:
+    Guard up. Then, backdash and neutral jump.
+    If you do it fast enough, you can hit him with jumping HK on your way down.
+    [[https://twitter.com/murakamigouki/status/1027141646889013248?s=24][Video]]
 ** Yun									:yun:
 *** Punish Zesshou Hohou {-11} 					     :punish:
     with HP Shoryuken or MP Shoryuken (to juggle with SA1).

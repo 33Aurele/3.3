@@ -5,9 +5,8 @@
 /* subtitles : #9B8828 */
 /* beige (body background) : f6f3ef */
 /* grey (page selection) : #c5c5c5 */
-/* black (text color : #1d1d1d */
-
-
+/* black (text color) : #1d1d1d */
+/* dark blue-grey (mark) : #0B192E */
 
 
 html
@@ -215,6 +214,7 @@ mark {
     font-size: 75%;
     border-radius: 10px;
     font-weight: bold;
+    vertical-align: top;
 }
 
 @media screen and (max-width: 1000px) {
